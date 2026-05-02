@@ -1,0 +1,851 @@
+appointment_id,listing_id,client_id,agent_employee_id,appointment_datetime,appointment_type,outcome
+1,909,183,61,2023-10-19 12:00:00,showing,completed
+2,401,939,13,2023-07-03 17:00:00,showing,completed
+3,430,717,21,2022-10-23 14:30:00,showing,follow-up needed
+4,574,646,14,2021-03-21 10:00:00,follow-up,completed
+5,763,928,29,2021-08-14 10:00:00,consultation,completed
+6,509,926,39,2023-09-30 11:00:00,showing,completed
+7,361,227,41,2021-07-28 10:30:00,showing,completed
+8,124,109,31,2023-01-20 13:00:00,showing,follow-up needed
+9,487,15,16,2023-11-19 16:30:00,showing,cancelled
+10,784,504,40,2022-11-12 17:00:00,showing,completed
+11,813,721,37,2024-01-20 10:00:00,showing,completed
+12,564,998,44,2022-04-20 11:30:00,consultation,follow-up needed
+13,429,638,54,2024-10-11 11:00:00,showing,cancelled
+14,821,243,3,2024-05-19 10:00:00,follow-up,cancelled
+15,671,439,13,2024-04-04 10:30:00,showing,cancelled
+16,416,293,17,2022-08-11 13:00:00,showing,follow-up needed
+17,755,592,67,2022-09-27 17:00:00,showing,completed
+18,193,531,59,2024-11-19 10:30:00,showing,completed
+19,894,679,64,2024-02-20 15:00:00,follow-up,completed
+20,51,841,18,2022-08-29 14:30:00,showing,follow-up needed
+21,947,716,59,2024-09-17 14:30:00,showing,completed
+22,700,504,2,2024-11-24 13:30:00,showing,completed
+23,82,481,57,2023-03-03 11:00:00,showing,completed
+24,171,984,23,2023-05-20 10:30:00,showing,follow-up needed
+25,353,797,60,2021-05-11 15:30:00,showing,completed
+26,106,177,51,2021-10-19 16:30:00,showing,follow-up needed
+27,535,320,41,2024-05-24 14:30:00,showing,follow-up needed
+28,181,912,24,2022-03-26 13:00:00,showing,follow-up needed
+29,409,784,1,2023-11-29 10:30:00,showing,cancelled
+30,108,797,65,2023-07-04 13:30:00,showing,follow-up needed
+31,381,523,9,2024-08-05 17:30:00,showing,completed
+32,264,524,25,2024-11-07 16:30:00,showing,follow-up needed
+33,834,789,48,2022-01-07 11:30:00,consultation,completed
+34,819,530,43,2021-05-20 11:00:00,showing,completed
+35,940,184,8,2021-12-14 17:00:00,follow-up,follow-up needed
+36,84,851,27,2021-05-22 10:30:00,showing,completed
+37,603,379,18,2023-08-22 16:30:00,follow-up,follow-up needed
+38,510,721,62,2024-06-22 14:30:00,showing,completed
+39,76,716,20,2023-05-07 10:00:00,showing,completed
+40,11,82,45,2022-10-14 10:30:00,showing,completed
+41,81,368,29,2023-02-06 17:30:00,showing,completed
+42,532,662,54,2022-03-05 14:00:00,showing,completed
+43,342,420,25,2023-09-07 14:00:00,consultation,completed
+44,941,240,62,2022-10-14 11:30:00,showing,completed
+45,507,14,58,2021-09-19 10:30:00,follow-up,follow-up needed
+46,21,906,18,2024-04-30 11:30:00,showing,follow-up needed
+47,606,838,53,2024-09-18 10:30:00,showing,follow-up needed
+48,896,659,69,2023-03-23 10:30:00,showing,completed
+49,293,699,25,2022-07-31 17:30:00,showing,completed
+50,845,760,37,2024-11-01 17:00:00,showing,follow-up needed
+51,863,30,64,2024-02-23 11:00:00,follow-up,completed
+52,791,184,11,2022-01-29 17:00:00,showing,completed
+53,78,400,6,2023-01-13 16:30:00,showing,cancelled
+54,908,133,1,2023-12-15 16:30:00,showing,follow-up needed
+55,394,123,27,2024-07-08 12:00:00,showing,completed
+56,265,445,44,2021-10-06 14:00:00,showing,completed
+57,342,983,25,2023-02-16 17:30:00,showing,follow-up needed
+58,493,553,15,2021-07-10 13:00:00,showing,completed
+59,127,379,36,2022-01-08 16:00:00,consultation,completed
+60,292,754,40,2022-02-01 14:00:00,consultation,completed
+61,881,292,27,2023-08-16 17:00:00,showing,follow-up needed
+62,436,749,17,2022-07-13 14:00:00,consultation,completed
+63,546,766,20,2024-04-17 12:00:00,showing,follow-up needed
+64,813,259,37,2023-09-09 17:00:00,showing,completed
+65,717,440,44,2021-05-09 17:00:00,consultation,cancelled
+66,612,671,29,2022-05-17 11:30:00,consultation,follow-up needed
+67,833,422,56,2021-07-18 12:00:00,showing,follow-up needed
+68,428,775,53,2024-01-20 14:00:00,showing,completed
+69,382,490,58,2021-08-26 11:00:00,showing,follow-up needed
+70,139,151,29,2023-01-12 17:00:00,follow-up,completed
+71,686,388,36,2022-10-29 11:30:00,showing,follow-up needed
+72,881,983,27,2023-08-08 14:00:00,showing,completed
+73,876,230,41,2022-05-17 16:30:00,showing,follow-up needed
+74,111,226,40,2022-08-05 12:00:00,follow-up,follow-up needed
+75,689,472,4,2024-02-22 17:30:00,showing,follow-up needed
+76,942,511,41,2024-02-09 13:30:00,showing,follow-up needed
+77,609,900,41,2022-06-20 15:30:00,showing,completed
+78,990,613,25,2024-10-12 12:00:00,showing,completed
+79,730,661,49,2025-03-11 14:00:00,consultation,follow-up needed
+80,947,117,59,2024-10-07 17:30:00,showing,follow-up needed
+81,466,553,56,2021-12-21 11:00:00,showing,follow-up needed
+82,182,951,58,2022-09-02 16:00:00,follow-up,follow-up needed
+83,542,351,14,2021-05-02 16:00:00,showing,cancelled
+84,869,118,15,2021-08-31 11:00:00,consultation,completed
+85,985,761,66,2021-09-27 17:30:00,consultation,follow-up needed
+86,290,718,12,2023-10-25 16:00:00,showing,follow-up needed
+87,192,385,33,2024-08-27 16:30:00,consultation,cancelled
+88,453,943,10,2023-01-18 10:30:00,showing,follow-up needed
+89,151,625,29,2023-10-23 15:00:00,showing,completed
+90,765,240,48,2023-06-02 14:00:00,follow-up,cancelled
+91,862,923,32,2023-04-23 16:00:00,follow-up,completed
+92,277,914,29,2024-04-20 16:00:00,showing,follow-up needed
+93,582,880,65,2024-07-21 13:00:00,showing,follow-up needed
+94,783,739,26,2022-01-21 14:00:00,follow-up,follow-up needed
+95,448,54,28,2023-09-08 16:30:00,showing,cancelled
+96,795,919,47,2021-12-25 17:30:00,follow-up,completed
+97,984,200,7,2022-12-09 14:00:00,showing,completed
+98,936,417,32,2021-06-25 16:30:00,showing,follow-up needed
+99,337,691,35,2022-06-18 16:30:00,follow-up,follow-up needed
+100,514,705,49,2021-11-29 13:30:00,showing,follow-up needed
+101,916,149,13,2024-03-10 16:00:00,showing,cancelled
+102,778,711,56,2024-09-13 17:30:00,showing,follow-up needed
+103,658,824,71,2022-09-01 11:30:00,follow-up,follow-up needed
+104,172,830,60,2023-03-17 12:30:00,follow-up,follow-up needed
+105,859,326,4,2023-03-23 16:00:00,showing,follow-up needed
+106,323,968,45,2021-10-25 15:00:00,showing,completed
+107,816,782,24,2021-10-05 16:30:00,showing,cancelled
+108,601,303,3,2023-03-08 12:00:00,showing,completed
+109,550,556,65,2024-01-02 13:30:00,showing,follow-up needed
+110,565,601,51,2021-12-21 16:00:00,follow-up,completed
+111,527,271,26,2021-07-29 10:30:00,showing,completed
+112,487,377,16,2023-10-09 14:30:00,showing,completed
+113,123,817,55,2023-11-07 12:30:00,follow-up,completed
+114,361,313,41,2021-09-04 11:30:00,showing,completed
+115,108,722,65,2023-06-14 11:00:00,showing,completed
+116,274,721,52,2024-03-11 11:00:00,showing,follow-up needed
+117,33,723,26,2024-08-28 13:30:00,showing,completed
+118,458,358,1,2023-01-13 12:00:00,showing,cancelled
+119,158,902,3,2023-04-20 11:00:00,showing,completed
+120,661,943,43,2024-05-13 17:30:00,showing,cancelled
+121,629,242,50,2021-05-28 15:00:00,showing,completed
+122,753,373,68,2023-07-15 10:30:00,showing,completed
+123,831,285,59,2024-02-07 11:30:00,showing,completed
+124,244,884,62,2024-09-22 10:00:00,showing,completed
+125,600,710,69,2021-05-30 14:30:00,showing,completed
+126,112,878,13,2022-01-11 12:30:00,showing,follow-up needed
+127,94,504,62,2022-10-23 11:30:00,consultation,follow-up needed
+128,721,845,49,2021-03-07 10:00:00,follow-up,follow-up needed
+129,491,417,52,2023-06-07 14:00:00,consultation,cancelled
+130,436,698,17,2022-09-24 16:30:00,showing,completed
+131,457,231,31,2022-11-05 17:30:00,showing,follow-up needed
+132,123,524,55,2023-10-18 12:30:00,showing,follow-up needed
+133,596,944,11,2021-11-08 10:00:00,showing,completed
+134,77,709,57,2024-12-20 17:00:00,showing,completed
+135,653,123,4,2022-05-22 14:00:00,showing,follow-up needed
+136,383,369,24,2024-02-22 14:30:00,follow-up,follow-up needed
+137,760,861,1,2022-05-20 11:00:00,showing,follow-up needed
+138,215,191,37,2022-01-09 12:30:00,showing,completed
+139,213,330,41,2021-07-19 16:30:00,consultation,completed
+140,203,622,63,2023-04-30 16:00:00,showing,completed
+141,919,71,36,2023-11-29 16:30:00,consultation,completed
+142,334,318,23,2021-05-17 16:30:00,showing,cancelled
+143,204,929,37,2023-07-22 15:30:00,consultation,follow-up needed
+144,467,133,48,2022-02-05 14:30:00,showing,completed
+145,468,875,34,2024-02-06 11:00:00,showing,completed
+146,419,227,20,2023-08-07 12:00:00,consultation,completed
+147,195,835,25,2025-01-09 17:30:00,showing,follow-up needed
+148,700,615,2,2024-12-12 16:00:00,showing,follow-up needed
+149,203,622,63,2023-01-31 11:00:00,consultation,follow-up needed
+150,162,264,7,2021-10-12 11:30:00,showing,completed
+151,621,939,50,2022-12-27 13:30:00,follow-up,completed
+152,890,783,28,2023-07-02 16:30:00,showing,completed
+153,977,164,72,2024-05-18 16:00:00,showing,follow-up needed
+154,607,293,2,2024-07-20 14:30:00,showing,completed
+155,33,714,26,2024-08-16 10:30:00,follow-up,follow-up needed
+156,537,671,4,2023-06-18 10:00:00,showing,completed
+157,202,123,16,2022-05-08 14:00:00,showing,completed
+158,173,355,57,2024-11-26 14:00:00,follow-up,completed
+159,326,583,16,2022-05-03 14:30:00,showing,completed
+160,613,796,38,2022-11-13 14:30:00,showing,completed
+161,932,929,2,2023-09-22 17:30:00,showing,follow-up needed
+162,685,366,41,2023-03-08 15:30:00,showing,follow-up needed
+163,986,65,65,2024-03-24 12:00:00,showing,cancelled
+164,651,223,48,2023-10-02 15:30:00,showing,completed
+165,387,774,50,2023-09-05 17:30:00,showing,completed
+166,955,699,44,2021-08-24 10:30:00,consultation,follow-up needed
+167,785,606,65,2023-07-09 15:00:00,showing,completed
+168,597,959,6,2023-11-22 10:30:00,follow-up,cancelled
+169,677,50,56,2023-07-19 13:30:00,follow-up,follow-up needed
+170,797,675,35,2024-04-07 16:30:00,showing,completed
+171,295,726,18,2023-08-04 12:30:00,showing,follow-up needed
+172,753,723,68,2023-09-26 14:00:00,showing,follow-up needed
+173,666,838,32,2021-11-01 16:30:00,showing,completed
+174,457,318,31,2023-03-31 15:00:00,showing,completed
+175,53,35,51,2022-01-07 10:30:00,showing,completed
+176,86,638,22,2023-08-05 12:00:00,showing,completed
+177,441,754,63,2022-07-22 12:30:00,showing,follow-up needed
+178,291,574,25,2023-09-24 17:30:00,showing,cancelled
+179,903,388,59,2022-03-25 17:30:00,follow-up,follow-up needed
+180,551,225,39,2021-05-07 12:30:00,showing,completed
+181,853,437,47,2023-11-29 11:30:00,consultation,follow-up needed
+182,340,495,62,2021-09-03 11:00:00,consultation,completed
+183,674,876,72,2023-05-02 14:00:00,showing,cancelled
+184,279,625,19,2022-08-20 15:30:00,consultation,completed
+185,97,718,50,2023-07-17 16:00:00,showing,follow-up needed
+186,531,840,18,2023-08-16 10:00:00,showing,completed
+187,789,40,70,2024-03-20 16:30:00,showing,completed
+188,11,743,45,2023-04-06 12:00:00,showing,completed
+189,279,336,19,2022-05-27 12:30:00,showing,completed
+190,693,758,16,2023-08-16 10:30:00,showing,cancelled
+191,380,775,55,2022-04-18 12:30:00,showing,completed
+192,144,375,30,2024-06-14 12:30:00,showing,completed
+193,542,545,14,2021-07-15 12:00:00,showing,completed
+194,775,559,31,2024-06-02 10:00:00,showing,completed
+195,943,886,57,2021-07-08 14:00:00,follow-up,completed
+196,877,798,29,2022-08-01 15:00:00,showing,completed
+197,857,606,63,2022-11-24 15:30:00,consultation,completed
+198,20,721,69,2023-07-23 10:30:00,showing,completed
+199,232,394,1,2022-01-15 15:00:00,showing,follow-up needed
+200,478,904,25,2023-09-29 14:00:00,showing,follow-up needed
+201,705,282,5,2024-06-21 12:00:00,showing,completed
+202,94,7,62,2023-01-15 13:30:00,showing,cancelled
+203,577,296,25,2021-12-12 15:30:00,showing,completed
+204,692,643,67,2024-05-14 10:30:00,showing,follow-up needed
+205,834,216,48,2022-03-18 14:30:00,showing,cancelled
+206,863,745,64,2024-03-02 17:30:00,showing,completed
+207,962,915,48,2024-05-13 13:00:00,showing,follow-up needed
+208,765,271,48,2023-05-30 12:00:00,follow-up,completed
+209,916,657,13,2024-01-10 17:30:00,showing,completed
+210,8,322,26,2021-06-18 17:00:00,follow-up,completed
+211,362,741,36,2023-01-25 17:30:00,showing,follow-up needed
+212,5,632,46,2022-05-07 13:30:00,follow-up,completed
+213,394,946,27,2024-09-18 12:30:00,follow-up,completed
+214,382,188,58,2021-12-14 10:00:00,showing,completed
+215,529,925,55,2022-08-28 16:00:00,follow-up,cancelled
+216,558,608,59,2023-07-22 17:30:00,showing,follow-up needed
+217,545,741,19,2021-08-09 10:00:00,showing,follow-up needed
+218,969,525,65,2024-04-02 16:00:00,showing,completed
+219,192,811,33,2024-10-03 14:30:00,showing,follow-up needed
+220,755,531,67,2022-10-30 13:00:00,showing,cancelled
+221,166,544,19,2024-08-29 13:30:00,showing,follow-up needed
+222,452,455,28,2024-10-20 12:30:00,showing,completed
+223,770,227,61,2024-10-14 13:30:00,showing,follow-up needed
+224,724,981,30,2021-12-15 14:00:00,showing,completed
+225,524,990,40,2024-06-20 11:00:00,follow-up,follow-up needed
+226,631,139,34,2024-10-17 17:30:00,showing,follow-up needed
+227,541,508,67,2021-09-19 14:00:00,showing,completed
+228,258,75,47,2022-12-29 15:00:00,showing,cancelled
+229,21,677,18,2024-05-05 14:30:00,consultation,completed
+230,399,621,23,2024-02-11 14:30:00,showing,completed
+231,594,139,31,2022-11-22 10:00:00,showing,completed
+232,5,1000,46,2022-06-03 15:00:00,showing,cancelled
+233,730,831,49,2025-03-02 13:30:00,consultation,completed
+234,935,610,69,2024-08-20 11:00:00,showing,completed
+235,431,993,5,2021-05-25 15:00:00,showing,follow-up needed
+236,588,845,21,2023-05-24 11:00:00,consultation,completed
+237,565,774,51,2022-01-10 17:30:00,showing,completed
+238,329,96,21,2021-11-10 16:30:00,showing,completed
+239,776,13,46,2023-05-25 12:00:00,consultation,follow-up needed
+240,236,584,15,2023-08-19 15:30:00,showing,follow-up needed
+241,266,320,69,2023-10-26 12:30:00,consultation,follow-up needed
+242,861,122,15,2022-09-15 14:30:00,follow-up,completed
+243,244,867,62,2024-08-03 14:30:00,showing,follow-up needed
+244,693,886,16,2023-08-02 10:00:00,consultation,follow-up needed
+245,789,120,70,2023-11-28 16:30:00,showing,cancelled
+246,122,646,35,2021-03-07 14:00:00,showing,completed
+247,613,575,38,2022-10-29 13:30:00,showing,completed
+248,637,303,23,2024-05-05 13:00:00,showing,cancelled
+249,717,255,44,2021-06-06 11:00:00,showing,completed
+250,589,708,67,2021-07-29 17:00:00,showing,completed
+251,936,665,32,2021-08-12 12:00:00,follow-up,completed
+252,97,481,50,2023-06-23 10:00:00,showing,follow-up needed
+253,408,460,34,2022-04-19 12:00:00,showing,follow-up needed
+254,88,635,26,2024-05-27 11:00:00,showing,follow-up needed
+255,913,981,57,2021-08-10 13:00:00,showing,follow-up needed
+256,243,492,44,2022-12-13 10:00:00,follow-up,cancelled
+257,409,953,1,2023-08-28 16:30:00,showing,cancelled
+258,115,326,28,2023-12-04 16:00:00,showing,completed
+259,33,321,26,2024-08-25 10:30:00,follow-up,completed
+260,835,577,61,2022-06-15 11:00:00,showing,follow-up needed
+261,753,662,68,2023-07-25 11:30:00,showing,completed
+262,396,789,64,2022-10-24 15:30:00,consultation,follow-up needed
+263,643,646,15,2024-06-27 14:00:00,showing,follow-up needed
+264,424,149,3,2022-08-26 14:30:00,showing,completed
+265,217,874,66,2021-11-05 13:00:00,showing,cancelled
+266,172,572,60,2023-03-03 10:30:00,showing,completed
+267,798,613,26,2024-01-08 16:00:00,follow-up,completed
+268,924,591,30,2022-10-04 15:30:00,consultation,completed
+269,759,540,2,2022-01-14 15:00:00,follow-up,cancelled
+270,702,176,24,2024-11-24 10:00:00,showing,completed
+271,129,221,3,2022-01-21 17:30:00,follow-up,follow-up needed
+272,407,183,1,2024-10-16 10:30:00,showing,cancelled
+273,228,909,63,2021-05-24 15:30:00,showing,follow-up needed
+274,36,177,59,2024-07-07 11:30:00,follow-up,follow-up needed
+275,677,82,56,2023-06-22 10:30:00,follow-up,follow-up needed
+276,274,268,52,2024-01-26 16:30:00,showing,follow-up needed
+277,405,657,26,2023-09-10 11:00:00,consultation,follow-up needed
+278,513,942,47,2022-06-17 16:30:00,showing,completed
+279,950,769,69,2023-01-27 11:00:00,showing,cancelled
+280,985,110,66,2021-11-15 14:00:00,showing,completed
+281,319,932,64,2024-03-26 15:00:00,showing,completed
+282,626,819,34,2024-08-25 14:30:00,showing,completed
+283,533,492,60,2022-10-27 10:30:00,follow-up,follow-up needed
+284,46,221,6,2022-03-07 13:30:00,showing,follow-up needed
+285,449,751,41,2023-10-08 13:30:00,consultation,completed
+286,53,684,51,2022-01-21 12:30:00,showing,cancelled
+287,308,288,6,2023-01-10 16:00:00,showing,follow-up needed
+288,694,635,12,2024-01-24 17:00:00,showing,completed
+289,950,48,69,2023-03-20 13:30:00,follow-up,completed
+290,969,311,65,2024-03-23 11:30:00,consultation,completed
+291,765,573,48,2023-09-12 17:00:00,showing,completed
+292,913,714,57,2021-08-03 10:30:00,showing,completed
+293,938,845,35,2023-08-16 16:00:00,showing,completed
+294,313,639,19,2022-03-17 17:00:00,showing,completed
+295,359,388,64,2024-04-08 17:30:00,follow-up,completed
+296,900,840,3,2025-02-20 13:00:00,showing,cancelled
+297,655,953,28,2024-02-14 11:00:00,showing,completed
+298,627,220,44,2024-05-11 15:30:00,showing,follow-up needed
+299,426,707,34,2021-12-19 12:30:00,showing,completed
+300,774,593,61,2023-04-10 14:00:00,showing,follow-up needed
+301,188,978,69,2022-11-22 10:30:00,showing,completed
+302,495,906,52,2024-01-08 11:30:00,showing,completed
+303,646,605,46,2022-07-15 15:30:00,showing,follow-up needed
+304,73,893,65,2025-03-14 17:30:00,showing,completed
+305,428,610,53,2024-04-03 14:00:00,follow-up,completed
+306,533,486,60,2022-10-16 17:30:00,showing,completed
+307,22,154,51,2023-03-20 12:00:00,showing,completed
+308,355,408,65,2024-10-29 12:30:00,showing,follow-up needed
+309,764,438,37,2021-11-24 16:00:00,follow-up,follow-up needed
+310,416,491,17,2022-07-27 14:00:00,showing,completed
+311,709,349,29,2024-02-23 12:30:00,showing,completed
+312,404,317,28,2021-06-26 11:30:00,consultation,completed
+313,709,176,29,2024-03-01 14:30:00,follow-up,completed
+314,267,672,71,2021-06-27 12:00:00,showing,cancelled
+315,562,528,65,2021-12-27 15:30:00,showing,follow-up needed
+316,487,67,16,2023-11-03 17:00:00,follow-up,completed
+317,360,177,71,2021-02-25 16:00:00,showing,completed
+318,798,652,26,2023-07-01 12:00:00,showing,completed
+319,936,116,32,2021-06-15 17:00:00,consultation,completed
+320,931,380,26,2022-09-16 10:00:00,showing,follow-up needed
+321,422,196,25,2024-11-22 16:00:00,showing,completed
+322,368,498,34,2023-07-23 16:30:00,showing,completed
+323,855,284,34,2021-06-17 17:00:00,showing,completed
+324,430,574,21,2023-01-02 12:30:00,follow-up,follow-up needed
+325,933,303,47,2024-01-12 12:00:00,follow-up,completed
+326,628,116,55,2025-01-20 15:30:00,consultation,completed
+327,721,207,49,2021-02-15 10:00:00,showing,completed
+328,126,186,18,2021-10-12 12:00:00,showing,completed
+329,729,798,5,2024-07-26 17:00:00,showing,follow-up needed
+330,856,899,56,2022-07-18 12:30:00,showing,follow-up needed
+331,440,993,40,2022-08-05 16:30:00,showing,completed
+332,714,90,65,2024-04-25 17:00:00,showing,cancelled
+333,965,86,53,2023-08-09 15:00:00,showing,completed
+334,859,460,4,2023-07-17 11:30:00,showing,completed
+335,992,633,10,2024-08-01 12:30:00,consultation,completed
+336,610,31,51,2022-07-06 11:30:00,showing,follow-up needed
+337,515,751,70,2023-01-07 16:00:00,showing,follow-up needed
+338,339,231,72,2021-06-23 15:00:00,consultation,follow-up needed
+339,651,936,48,2023-09-17 10:00:00,showing,cancelled
+340,480,346,59,2022-11-05 10:00:00,showing,cancelled
+341,675,302,14,2022-09-26 11:30:00,showing,completed
+342,740,284,4,2022-02-08 15:00:00,follow-up,completed
+343,907,345,43,2023-08-19 17:30:00,follow-up,follow-up needed
+344,31,309,27,2023-12-24 11:30:00,showing,completed
+345,88,520,26,2024-09-07 15:30:00,showing,follow-up needed
+346,370,278,2,2022-07-10 12:30:00,showing,cancelled
+347,142,188,9,2024-08-14 13:30:00,showing,follow-up needed
+348,69,395,22,2021-11-12 12:30:00,consultation,cancelled
+349,857,379,63,2023-02-14 17:00:00,showing,completed
+350,48,900,5,2023-06-06 11:00:00,showing,follow-up needed
+351,66,873,2,2021-05-10 13:30:00,consultation,follow-up needed
+352,843,181,64,2024-12-21 11:00:00,showing,completed
+353,549,254,32,2022-02-14 10:30:00,showing,completed
+354,888,393,63,2022-10-18 10:00:00,showing,follow-up needed
+355,235,278,21,2021-08-24 16:00:00,showing,follow-up needed
+356,83,740,9,2021-09-29 11:30:00,showing,completed
+357,657,649,10,2025-03-05 13:30:00,showing,completed
+358,715,736,34,2023-07-05 14:00:00,showing,follow-up needed
+359,693,279,16,2023-08-15 12:30:00,showing,follow-up needed
+360,359,990,64,2024-05-10 10:30:00,consultation,completed
+361,759,873,2,2021-12-05 16:00:00,consultation,cancelled
+362,677,997,56,2023-10-25 17:00:00,consultation,completed
+363,303,313,14,2021-10-08 13:30:00,showing,completed
+364,526,718,72,2023-05-14 13:30:00,showing,follow-up needed
+365,254,693,35,2021-09-17 15:00:00,consultation,follow-up needed
+366,688,625,19,2021-11-12 14:30:00,showing,completed
+367,169,271,56,2021-10-13 10:30:00,showing,completed
+368,37,885,59,2021-06-26 10:30:00,showing,completed
+369,613,286,38,2022-10-24 14:00:00,showing,cancelled
+370,74,717,16,2021-05-16 15:30:00,showing,cancelled
+371,991,872,58,2023-08-17 15:30:00,follow-up,completed
+372,426,54,34,2021-09-23 15:30:00,follow-up,completed
+373,811,14,22,2024-09-03 13:00:00,follow-up,completed
+374,483,853,36,2023-04-20 10:30:00,showing,completed
+375,846,279,34,2025-03-21 11:00:00,consultation,cancelled
+376,848,575,13,2024-04-30 14:00:00,showing,follow-up needed
+377,855,773,34,2021-09-19 11:00:00,showing,completed
+378,184,191,5,2021-07-20 11:00:00,showing,cancelled
+379,808,483,34,2022-04-02 16:00:00,showing,completed
+380,48,284,5,2023-06-03 10:00:00,follow-up,follow-up needed
+381,982,75,47,2024-03-10 14:30:00,showing,completed
+382,2,463,66,2024-05-18 10:00:00,follow-up,follow-up needed
+383,609,811,41,2022-06-19 10:30:00,follow-up,completed
+384,153,999,40,2021-06-14 15:00:00,consultation,follow-up needed
+385,15,622,11,2024-03-24 14:00:00,showing,completed
+386,226,591,51,2021-02-14 10:00:00,showing,completed
+387,182,355,58,2022-06-15 12:30:00,follow-up,follow-up needed
+388,706,803,31,2025-01-27 15:00:00,follow-up,follow-up needed
+389,101,570,8,2023-10-19 12:30:00,showing,completed
+390,806,517,18,2025-02-02 11:30:00,follow-up,completed
+391,344,176,14,2023-01-23 15:00:00,showing,completed
+392,610,987,51,2022-06-02 15:30:00,showing,cancelled
+393,916,21,13,2023-11-04 15:00:00,showing,completed
+394,292,72,40,2022-02-10 14:00:00,follow-up,follow-up needed
+395,9,386,25,2022-11-26 11:30:00,consultation,cancelled
+396,590,999,8,2024-03-29 12:30:00,follow-up,follow-up needed
+397,771,247,28,2021-06-27 10:30:00,showing,follow-up needed
+398,912,147,51,2025-03-29 15:00:00,showing,follow-up needed
+399,779,609,33,2024-05-22 11:00:00,showing,completed
+400,317,31,53,2023-12-30 16:30:00,showing,completed
+401,523,388,6,2022-12-30 13:30:00,showing,follow-up needed
+402,865,673,10,2023-12-20 13:00:00,follow-up,follow-up needed
+403,363,141,59,2022-12-30 14:30:00,showing,follow-up needed
+404,23,909,69,2022-03-11 10:00:00,showing,follow-up needed
+405,172,749,60,2023-03-02 10:30:00,showing,completed
+406,128,139,61,2022-08-02 11:30:00,follow-up,follow-up needed
+407,549,150,32,2022-03-03 11:00:00,showing,follow-up needed
+408,467,232,48,2021-08-03 15:00:00,showing,follow-up needed
+409,926,362,52,2023-02-04 15:30:00,showing,completed
+410,905,799,60,2021-05-29 15:30:00,showing,completed
+411,49,315,42,2021-10-19 10:30:00,consultation,completed
+412,958,500,27,2024-03-01 11:00:00,showing,completed
+413,956,508,25,2022-06-23 16:30:00,showing,follow-up needed
+414,24,101,58,2024-02-24 10:00:00,showing,completed
+415,176,111,24,2022-01-20 16:00:00,showing,completed
+416,976,676,20,2021-08-06 16:30:00,follow-up,completed
+417,838,629,52,2023-06-01 14:00:00,showing,follow-up needed
+418,939,427,9,2021-09-19 17:30:00,showing,follow-up needed
+419,729,783,5,2024-07-29 13:00:00,showing,follow-up needed
+420,165,232,2,2022-04-26 14:30:00,showing,completed
+421,46,288,6,2022-01-01 15:00:00,showing,follow-up needed
+422,593,904,71,2021-06-27 10:30:00,follow-up,completed
+423,64,101,51,2024-11-14 17:30:00,follow-up,cancelled
+424,515,868,70,2022-11-20 15:30:00,follow-up,follow-up needed
+425,671,48,13,2024-05-03 13:00:00,showing,follow-up needed
+426,264,794,25,2025-01-03 15:00:00,showing,completed
+427,172,357,60,2023-03-03 17:00:00,showing,follow-up needed
+428,614,990,35,2023-01-02 15:30:00,follow-up,follow-up needed
+429,325,165,54,2024-05-01 16:00:00,follow-up,follow-up needed
+430,924,745,30,2022-11-22 11:30:00,showing,completed
+431,734,360,40,2025-01-27 14:00:00,showing,completed
+432,176,718,24,2021-10-01 10:00:00,showing,completed
+433,86,748,22,2023-08-04 12:00:00,follow-up,follow-up needed
+434,428,21,53,2023-12-28 14:30:00,showing,follow-up needed
+435,993,462,56,2024-04-04 11:00:00,showing,follow-up needed
+436,971,757,61,2023-10-18 10:30:00,showing,completed
+437,279,398,19,2022-12-08 15:00:00,follow-up,completed
+438,607,91,2,2024-05-24 16:30:00,showing,completed
+439,412,129,72,2024-05-28 10:00:00,showing,follow-up needed
+440,881,754,27,2023-09-22 11:30:00,showing,follow-up needed
+441,441,252,63,2022-09-04 17:00:00,showing,completed
+442,190,309,18,2022-04-04 10:30:00,showing,follow-up needed
+443,468,71,34,2024-01-19 17:30:00,showing,completed
+444,989,512,21,2024-07-21 17:30:00,showing,completed
+445,979,830,9,2022-10-29 12:00:00,consultation,completed
+446,904,368,42,2022-09-03 16:30:00,showing,completed
+447,228,749,63,2021-07-20 16:00:00,showing,cancelled
+448,1,462,67,2021-11-02 13:30:00,showing,completed
+449,481,134,29,2023-12-17 10:00:00,showing,completed
+450,336,952,65,2022-08-14 15:30:00,follow-up,follow-up needed
+451,672,280,22,2021-04-20 12:00:00,showing,completed
+452,345,649,40,2024-11-16 17:30:00,consultation,follow-up needed
+453,147,913,1,2021-09-27 12:00:00,showing,follow-up needed
+454,703,628,12,2022-12-24 11:00:00,consultation,completed
+455,325,86,54,2024-08-07 12:00:00,showing,follow-up needed
+456,184,958,5,2021-08-01 10:00:00,showing,follow-up needed
+457,333,556,37,2022-12-01 16:00:00,consultation,follow-up needed
+458,487,936,16,2023-12-07 12:00:00,showing,completed
+459,667,238,34,2023-06-19 11:30:00,showing,follow-up needed
+460,264,776,25,2024-11-14 15:00:00,follow-up,cancelled
+461,575,646,72,2023-04-14 11:00:00,showing,follow-up needed
+462,561,180,36,2023-12-06 16:00:00,follow-up,completed
+463,992,380,10,2024-07-29 15:30:00,showing,follow-up needed
+464,549,284,32,2021-11-28 11:30:00,consultation,follow-up needed
+465,581,30,25,2024-10-18 17:30:00,showing,cancelled
+466,495,792,52,2024-01-18 11:30:00,showing,follow-up needed
+467,456,665,58,2022-09-15 10:00:00,follow-up,follow-up needed
+468,56,506,14,2021-07-28 13:30:00,showing,follow-up needed
+469,47,24,60,2021-11-19 13:00:00,showing,completed
+470,429,141,54,2024-10-02 16:00:00,showing,follow-up needed
+471,154,76,62,2021-12-15 17:00:00,follow-up,completed
+472,700,723,2,2024-10-31 14:30:00,showing,follow-up needed
+473,340,625,62,2021-09-07 10:00:00,showing,follow-up needed
+474,780,621,45,2024-05-26 12:00:00,showing,completed
+475,384,181,55,2022-01-04 12:00:00,showing,completed
+476,609,482,41,2022-06-16 12:00:00,showing,completed
+477,298,487,2,2022-01-05 14:00:00,showing,completed
+478,281,721,27,2022-12-02 13:00:00,follow-up,completed
+479,5,757,46,2022-05-30 10:30:00,showing,follow-up needed
+480,307,463,46,2021-09-04 14:30:00,showing,cancelled
+481,151,459,29,2023-10-11 14:00:00,consultation,follow-up needed
+482,626,863,34,2024-06-12 11:00:00,follow-up,cancelled
+483,775,91,31,2024-03-13 15:00:00,follow-up,completed
+484,51,412,18,2022-08-20 12:00:00,showing,follow-up needed
+485,896,889,69,2023-03-18 10:00:00,showing,follow-up needed
+486,100,191,45,2023-11-13 14:00:00,showing,completed
+487,417,227,34,2024-10-25 12:00:00,follow-up,completed
+488,44,431,10,2024-05-09 17:30:00,follow-up,follow-up needed
+489,113,939,56,2023-06-02 11:00:00,follow-up,completed
+490,779,593,33,2024-04-29 13:00:00,showing,follow-up needed
+491,292,95,40,2022-01-26 11:30:00,consultation,cancelled
+492,334,978,23,2021-05-26 10:30:00,follow-up,cancelled
+493,980,120,41,2023-11-29 16:00:00,follow-up,completed
+494,6,878,66,2023-01-20 10:30:00,showing,completed
+495,78,984,6,2023-02-23 13:30:00,showing,follow-up needed
+496,681,851,44,2021-11-04 17:30:00,showing,follow-up needed
+497,9,386,25,2023-02-12 11:00:00,showing,completed
+498,746,676,44,2022-09-12 11:00:00,showing,completed
+499,853,193,47,2023-11-14 12:00:00,showing,completed
+500,528,253,61,2021-07-02 11:30:00,consultation,completed
+501,786,778,62,2024-07-02 16:00:00,showing,follow-up needed
+502,439,854,33,2023-11-22 13:00:00,showing,completed
+503,326,13,16,2022-05-18 14:00:00,showing,completed
+504,643,610,15,2024-08-28 14:00:00,showing,completed
+505,807,610,25,2023-09-10 16:30:00,follow-up,follow-up needed
+506,571,177,50,2022-06-10 12:00:00,showing,follow-up needed
+507,583,900,9,2024-07-05 11:30:00,showing,completed
+508,718,575,29,2021-09-01 10:00:00,showing,completed
+509,858,164,48,2021-05-19 16:30:00,showing,completed
+510,308,38,6,2022-12-24 16:30:00,follow-up,follow-up needed
+511,140,293,18,2023-09-19 16:00:00,showing,follow-up needed
+512,800,202,12,2023-09-30 12:00:00,follow-up,completed
+513,186,124,67,2021-02-08 16:30:00,showing,completed
+514,209,279,32,2022-10-29 10:30:00,showing,completed
+515,186,201,67,2021-02-06 14:30:00,showing,cancelled
+516,206,282,69,2023-11-11 10:30:00,showing,completed
+517,749,943,42,2024-03-24 16:00:00,showing,completed
+518,338,268,28,2024-01-06 13:00:00,showing,completed
+519,90,896,65,2023-10-04 16:30:00,follow-up,completed
+520,113,712,56,2023-05-07 14:30:00,showing,completed
+521,415,286,67,2022-03-27 17:00:00,follow-up,follow-up needed
+522,868,334,33,2021-06-05 12:30:00,showing,completed
+523,112,358,13,2021-12-22 16:00:00,showing,completed
+524,933,559,47,2023-12-26 14:00:00,follow-up,cancelled
+525,215,361,37,2021-12-26 13:30:00,showing,completed
+526,78,536,6,2022-12-28 15:30:00,showing,follow-up needed
+527,744,532,61,2021-11-02 12:00:00,showing,follow-up needed
+528,298,388,2,2021-10-20 10:30:00,showing,completed
+529,278,977,29,2022-09-08 11:30:00,showing,completed
+530,428,806,53,2024-04-27 13:30:00,showing,completed
+531,14,795,71,2022-06-04 16:30:00,consultation,completed
+532,501,661,2,2024-02-24 13:30:00,showing,cancelled
+533,550,712,65,2024-01-24 12:30:00,showing,follow-up needed
+534,824,458,6,2024-05-13 12:30:00,showing,follow-up needed
+535,538,572,39,2023-06-17 15:00:00,showing,follow-up needed
+536,353,135,60,2021-04-19 13:30:00,consultation,follow-up needed
+537,292,593,40,2022-01-29 10:00:00,showing,completed
+538,248,407,65,2021-10-14 11:30:00,showing,completed
+539,535,122,41,2024-02-20 17:30:00,showing,follow-up needed
+540,329,873,21,2021-06-29 15:30:00,showing,follow-up needed
+541,291,277,25,2023-10-06 17:30:00,showing,follow-up needed
+542,94,945,62,2023-01-19 14:30:00,showing,completed
+543,400,679,49,2022-01-20 17:30:00,follow-up,completed
+544,187,335,18,2022-12-09 14:30:00,follow-up,cancelled
+545,105,605,21,2022-05-19 15:00:00,showing,follow-up needed
+546,302,743,35,2022-04-09 15:30:00,showing,follow-up needed
+547,999,581,13,2022-09-16 16:30:00,showing,follow-up needed
+548,679,851,59,2021-02-21 16:00:00,showing,completed
+549,389,850,41,2024-06-22 13:30:00,showing,completed
+550,235,81,21,2021-08-24 11:00:00,showing,completed
+551,369,523,8,2021-05-12 14:30:00,showing,completed
+552,452,376,28,2024-11-01 10:30:00,showing,completed
+553,537,686,4,2023-06-19 14:00:00,showing,completed
+554,131,320,11,2024-01-15 12:30:00,showing,follow-up needed
+555,522,556,37,2022-03-08 12:30:00,showing,follow-up needed
+556,445,96,38,2023-12-16 16:30:00,showing,follow-up needed
+557,614,671,35,2022-09-21 17:00:00,showing,completed
+558,211,31,37,2023-05-04 13:00:00,follow-up,follow-up needed
+559,852,629,58,2022-07-25 14:00:00,showing,completed
+560,262,718,12,2022-09-30 15:00:00,showing,cancelled
+561,969,531,65,2024-03-18 12:30:00,follow-up,completed
+562,714,50,65,2024-08-13 14:00:00,showing,completed
+563,553,176,16,2023-10-08 13:00:00,showing,completed
+564,522,653,37,2022-01-19 16:00:00,follow-up,completed
+565,239,193,63,2022-12-31 15:30:00,follow-up,completed
+566,354,629,30,2024-09-01 10:30:00,showing,completed
+567,655,186,28,2024-02-08 16:00:00,showing,follow-up needed
+568,310,874,39,2023-11-04 13:00:00,showing,completed
+569,615,221,45,2024-02-10 10:00:00,showing,completed
+570,638,187,60,2021-03-03 15:00:00,consultation,completed
+571,840,142,4,2024-02-26 11:00:00,consultation,cancelled
+572,494,962,35,2021-06-16 17:00:00,showing,completed
+573,489,732,57,2023-07-10 14:30:00,consultation,follow-up needed
+574,321,218,31,2022-07-13 13:30:00,showing,completed
+575,599,31,30,2023-04-09 12:30:00,showing,completed
+576,640,121,71,2024-05-21 17:30:00,showing,completed
+577,149,712,17,2023-03-11 17:00:00,showing,completed
+578,595,422,5,2024-10-27 17:00:00,showing,follow-up needed
+579,143,379,49,2023-05-21 12:00:00,showing,follow-up needed
+580,624,917,7,2022-01-31 16:30:00,showing,cancelled
+581,182,766,58,2022-08-18 13:30:00,showing,cancelled
+582,854,784,50,2024-07-12 17:00:00,showing,completed
+583,589,884,67,2021-06-27 16:30:00,follow-up,completed
+584,15,292,11,2024-02-13 16:00:00,follow-up,completed
+585,351,747,65,2021-11-16 17:00:00,showing,completed
+586,500,799,22,2022-05-18 14:00:00,consultation,completed
+587,638,37,60,2021-09-13 10:30:00,follow-up,completed
+588,790,318,20,2021-07-04 17:00:00,consultation,completed
+589,266,279,69,2023-09-27 15:30:00,showing,completed
+590,488,592,20,2021-08-22 10:00:00,showing,completed
+591,331,943,61,2023-06-05 12:30:00,showing,completed
+592,493,136,15,2021-05-27 12:00:00,showing,completed
+593,630,612,60,2022-12-13 12:30:00,showing,completed
+594,194,397,69,2022-06-21 13:00:00,follow-up,follow-up needed
+595,220,183,68,2023-05-25 10:30:00,showing,follow-up needed
+596,102,150,62,2023-08-01 11:00:00,showing,completed
+597,173,638,57,2024-09-16 11:30:00,showing,follow-up needed
+598,473,214,62,2024-04-25 10:00:00,showing,follow-up needed
+599,257,397,13,2024-04-11 13:30:00,follow-up,completed
+600,102,320,62,2023-07-19 15:30:00,showing,completed
+601,744,301,61,2021-09-02 16:00:00,showing,completed
+602,682,662,66,2024-04-08 12:30:00,showing,completed
+603,398,221,15,2023-08-15 15:00:00,showing,completed
+604,722,789,71,2021-11-12 15:00:00,showing,completed
+605,537,511,4,2023-07-04 12:00:00,showing,cancelled
+606,369,776,8,2021-06-06 17:00:00,follow-up,completed
+607,725,811,43,2022-04-16 13:00:00,showing,follow-up needed
+608,27,850,50,2022-08-22 14:30:00,showing,follow-up needed
+609,679,638,59,2021-02-04 13:30:00,showing,follow-up needed
+610,271,698,8,2022-01-23 12:00:00,follow-up,cancelled
+611,592,874,43,2023-08-09 16:00:00,showing,follow-up needed
+612,392,565,13,2022-03-11 15:00:00,consultation,follow-up needed
+613,17,315,18,2024-10-02 16:00:00,showing,follow-up needed
+614,201,286,49,2022-04-12 17:00:00,showing,completed
+615,340,240,62,2021-09-03 12:30:00,showing,completed
+616,853,655,47,2023-10-06 17:00:00,showing,cancelled
+617,499,147,40,2024-10-24 12:00:00,showing,cancelled
+618,675,798,14,2022-10-05 10:00:00,follow-up,completed
+619,33,936,26,2024-08-02 17:00:00,showing,completed
+620,421,128,46,2021-11-09 16:00:00,showing,completed
+621,501,17,2,2023-09-19 13:00:00,showing,completed
+622,514,832,49,2021-08-05 17:30:00,follow-up,cancelled
+623,193,285,59,2024-09-07 14:30:00,showing,completed
+624,71,465,41,2021-11-27 13:30:00,showing,completed
+625,857,657,63,2022-12-12 14:00:00,showing,completed
+626,244,994,62,2024-06-23 13:00:00,showing,completed
+627,509,747,39,2023-11-12 12:00:00,showing,follow-up needed
+628,116,275,34,2021-06-23 10:00:00,showing,completed
+629,766,362,72,2024-09-09 14:30:00,showing,follow-up needed
+630,109,10,12,2023-05-12 15:00:00,follow-up,cancelled
+631,142,76,9,2024-05-01 12:00:00,follow-up,completed
+632,418,279,12,2022-01-31 16:00:00,follow-up,completed
+633,149,111,17,2023-06-14 12:30:00,showing,cancelled
+634,158,481,3,2023-05-15 15:00:00,showing,cancelled
+635,97,878,50,2023-07-21 13:30:00,showing,cancelled
+636,852,82,58,2022-07-04 11:00:00,showing,completed
+637,171,819,23,2023-05-18 10:30:00,follow-up,follow-up needed
+638,77,875,57,2024-11-12 17:30:00,follow-up,follow-up needed
+639,892,33,36,2024-10-28 13:00:00,showing,completed
+640,436,706,17,2022-10-14 15:00:00,showing,completed
+641,33,968,26,2024-04-11 14:00:00,showing,follow-up needed
+642,131,670,11,2024-02-13 15:00:00,showing,follow-up needed
+643,147,498,1,2021-12-09 11:00:00,showing,follow-up needed
+644,354,796,30,2025-03-03 12:30:00,showing,completed
+645,608,119,8,2022-06-26 14:30:00,follow-up,completed
+646,92,576,69,2023-08-17 17:30:00,showing,completed
+647,932,194,2,2023-09-01 11:30:00,showing,completed
+648,556,739,64,2022-09-22 17:00:00,showing,completed
+649,958,259,27,2024-01-06 15:30:00,showing,completed
+650,322,826,47,2022-03-23 11:00:00,consultation,follow-up needed
+651,438,861,64,2024-12-21 11:30:00,showing,completed
+652,775,727,31,2023-12-24 16:30:00,showing,follow-up needed
+653,239,321,63,2022-08-15 11:30:00,consultation,follow-up needed
+654,863,124,64,2024-01-27 16:30:00,showing,completed
+655,430,717,21,2022-11-02 11:30:00,showing,completed
+656,441,416,63,2022-10-06 13:30:00,showing,completed
+657,780,498,45,2024-06-13 17:30:00,consultation,completed
+658,820,38,40,2021-09-26 10:30:00,follow-up,completed
+659,245,594,32,2023-11-21 12:00:00,follow-up,follow-up needed
+660,186,65,67,2021-01-18 12:30:00,follow-up,follow-up needed
+661,299,96,14,2021-08-18 10:00:00,consultation,completed
+662,501,124,2,2023-09-10 17:00:00,showing,cancelled
+663,477,30,2,2023-11-12 11:00:00,consultation,follow-up needed
+664,78,322,6,2022-12-08 11:00:00,showing,completed
+665,427,889,27,2021-08-27 13:30:00,showing,follow-up needed
+666,838,438,52,2023-04-27 16:30:00,showing,completed
+667,271,472,8,2021-12-08 17:30:00,showing,completed
+668,195,637,25,2024-12-30 17:00:00,showing,completed
+669,964,380,1,2023-09-01 12:30:00,follow-up,completed
+670,483,987,36,2023-05-04 17:00:00,showing,follow-up needed
+671,485,926,31,2022-02-12 12:00:00,follow-up,follow-up needed
+672,473,322,62,2024-02-16 16:00:00,showing,follow-up needed
+673,300,703,26,2022-12-20 15:30:00,showing,follow-up needed
+674,295,225,18,2023-08-27 16:30:00,showing,completed
+675,148,662,55,2024-06-20 13:30:00,showing,completed
+676,290,524,12,2023-06-24 11:00:00,follow-up,completed
+677,19,334,55,2023-03-13 16:30:00,showing,completed
+678,532,963,54,2022-05-12 13:00:00,showing,follow-up needed
+679,342,491,25,2023-06-22 15:00:00,consultation,follow-up needed
+680,653,268,4,2022-04-24 11:00:00,showing,completed
+681,898,235,54,2025-01-17 12:00:00,showing,completed
+682,541,809,67,2021-02-05 11:30:00,showing,follow-up needed
+683,365,384,63,2021-11-09 15:30:00,showing,completed
+684,25,792,14,2022-10-07 14:30:00,showing,completed
+685,811,307,22,2024-11-15 17:30:00,consultation,completed
+686,186,72,67,2021-01-30 10:00:00,showing,completed
+687,820,570,40,2021-09-29 12:30:00,follow-up,follow-up needed
+688,74,304,16,2021-07-06 17:30:00,showing,completed
+689,31,400,27,2024-01-08 14:30:00,showing,cancelled
+690,326,67,16,2022-04-22 16:30:00,follow-up,follow-up needed
+691,450,989,28,2022-12-31 17:30:00,follow-up,completed
+692,626,391,34,2024-06-29 11:30:00,follow-up,cancelled
+693,432,465,70,2023-01-02 16:30:00,consultation,completed
+694,370,682,2,2022-10-27 10:30:00,showing,completed
+695,864,349,32,2024-08-14 10:00:00,showing,completed
+696,216,634,55,2023-11-09 13:30:00,follow-up,completed
+697,107,830,55,2021-07-29 13:30:00,showing,completed
+698,487,773,16,2023-09-20 10:30:00,showing,follow-up needed
+699,709,58,29,2024-02-11 16:00:00,showing,completed
+700,523,133,6,2023-04-17 17:00:00,follow-up,follow-up needed
+701,78,14,6,2023-02-09 15:00:00,showing,follow-up needed
+702,354,271,30,2025-03-20 16:00:00,showing,follow-up needed
+703,37,716,59,2021-04-02 13:00:00,showing,follow-up needed
+704,396,143,64,2022-11-05 17:00:00,showing,completed
+705,633,901,36,2022-08-20 15:30:00,showing,completed
+706,610,116,51,2022-07-05 12:00:00,follow-up,completed
+707,934,621,65,2024-09-12 16:00:00,showing,completed
+708,446,16,46,2024-11-19 14:00:00,showing,follow-up needed
+709,99,902,21,2021-10-16 15:30:00,showing,cancelled
+710,424,165,3,2022-08-07 15:30:00,consultation,follow-up needed
+711,453,764,10,2022-09-01 14:30:00,showing,completed
+712,886,662,46,2023-07-18 13:30:00,follow-up,follow-up needed
+713,694,274,12,2024-01-29 14:30:00,consultation,follow-up needed
+714,456,721,58,2022-07-27 14:30:00,consultation,follow-up needed
+715,293,328,25,2022-05-24 14:00:00,follow-up,completed
+716,94,462,62,2023-02-22 13:00:00,showing,cancelled
+717,622,796,50,2021-12-13 14:30:00,showing,follow-up needed
+718,514,301,49,2021-10-15 13:30:00,consultation,follow-up needed
+719,178,327,69,2022-03-15 14:00:00,follow-up,completed
+720,705,202,5,2024-07-06 12:00:00,consultation,completed
+721,257,643,13,2024-01-20 10:30:00,showing,completed
+722,953,340,66,2023-04-05 16:00:00,follow-up,cancelled
+723,408,1000,34,2022-06-19 17:00:00,follow-up,completed
+724,726,752,2,2024-08-21 14:00:00,showing,completed
+725,361,931,41,2021-08-12 12:00:00,showing,follow-up needed
+726,543,668,62,2021-07-30 17:00:00,showing,follow-up needed
+727,593,446,71,2021-07-14 12:00:00,follow-up,follow-up needed
+728,907,966,43,2023-09-19 10:30:00,showing,follow-up needed
+729,698,535,5,2021-06-28 14:30:00,showing,completed
+730,499,672,40,2025-01-15 14:30:00,showing,follow-up needed
+731,818,33,14,2024-08-19 15:30:00,showing,completed
+732,250,676,25,2021-12-26 12:00:00,showing,completed
+733,730,1000,49,2024-12-02 13:00:00,showing,follow-up needed
+734,338,538,28,2023-12-29 14:30:00,showing,follow-up needed
+735,529,151,55,2022-07-02 16:30:00,showing,follow-up needed
+736,227,19,66,2023-01-13 11:00:00,showing,cancelled
+737,644,745,57,2022-08-16 13:00:00,showing,completed
+738,467,896,48,2021-11-19 12:30:00,follow-up,cancelled
+739,283,749,53,2024-02-20 12:00:00,consultation,follow-up needed
+740,29,983,2,2021-10-17 17:30:00,showing,cancelled
+741,651,420,48,2023-12-09 15:30:00,showing,cancelled
+742,849,778,21,2023-04-17 15:30:00,showing,follow-up needed
+743,960,379,42,2022-04-10 17:00:00,showing,completed
+744,987,536,37,2023-02-18 16:00:00,showing,completed
+745,77,604,57,2025-01-31 13:00:00,follow-up,follow-up needed
+746,121,121,13,2021-02-01 15:30:00,consultation,follow-up needed
+747,397,762,46,2023-08-29 14:30:00,showing,completed
+748,765,212,48,2023-08-04 16:00:00,showing,follow-up needed
+749,29,817,2,2021-07-03 11:00:00,consultation,cancelled
+750,677,675,56,2023-06-24 15:00:00,showing,completed
+751,902,708,50,2023-06-30 14:00:00,follow-up,completed
+752,123,881,55,2024-01-23 16:00:00,consultation,completed
+753,881,791,27,2023-09-14 10:00:00,showing,follow-up needed
+754,184,906,5,2022-01-12 14:30:00,showing,follow-up needed
+755,433,123,25,2023-12-26 12:30:00,consultation,completed
+756,248,830,65,2021-09-21 13:00:00,consultation,cancelled
+757,966,634,3,2021-11-25 14:00:00,showing,follow-up needed
+758,253,525,66,2023-09-09 16:30:00,showing,completed
+759,535,218,41,2024-02-25 10:00:00,follow-up,completed
+760,682,70,66,2024-04-02 15:00:00,follow-up,follow-up needed
+761,382,644,58,2021-11-19 14:30:00,showing,completed
+762,872,254,36,2022-11-13 10:00:00,showing,completed
+763,746,13,44,2022-11-04 11:30:00,follow-up,follow-up needed
+764,607,948,2,2024-08-24 14:00:00,showing,cancelled
+765,3,355,56,2023-10-18 14:00:00,follow-up,cancelled
+766,570,114,42,2021-10-30 14:00:00,consultation,follow-up needed
+767,392,658,13,2022-01-21 10:00:00,showing,completed
+768,714,508,65,2024-06-19 15:00:00,consultation,completed
+769,349,749,51,2021-02-25 12:30:00,showing,follow-up needed
+770,839,819,55,2022-10-17 16:30:00,consultation,completed
+771,696,872,21,2022-06-13 17:30:00,showing,completed
+772,971,591,61,2024-02-14 13:00:00,showing,completed
+773,548,380,20,2022-03-08 12:00:00,showing,completed
+774,739,191,48,2021-05-14 12:00:00,showing,completed
+775,986,851,65,2024-03-13 15:30:00,showing,completed
+776,258,711,47,2022-10-24 11:00:00,showing,follow-up needed
+777,602,687,49,2021-05-17 10:00:00,showing,cancelled
+778,264,976,25,2025-01-31 13:00:00,follow-up,completed
+779,565,178,51,2021-10-29 16:30:00,follow-up,completed
+780,717,375,44,2021-06-23 11:00:00,showing,completed
+781,890,705,28,2023-06-21 17:30:00,showing,completed
+782,160,796,37,2023-03-30 17:30:00,showing,cancelled
+783,182,13,58,2022-04-02 17:30:00,follow-up,completed
+784,52,917,3,2022-09-16 13:00:00,showing,completed
+785,64,942,51,2024-07-20 14:30:00,showing,follow-up needed
+786,458,826,1,2022-12-17 10:00:00,showing,completed
+787,611,680,33,2021-09-16 13:30:00,consultation,follow-up needed
+788,184,430,5,2022-01-04 12:00:00,showing,cancelled
+789,257,945,13,2023-12-22 13:30:00,showing,completed
+790,873,694,6,2022-06-17 10:00:00,showing,completed
+791,866,265,13,2024-05-29 14:30:00,follow-up,completed
+792,482,984,66,2023-03-09 10:00:00,showing,completed
+793,967,50,33,2022-07-30 12:00:00,showing,cancelled
+794,785,977,65,2023-07-11 14:00:00,showing,completed
+795,622,326,50,2021-07-15 10:30:00,showing,completed
+796,390,591,41,2023-11-23 14:30:00,showing,completed
+797,522,121,37,2022-06-29 17:30:00,showing,completed
+798,136,594,15,2023-11-04 14:30:00,showing,follow-up needed
+799,397,19,46,2023-08-27 12:30:00,consultation,cancelled
+800,925,375,2,2022-03-14 16:30:00,follow-up,completed
+801,903,875,59,2022-03-14 13:30:00,follow-up,completed
+802,342,491,25,2023-09-25 17:00:00,showing,completed
+803,359,269,64,2024-07-07 11:00:00,showing,follow-up needed
+804,907,482,43,2023-08-20 15:00:00,showing,completed
+805,182,231,58,2022-02-23 15:30:00,showing,completed
+806,918,799,57,2022-10-03 14:30:00,showing,completed
+807,568,1000,45,2023-04-06 12:00:00,showing,follow-up needed
+808,493,565,15,2021-11-18 13:00:00,showing,completed
+809,22,82,51,2023-05-22 11:00:00,showing,follow-up needed
+810,449,54,41,2023-09-22 12:00:00,showing,completed
+811,247,102,26,2022-06-21 10:00:00,follow-up,completed
+812,423,778,34,2022-07-31 17:00:00,showing,completed
+813,739,652,48,2021-03-09 15:30:00,follow-up,follow-up needed
+814,863,692,64,2024-03-02 10:00:00,consultation,completed
+815,478,760,25,2023-09-19 10:30:00,showing,completed
+816,552,38,34,2022-06-15 10:00:00,follow-up,follow-up needed
+817,542,987,14,2021-05-17 12:30:00,showing,cancelled
+818,464,427,48,2023-08-08 14:30:00,showing,completed
+819,354,231,30,2024-12-01 15:00:00,showing,completed
+820,267,196,71,2021-05-09 11:00:00,showing,completed
+821,654,296,66,2022-08-26 12:30:00,consultation,follow-up needed
+822,818,143,14,2024-02-06 14:00:00,follow-up,follow-up needed
+823,55,633,69,2022-11-15 17:00:00,showing,completed
+824,125,195,46,2023-04-24 10:30:00,follow-up,cancelled
+825,426,814,34,2021-10-23 12:00:00,showing,cancelled
+826,4,612,4,2024-01-24 16:00:00,follow-up,completed
+827,352,889,62,2022-01-14 15:30:00,showing,cancelled
+828,457,709,31,2023-01-13 16:00:00,follow-up,cancelled
+829,214,11,31,2025-01-12 10:00:00,showing,completed
+830,9,26,25,2022-12-18 14:30:00,consultation,follow-up needed
+831,187,912,18,2022-11-19 17:00:00,showing,completed
+832,239,954,63,2022-07-10 17:30:00,follow-up,completed
+833,203,626,63,2023-04-20 14:30:00,consultation,completed
+834,62,849,6,2022-03-21 12:00:00,showing,follow-up needed
+835,606,366,53,2024-10-20 16:30:00,showing,completed
+836,155,118,8,2022-05-05 15:00:00,showing,follow-up needed
+837,328,230,14,2023-11-11 17:30:00,showing,completed
+838,431,926,5,2021-03-06 12:30:00,follow-up,completed
+839,749,718,42,2024-04-21 13:00:00,showing,completed
+840,945,959,56,2022-09-28 15:30:00,follow-up,completed
+841,355,477,65,2024-10-25 14:00:00,showing,completed
+842,312,987,1,2023-02-14 17:30:00,follow-up,follow-up needed
+843,896,506,69,2023-03-19 12:00:00,showing,completed
+844,83,984,9,2021-11-26 12:00:00,follow-up,completed
+845,707,570,39,2023-11-04 11:30:00,follow-up,completed
+846,649,931,10,2023-02-20 11:00:00,showing,completed
+847,514,458,49,2021-09-05 12:00:00,consultation,completed
+848,178,496,69,2022-01-04 15:00:00,showing,completed
+849,296,511,50,2021-05-12 14:00:00,showing,completed
+850,213,901,41,2021-08-02 15:30:00,showing,follow-up needed

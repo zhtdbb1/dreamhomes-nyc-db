@@ -1,0 +1,17 @@
+table,row_count
+office,8
+employee,120
+agent,72
+client,1000
+client_preference,650
+neighborhood,24
+school,72
+property,850
+listing,1000
+listing_ownership,1239
+client_inquiry,2400
+appointment,850
+open_house,320
+open_house_attendance,2100
+transaction,700
+transaction_client_role,1675

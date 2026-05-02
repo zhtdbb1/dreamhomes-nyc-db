@@ -1,0 +1,651 @@
+client_id,preferred_location,property_type,min_budget,max_budget,min_bedrooms,max_bedrooms,min_bathrooms,min_square_feet
+1,Flushing,co-op,6676,7542,4,6,4,1755
+7,Park Slope,single-family home,594324,802620,1,3,1,590
+10,Flushing,single-family home,4547,6433,4,6,4,2372
+11,DUMBO,apartment,6875,8557,2,4,2,1446
+12,DUMBO,co-op,718802,848767,1,3,1,1013
+13,Financial District,townhouse,606847,927419,0,2,1,590
+14,Downtown Bridgeport,apartment,700161,839701,2,4,2,1544
+15,Downtown Jersey City,condo,6869,7761,3,5,3,2055
+16,Tribeca,co-op,986700,1329652,2,4,2,1166
+17,Tribeca,apartment,1451743,2006788,4,6,4,2201
+19,Hoboken Waterfront,apartment,4104,5463,1,3,1,1275
+21,DUMBO,apartment,992693,1359929,3,5,3,1781
+22,Financial District,apartment,1657948,2086215,4,6,4,1819
+24,St. George,apartment,407624,500066,1,3,1,1199
+26,Downtown Bridgeport,condo,3908,4524,2,4,2,1382
+30,Greenwich Village,co-op,1432698,2017662,3,5,3,1852
+31,West Hartford Center,apartment,4498,5795,2,4,2,1547
+32,Upper West Side,co-op,1369004,1909676,3,5,3,1754
+33,Forest Hills,co-op,424984,516029,0,2,1,620
+35,Williamsburg,condo,6934,7972,2,4,2,1220
+36,Upper East Side,apartment,7213,8729,2,4,2,1507
+37,Upper West Side,townhouse,3308,4671,0,2,1,833
+38,Jersey City Waterfront,apartment,6311,8247,3,5,3,1762
+40,Downtown Bridgeport,single-family home,2252,3172,1,3,1,1072
+42,West Hartford Center,townhouse,1074162,1272391,3,5,3,1678
+44,Montclair Center,co-op,4331,6033,2,4,2,1496
+48,Forest Hills,townhouse,634366,870349,2,4,2,1693
+50,Tribeca,single-family home,4452,5600,0,2,1,574
+51,West Hartford Center,condo,2843,3646,1,3,1,1072
+54,Chelsea,condo,7849,9975,3,5,3,1470
+56,Downtown Bridgeport,co-op,557804,823967,4,6,4,1937
+57,Jersey City Waterfront,apartment,580196,795810,1,3,1,1195
+58,Hoboken Waterfront,single-family home,4292,5214,1,3,1,1116
+59,West Hartford Center,co-op,626626,897151,2,4,2,1529
+61,Park Slope,co-op,959265,1342227,2,4,2,1482
+63,Hoboken Waterfront,apartment,893227,1138813,3,5,3,1655
+64,Forest Hills,duplex,3161,4283,1,3,1,1099
+65,Long Island City,duplex,623952,952830,1,3,1,910
+67,DUMBO,condo,674785,937276,1,3,1,1056
+69,Riverdale,condo,661320,895986,2,4,2,1637
+70,Williamsburg,townhouse,807764,1114521,2,4,2,1455
+71,West Hartford Center,duplex,3353,4642,1,3,1,1112
+72,Upper West Side,condo,1088839,1406405,3,5,3,1704
+73,Tribeca,apartment,1607277,1974477,2,4,2,1405
+75,Upper East Side,co-op,1051976,1297365,2,4,2,1469
+76,DUMBO,single-family home,1079362,1649015,3,5,3,1866
+78,Financial District,co-op,855716,1235915,1,3,1,1110
+80,Jersey City Waterfront,apartment,6058,8059,3,5,3,1674
+81,St. George,single-family home,3188,3549,1,3,1,1044
+82,Downtown Bridgeport,apartment,316703,484495,0,2,1,872
+85,Hoboken Waterfront,condo,5194,6450,1,3,1,1180
+86,Park Slope,single-family home,410130,580261,0,2,1,604
+89,Downtown Bridgeport,condo,483287,731570,2,4,2,1191
+90,Downtown Stamford,townhouse,2876,4033,0,2,1,592
+91,Greenwich Downtown,single-family home,790911,964037,1,3,1,1124
+94,Greenwich Downtown,townhouse,499348,743545,0,2,1,716
+95,DUMBO,townhouse,1103881,1415446,1,3,1,1584
+96,Williamsburg,duplex,1414325,1881482,3,5,3,1774
+98,Downtown Bridgeport,apartment,1682,2205,0,2,1,570
+100,Montclair Center,apartment,4333,5877,2,4,2,1405
+101,Downtown Jersey City,townhouse,534089,700779,0,2,1,504
+102,Downtown Bridgeport,apartment,3826,5105,4,6,4,1968
+103,Downtown Jersey City,condo,5306,6650,3,5,3,1425
+104,West Hartford Center,apartment,742450,1032104,4,6,4,2091
+105,Long Island City,townhouse,598339,842180,1,3,1,840
+106,Downtown Jersey City,apartment,3579,5025,1,3,1,1543
+109,Park Slope,single-family home,879075,1061582,1,3,1,864
+110,Upper East Side,duplex,8380,9418,2,4,2,1468
+111,Williamsburg,apartment,558384,673211,0,2,1,905
+114,Greenwich Downtown,duplex,683499,858691,1,3,1,886
+116,Downtown Jersey City,co-op,5664,6887,2,4,2,1357
+117,Downtown Stamford,single-family home,1106204,1508187,4,6,4,1778
+118,Hoboken Waterfront,apartment,813032,963186,2,4,2,1208
+119,Montclair Center,duplex,6246,7726,4,6,4,2076
+120,Financial District,single-family home,1186548,1548602,2,4,2,1716
+121,Greenwich Downtown,co-op,5680,6510,1,3,1,742
+122,DUMBO,townhouse,1008706,1215707,1,3,1,1136
+123,Tribeca,apartment,8892,10085,2,4,2,1517
+124,Tribeca,apartment,1434570,1880248,2,4,2,1659
+128,SoHo,condo,844587,1109157,1,3,1,817
+129,West Hartford Center,townhouse,3490,4572,2,4,2,1306
+133,Tribeca,condo,7342,8607,1,3,1,1045
+134,Forest Hills,apartment,5473,7195,3,5,3,1447
+135,West Hartford Center,apartment,1042454,1257748,3,5,3,1776
+136,West Hartford Center,apartment,2617,3059,0,2,1,877
+139,Greenwich Village,condo,732175,1117417,1,3,1,1373
+141,Montclair Center,duplex,3804,4633,1,3,1,856
+142,Montclair Center,apartment,740270,1062941,3,5,3,2028
+143,Greenwich Downtown,co-op,543577,816311,1,3,1,947
+146,St. George,condo,2743,3156,1,3,1,1190
+147,St. George,condo,359182,495566,0,2,1,943
+148,Flushing,condo,3667,5041,2,4,2,1208
+149,Financial District,apartment,531987,727039,0,2,1,744
+150,Upper East Side,condo,844921,1005812,0,2,1,804
+151,Williamsburg,apartment,4246,4731,0,2,1,552
+153,Financial District,co-op,5367,6062,1,3,1,1286
+154,Riverdale,apartment,4151,5202,2,4,2,1145
+160,Astoria,single-family home,1303449,1575132,4,6,4,1978
+162,Forest Hills,condo,464192,705069,1,3,1,1067
+163,West Hartford Center,single-family home,604543,761351,1,3,1,819
+164,Flushing,condo,897232,1123657,3,5,3,1920
+165,Montclair Center,single-family home,494298,635117,0,2,1,1021
+170,Downtown Bridgeport,co-op,3201,3981,1,3,1,1424
+176,Riverdale,single-family home,531882,644274,1,3,1,1084
+177,Williamsburg,apartment,697695,956898,1,3,1,679
+178,West Hartford Center,condo,4883,6281,4,6,4,2034
+180,Downtown Stamford,single-family home,481484,699862,0,2,1,505
+181,Riverdale,single-family home,321821,452689,0,2,1,603
+183,DUMBO,single-family home,813097,1107020,1,3,1,1170
+184,Montclair Center,apartment,3606,4304,0,2,1,1088
+186,Tribeca,duplex,1070775,1374163,1,3,1,1249
+187,Chelsea,single-family home,9228,12771,4,6,4,1791
+188,Hoboken Waterfront,apartment,1100888,1394902,2,4,2,1319
+191,Tribeca,single-family home,717884,1004467,0,2,1,905
+192,Upper East Side,co-op,889831,1158540,2,4,2,1275
+193,Downtown Bridgeport,townhouse,722327,873949,2,4,2,1621
+194,Chelsea,apartment,4178,4984,0,2,1,723
+195,Downtown Bridgeport,single-family home,640298,806752,2,4,2,1345
+196,Greenwich Village,condo,5474,6508,1,3,1,892
+199,Downtown Stamford,townhouse,1006108,1333012,4,6,4,1981
+200,Flushing,apartment,987406,1168476,3,5,3,1842
+201,Montclair Center,duplex,4042,5211,1,3,1,1005
+202,Flushing,condo,3219,4385,2,4,2,1195
+204,Astoria,co-op,935906,1196955,3,5,3,1695
+205,Tribeca,townhouse,4070,5584,0,2,1,770
+207,Downtown Bridgeport,single-family home,1867,2452,0,2,1,1059
+208,West Hartford Center,apartment,3441,4360,1,3,1,903
+210,Downtown Stamford,apartment,3966,4509,1,3,1,1112
+212,Financial District,single-family home,1223273,1523229,4,6,4,2212
+214,Upper East Side,apartment,705652,859417,0,2,1,963
+216,Jersey City Waterfront,townhouse,799401,1036035,1,3,1,1116
+217,St. George,apartment,602118,784241,3,5,3,2009
+218,St. George,single-family home,2116,2685,0,2,1,920
+220,Montclair Center,townhouse,832171,1190615,3,5,3,1534
+221,Jersey City Waterfront,townhouse,602587,776804,1,3,1,850
+222,Financial District,condo,620274,912636,1,3,1,1272
+223,Downtown Stamford,condo,3245,4451,1,3,1,784
+225,Upper West Side,duplex,5740,6616,1,3,1,1002
+226,DUMBO,townhouse,4574,6375,1,3,1,1112
+227,Greenwich Village,single-family home,5829,7924,1,3,1,1403
+228,Greenwich Downtown,single-family home,5977,7183,2,4,2,1148
+230,Downtown Bridgeport,townhouse,2399,2798,0,2,1,924
+231,SoHo,townhouse,928591,1160932,0,2,1,763
+232,Long Island City,condo,746855,1117001,1,3,1,1023
+235,DUMBO,townhouse,1040348,1254178,2,4,2,1311
+238,Chelsea,apartment,787711,962194,0,2,1,606
+240,Chelsea,single-family home,1110695,1640834,3,5,3,1862
+242,Downtown Bridgeport,co-op,3713,4849,2,4,2,1565
+243,Forest Hills,townhouse,842910,1068103,3,5,3,1371
+246,Montclair Center,townhouse,595125,778682,2,4,2,1410
+247,Downtown Stamford,condo,5412,7543,3,5,3,1889
+248,West Hartford Center,co-op,795027,950105,2,4,2,1435
+252,Downtown Bridgeport,duplex,2213,2693,0,2,1,1141
+253,Astoria,apartment,805148,1052443,3,5,3,1826
+254,Montclair Center,condo,3230,4450,1,3,1,1035
+255,Hoboken Waterfront,duplex,949101,1192583,2,4,2,1495
+256,St. George,townhouse,402236,586367,1,3,1,1208
+259,Montclair Center,apartment,384421,542893,0,2,1,974
+260,Financial District,single-family home,679337,1037477,2,4,2,1202
+261,Downtown Stamford,apartment,1281450,1606847,4,6,4,1944
+262,Financial District,duplex,1072899,1262536,1,3,1,1095
+264,Forest Hills,apartment,4447,5776,3,5,3,1778
+265,Downtown Stamford,apartment,2927,3535,0,2,1,882
+266,Downtown Bridgeport,co-op,313840,388398,0,2,1,750
+268,DUMBO,single-family home,593603,781058,0,2,1,882
+269,Upper East Side,townhouse,498240,695229,0,2,1,806
+271,Flushing,apartment,883803,1143049,3,5,3,1674
+274,Upper East Side,apartment,1265782,1837655,3,5,3,1430
+275,Astoria,townhouse,678640,909923,1,3,1,968
+277,St. George,apartment,766617,983940,3,5,3,1791
+278,St. George,single-family home,543330,732129,3,5,3,1803
+279,Jersey City Waterfront,condo,959054,1291666,2,4,2,1212
+280,Forest Hills,townhouse,3459,4864,1,3,1,958
+281,Downtown Jersey City,co-op,4856,5747,2,4,2,1369
+282,Astoria,condo,523933,801435,1,3,1,1094
+284,Hoboken Waterfront,condo,625689,772545,0,2,1,773
+285,Long Island City,apartment,6030,8263,4,6,4,1707
+286,Upper East Side,apartment,6101,7873,2,4,2,1386
+288,Jersey City Waterfront,apartment,829698,1085714,1,3,1,1296
+292,Flushing,duplex,414239,615174,1,3,1,1228
+293,DUMBO,condo,632767,887597,0,2,1,655
+294,Upper West Side,single-family home,948728,1421615,3,5,3,1674
+296,Williamsburg,apartment,754541,924806,1,3,1,852
+300,DUMBO,apartment,1188572,1672953,4,6,4,1989
+301,Greenwich Village,townhouse,5012,7085,1,3,1,879
+302,Financial District,condo,8408,10660,3,5,3,1446
+303,Upper East Side,condo,7658,8693,2,4,2,1195
+304,Tribeca,apartment,8083,9137,2,4,2,1346
+305,West Hartford Center,townhouse,585711,822546,1,3,1,1121
+307,Astoria,apartment,689964,836970,2,4,2,1578
+309,Downtown Jersey City,townhouse,5474,7535,3,5,3,1563
+311,West Hartford Center,condo,500410,687833,2,4,2,1407
+312,Downtown Jersey City,condo,3978,5220,2,4,2,1122
+313,Upper West Side,apartment,849425,1104789,1,3,1,836
+315,Chelsea,apartment,646318,780731,0,2,1,533
+317,Greenwich Village,apartment,6607,7944,1,3,1,1253
+318,DUMBO,apartment,1043184,1301218,3,5,3,1744
+320,Downtown Stamford,townhouse,712079,997064,1,3,1,1245
+321,Financial District,apartment,4162,5162,0,2,1,1115
+322,Riverdale,apartment,4463,5915,3,5,3,1432
+324,SoHo,condo,722434,1106245,1,3,1,916
+326,Montclair Center,single-family home,532961,794902,1,3,1,1040
+327,Jersey City Waterfront,single-family home,719652,1008344,2,4,2,1137
+328,Tribeca,townhouse,7890,9166,1,3,1,1079
+330,Hoboken Waterfront,single-family home,410358,617779,0,2,1,696
+331,Montclair Center,single-family home,724659,955870,1,3,1,1295
+332,Upper West Side,apartment,513804,690461,0,2,1,896
+334,Greenwich Downtown,apartment,597323,821944,1,3,1,910
+335,Chelsea,single-family home,5264,7155,1,3,1,1195
+336,Montclair Center,single-family home,4250,5147,1,3,1,1018
+337,Downtown Bridgeport,single-family home,3624,4402,2,4,2,1213
+338,DUMBO,co-op,864216,1253161,2,4,2,1275
+340,Greenwich Downtown,co-op,830138,1246999,1,3,1,1211
+345,Riverdale,condo,344894,515858,0,2,1,812
+346,Downtown Bridgeport,single-family home,4690,5929,4,6,4,2074
+348,Greenwich Downtown,single-family home,1123721,1398884,2,4,2,1307
+349,St. George,single-family home,2322,3118,1,3,1,966
+350,Montclair Center,townhouse,372454,515373,0,2,1,708
+351,SoHo,apartment,1054618,1346832,1,3,1,923
+352,Astoria,co-op,3311,4690,1,3,1,1157
+354,St. George,single-family home,3562,4477,3,5,3,1583
+355,SoHo,townhouse,842390,1170437,1,3,1,1192
+357,Hoboken Waterfront,single-family home,809692,1207439,3,5,3,1958
+358,Downtown Bridgeport,townhouse,2850,3725,1,3,1,1053
+360,Downtown Stamford,condo,341700,480982,0,2,1,630
+361,Riverdale,single-family home,337118,460112,0,2,1,661
+362,Montclair Center,townhouse,2425,3315,0,2,1,790
+364,St. George,single-family home,400660,557912,1,3,1,1214
+365,Downtown Bridgeport,apartment,4703,5489,3,5,3,2061
+366,Forest Hills,townhouse,805960,1121820,3,5,3,1604
+368,Downtown Bridgeport,townhouse,494357,631749,2,4,2,1409
+369,Chelsea,single-family home,6640,7883,1,3,1,1246
+372,St. George,condo,547213,711392,3,5,3,1752
+373,Astoria,condo,4921,5694,2,4,2,1162
+375,SoHo,apartment,1264036,1728813,3,5,3,1685
+376,Montclair Center,condo,6152,7131,4,6,4,1971
+377,Flushing,condo,2464,2973,0,2,1,700
+379,Upper West Side,single-family home,571094,702102,0,2,1,1059
+380,Hoboken Waterfront,apartment,4129,4992,0,2,1,925
+382,Upper East Side,condo,987811,1262902,1,3,1,1189
+384,Riverdale,co-op,605543,831794,2,4,2,1407
+385,Hoboken Waterfront,condo,789031,1141650,2,4,2,1355
+386,Astoria,condo,873967,1080481,3,5,3,1875
+388,Greenwich Downtown,townhouse,1031268,1229653,2,4,2,1491
+389,Forest Hills,co-op,670089,804406,1,3,1,1031
+391,Chelsea,townhouse,1178492,1525955,2,4,2,1336
+392,Downtown Jersey City,single-family home,2866,3951,0,2,1,1105
+393,DUMBO,co-op,7403,8411,3,5,3,1508
+394,Upper West Side,apartment,653509,857617,1,3,1,1291
+395,Long Island City,condo,2934,3879,0,2,1,823
+397,Upper East Side,townhouse,5451,6486,1,3,1,1362
+398,Flushing,co-op,3660,4345,1,3,1,1084
+400,Flushing,townhouse,3380,4178,1,3,1,1245
+403,Greenwich Downtown,apartment,752486,1110167,2,4,2,1262
+404,Jersey City Waterfront,townhouse,510989,612039,0,2,1,563
+407,Forest Hills,apartment,937487,1103587,4,6,4,2197
+408,Greenwich Downtown,apartment,6020,8573,3,5,3,1787
+412,Downtown Stamford,townhouse,384712,484361,0,2,1,783
+414,St. George,duplex,639960,757354,2,4,2,1305
+416,Tribeca,townhouse,5885,7104,1,3,1,1031
+417,Forest Hills,apartment,4278,4869,1,3,1,1052
+418,Downtown Bridgeport,co-op,669640,910901,3,5,3,1817
+420,SoHo,duplex,1386328,1886610,3,5,3,1821
+422,Riverdale,condo,636412,915506,3,5,3,1592
+426,Forest Hills,apartment,3468,4253,1,3,1,717
+427,West Hartford Center,apartment,570857,760792,2,4,2,1352
+429,Forest Hills,apartment,1009130,1318658,3,5,3,1719
+430,Upper West Side,townhouse,1035895,1356541,1,3,1,1316
+431,Downtown Bridgeport,single-family home,306629,400272,0,2,1,699
+432,Downtown Bridgeport,co-op,2527,2988,1,3,1,994
+433,Downtown Jersey City,condo,4961,5533,1,3,1,1006
+437,Park Slope,townhouse,596276,895785,1,3,1,890
+438,Montclair Center,apartment,482119,647583,1,3,1,1195
+439,West Hartford Center,townhouse,586079,747795,1,3,1,1067
+440,Greenwich Downtown,apartment,909021,1122776,1,3,1,1037
+442,DUMBO,apartment,7466,8478,2,4,2,1355
+445,Jersey City Waterfront,co-op,919530,1236304,2,4,2,1228
+446,Downtown Jersey City,single-family home,4350,5339,1,3,1,924
+448,Astoria,single-family home,594961,706507,1,3,1,759
+449,DUMBO,townhouse,837432,1274505,2,4,2,1530
+455,Montclair Center,condo,1016132,1277521,3,5,3,1593
+456,Hoboken Waterfront,single-family home,980766,1264103,3,5,3,1760
+458,Hoboken Waterfront,apartment,4342,6113,2,4,2,1130
+459,DUMBO,apartment,7266,8809,2,4,2,1262
+460,DUMBO,single-family home,8125,11202,4,6,4,1847
+461,Chelsea,apartment,10602,14033,4,6,4,2335
+462,Tribeca,single-family home,775068,1099320,0,2,1,860
+463,Park Slope,single-family home,362561,539277,0,2,1,658
+465,SoHo,condo,8776,10352,2,4,2,1243
+466,Greenwich Downtown,apartment,1088508,1341241,2,4,2,1616
+472,Park Slope,single-family home,886472,1271404,2,4,2,1112
+475,SoHo,condo,2023467,2460433,4,6,4,1823
+476,Astoria,condo,5898,6602,2,4,2,1378
+477,Montclair Center,apartment,816400,1199125,2,4,2,1596
+478,St. George,townhouse,2251,2877,0,2,1,862
+479,Flushing,townhouse,3740,4746,2,4,2,1304
+480,Downtown Stamford,single-family home,812528,1061363,3,5,3,1870
+481,Long Island City,apartment,513883,731112,1,3,1,927
+482,Greenwich Village,condo,680649,916326,1,3,1,569
+483,St. George,apartment,536967,671856,2,4,2,1601
+484,Jersey City Waterfront,condo,946204,1202748,3,5,3,1828
+486,Flushing,apartment,591111,870523,2,4,2,1478
+487,Forest Hills,condo,360130,431065,0,2,1,747
+489,Riverdale,single-family home,3630,4757,2,4,2,1429
+490,Downtown Jersey City,townhouse,5621,7938,3,5,3,1956
+491,Jersey City Waterfront,duplex,1000043,1188778,2,4,2,1355
+492,Forest Hills,single-family home,882878,1131296,3,5,3,1522
+495,Park Slope,duplex,923570,1312976,3,5,3,1765
+496,Greenwich Village,apartment,7410,9072,2,4,2,1576
+498,Riverdale,single-family home,745938,932635,2,4,2,1484
+500,West Hartford Center,condo,594070,738802,1,3,1,985
+504,Downtown Jersey City,single-family home,452599,574324,0,2,1,777
+506,SoHo,condo,941580,1443886,2,4,2,1360
+508,Upper East Side,townhouse,4130,5881,0,2,1,1017
+509,Greenwich Village,condo,1030387,1309094,1,3,1,1172
+511,Long Island City,apartment,610142,863418,1,3,1,1338
+512,Financial District,condo,854467,1104135,2,4,2,1488
+517,Upper West Side,apartment,7278,8755,2,4,2,1250
+518,Financial District,condo,7776,9396,2,4,2,1442
+519,Downtown Bridgeport,duplex,567722,850805,2,4,2,1283
+520,Montclair Center,single-family home,4453,5357,2,4,2,1590
+522,Downtown Stamford,co-op,7738,8661,4,6,4,2024
+523,Greenwich Village,co-op,1214579,1733462,2,4,2,1419
+524,Riverdale,condo,794824,1194968,4,6,4,1790
+525,Riverdale,condo,441477,625963,0,2,1,1012
+528,Forest Hills,townhouse,638241,814587,1,3,1,1155
+530,Astoria,apartment,409962,508546,0,2,1,657
+531,Park Slope,condo,3558,4582,0,2,1,713
+532,Astoria,townhouse,499269,711567,0,2,1,719
+535,Park Slope,townhouse,510234,768565,1,3,1,834
+536,Financial District,apartment,967223,1410588,2,4,2,1211
+537,St. George,townhouse,3658,4527,3,5,3,1678
+538,Forest Hills,single-family home,631937,811563,2,4,2,1465
+539,Riverdale,duplex,354694,528876,0,2,1,660
+540,Chelsea,condo,9206,10889,4,6,4,2087
+541,Riverdale,condo,4036,5049,3,5,3,1716
+544,Downtown Stamford,apartment,4294,4844,1,3,1,790
+545,Greenwich Downtown,apartment,694857,1021366,1,3,1,1119
+548,Astoria,apartment,1046677,1368335,3,5,3,1650
+549,Downtown Jersey City,townhouse,7747,9070,4,6,4,2089
+550,St. George,apartment,799173,976018,4,6,4,2075
+553,Chelsea,apartment,6352,9067,2,4,2,1459
+554,Downtown Bridgeport,apartment,733429,982605,3,5,3,1714
+555,Hoboken Waterfront,apartment,8720,9708,4,6,4,1872
+556,Astoria,co-op,3765,4827,1,3,1,973
+559,Downtown Stamford,condo,1326525,1701951,4,6,4,1765
+560,Long Island City,single-family home,627657,745273,0,2,1,893
+561,Chelsea,apartment,1383634,1725035,2,4,2,1438
+565,DUMBO,townhouse,5099,6935,1,3,1,1077
+570,Upper West Side,condo,6206,7458,1,3,1,1217
+572,DUMBO,condo,1248984,1506085,2,4,2,1402
+573,Downtown Stamford,townhouse,5105,6404,2,4,2,1347
+574,Downtown Stamford,apartment,4470,6058,2,4,2,1443
+575,Upper West Side,apartment,1123328,1414865,3,5,3,1963
+576,Hoboken Waterfront,single-family home,775077,1065027,2,4,2,1575
+577,Jersey City Waterfront,condo,5701,7128,2,4,2,1504
+578,Riverdale,condo,3174,4514,1,3,1,1130
+579,Astoria,condo,617411,764543,2,4,2,1297
+581,Upper West Side,townhouse,1050341,1517098,3,5,3,1668
+583,Downtown Stamford,townhouse,6127,7740,3,5,3,1790
+584,Greenwich Downtown,co-op,1643732,2170482,4,6,4,2030
+589,West Hartford Center,condo,621339,744152,1,3,1,1237
+591,Upper West Side,condo,1327811,1775674,3,5,3,1762
+592,Upper East Side,condo,673893,808410,0,2,1,690
+593,Upper West Side,single-family home,1095621,1405080,3,5,3,1698
+594,Upper East Side,single-family home,903688,1369242,3,5,3,1489
+595,DUMBO,townhouse,1272423,1900676,3,5,3,1729
+596,Montclair Center,single-family home,4319,5279,2,4,2,1408
+597,Greenwich Village,condo,984950,1280828,2,4,2,1257
+598,Montclair Center,single-family home,3923,4558,1,3,1,1379
+600,Forest Hills,condo,710714,869717,2,4,2,1526
+601,West Hartford Center,condo,5690,7440,4,6,4,1841
+604,Greenwich Downtown,apartment,4775,6564,1,3,1,1091
+605,Financial District,apartment,7052,8615,2,4,2,1196
+606,Astoria,single-family home,455997,647008,1,3,1,1268
+608,Forest Hills,apartment,471261,650927,1,3,1,1281
+609,SoHo,single-family home,1616003,1935021,3,5,3,2089
+610,Upper West Side,single-family home,700354,866550,1,3,1,944
+611,Downtown Stamford,condo,825122,1024319,2,4,2,1078
+612,Upper East Side,single-family home,821364,1233012,1,3,1,808
+613,Upper East Side,condo,598739,896547,1,3,1,798
+614,Downtown Stamford,co-op,627522,887903,1,3,1,1280
+615,Downtown Bridgeport,single-family home,520418,646874,1,3,1,1015
+617,Downtown Bridgeport,co-op,403672,594845,2,4,2,1395
+619,Park Slope,apartment,4473,5717,1,3,1,1088
+620,SoHo,apartment,850393,1293327,1,3,1,909
+621,SoHo,single-family home,1333361,1726235,2,4,2,1332
+622,Chelsea,condo,1282684,1590401,2,4,2,1483
+624,Long Island City,apartment,687249,902444,1,3,1,1041
+625,Financial District,condo,3439,4267,0,2,1,561
+626,Greenwich Village,townhouse,1898397,2307953,4,6,4,1923
+627,Jersey City Waterfront,duplex,1057249,1423247,3,5,3,2123
+628,Downtown Stamford,apartment,653451,926507,1,3,1,1360
+629,Financial District,apartment,776062,1141531,2,4,2,1414
+630,St. George,condo,3214,4392,2,4,2,1561
+632,Upper West Side,co-op,5354,6929,2,4,2,1381
+633,Financial District,co-op,4898,6388,1,3,1,964
+634,Riverdale,single-family home,527707,661219,2,4,2,1523
+635,Jersey City Waterfront,apartment,606915,751972,1,3,1,956
+637,St. George,apartment,3038,4254,2,4,2,1321
+638,Williamsburg,duplex,913492,1188606,1,3,1,1360
+639,Astoria,condo,480686,601296,0,2,1,1017
+640,Astoria,co-op,349846,520584,0,2,1,806
+643,Williamsburg,apartment,653117,818905,1,3,1,955
+644,Financial District,single-family home,4628,6220,1,3,1,917
+645,St. George,apartment,485198,734184,2,4,2,1307
+646,Forest Hills,single-family home,527459,631252,1,3,1,1181
+649,Riverdale,condo,414241,571606,1,3,1,1185
+652,Riverdale,condo,710591,915234,2,4,2,1504
+653,Park Slope,duplex,550345,814793,1,3,1,1071
+654,Downtown Bridgeport,condo,1986,2627,0,2,1,701
+655,Greenwich Village,townhouse,8450,10674,2,4,2,1539
+657,SoHo,single-family home,765836,1103558,0,2,1,884
+658,DUMBO,apartment,1179780,1460288,2,4,2,1458
+659,Downtown Stamford,condo,593716,714361,0,2,1,597
+660,Hoboken Waterfront,single-family home,942883,1148456,1,3,1,1093
+661,Chelsea,duplex,1069390,1417625,2,4,2,1364
+662,Financial District,apartment,4709,5430,0,2,1,954
+663,Park Slope,condo,831113,1129811,3,5,3,1936
+665,Williamsburg,townhouse,4331,5505,1,3,1,884
+668,Williamsburg,condo,728542,948185,0,2,1,931
+670,Tribeca,condo,1283868,1547481,1,3,1,876
+671,Forest Hills,condo,752189,1143125,2,4,2,1520
+672,St. George,co-op,596454,794379,2,4,2,1412
+673,Forest Hills,apartment,4386,5512,2,4,2,1341
+675,Downtown Bridgeport,apartment,4482,5670,3,5,3,1824
+676,Williamsburg,townhouse,4559,5360,1,3,1,1013
+677,Downtown Bridgeport,co-op,2484,2792,0,2,1,765
+679,Tribeca,apartment,1107727,1587429,2,4,2,1427
+680,Chelsea,single-family home,6765,8114,2,4,2,1789
+681,SoHo,townhouse,1210428,1473285,1,3,1,1400
+682,West Hartford Center,single-family home,477338,564708,0,2,1,906
+683,Riverdale,apartment,6301,7203,4,6,4,1869
+684,Flushing,townhouse,471679,572211,1,3,1,852
+686,Downtown Stamford,condo,959932,1235942,3,5,3,1908
+687,Downtown Stamford,condo,2997,3411,0,2,1,920
+690,Astoria,single-family home,973919,1373036,4,6,4,2005
+691,Park Slope,condo,993030,1285476,2,4,2,1409
+692,Hoboken Waterfront,duplex,867221,1073908,1,3,1,1098
+693,Chelsea,townhouse,7073,9220,2,4,2,1422
+694,Upper West Side,townhouse,7141,8097,2,4,2,1480
+697,Long Island City,apartment,939944,1398325,2,4,2,1462
+698,Long Island City,single-family home,630539,958012,1,3,1,1246
+699,Long Island City,townhouse,964801,1266546,3,5,3,2140
+700,Chelsea,townhouse,1228143,1526184,2,4,2,1401
+702,Tribeca,apartment,1447703,2074886,2,4,2,1450
+703,Greenwich Village,townhouse,809151,1014640,0,2,1,731
+705,Hoboken Waterfront,condo,896357,1133814,1,3,1,1228
+706,West Hartford Center,duplex,3485,4561,1,3,1,1146
+707,Park Slope,apartment,5603,7142,2,4,2,1482
+708,Upper West Side,single-family home,428530,595972,0,2,1,464
+709,St. George,townhouse,713171,874079,3,5,3,1853
+710,St. George,single-family home,454026,577890,1,3,1,644
+711,Jersey City Waterfront,co-op,1012919,1368078,2,4,2,1585
+712,Long Island City,single-family home,1082541,1290164,2,4,2,1161
+714,Chelsea,condo,1072208,1296824,2,4,2,1516
+716,Chelsea,single-family home,1026488,1237346,2,4,2,1598
+717,DUMBO,townhouse,6573,9189,2,4,2,1286
+718,SoHo,townhouse,862799,1092959,1,3,1,848
+719,St. George,condo,422523,611598,2,4,2,1495
+720,Downtown Stamford,co-op,497232,678068,1,3,1,1373
+721,Greenwich Downtown,townhouse,741019,1095525,1,3,1,1121
+722,Long Island City,townhouse,870330,1091266,2,4,2,1144
+723,Upper East Side,apartment,513631,775188,0,2,1,869
+724,Williamsburg,apartment,638469,846862,0,2,1,568
+726,Astoria,co-op,3610,4698,1,3,1,1230
+727,Downtown Stamford,condo,827283,1107134,2,4,2,1110
+729,Greenwich Downtown,condo,8575,9875,3,5,3,1583
+731,Riverdale,single-family home,377811,494874,0,2,1,845
+732,DUMBO,apartment,676847,964168,1,3,1,1201
+734,St. George,apartment,3128,4129,2,4,2,1396
+736,Upper West Side,duplex,784473,1109775,2,4,2,1348
+738,SoHo,co-op,4522,6177,0,2,1,885
+739,Jersey City Waterfront,single-family home,4315,4824,1,3,1,806
+740,Downtown Bridgeport,apartment,860068,1098047,4,6,4,2115
+741,Tribeca,co-op,976264,1449790,2,4,2,1494
+743,Astoria,co-op,440362,596553,0,2,1,694
+744,Long Island City,condo,951404,1247748,3,5,3,1975
+745,Upper West Side,single-family home,7369,8229,2,4,2,1313
+747,Tribeca,condo,1416051,1868207,3,5,3,1553
+748,SoHo,apartment,841430,1247861,1,3,1,899
+749,Upper East Side,co-op,1040682,1387792,2,4,2,1728
+750,Tribeca,single-family home,1412832,1690876,1,3,1,1279
+751,Tribeca,condo,7023,8285,2,4,2,1107
+752,Downtown Jersey City,condo,441952,558663,0,2,1,679
+754,St. George,duplex,4339,4855,2,4,2,1511
+755,Hoboken Waterfront,condo,883926,1091381,1,3,1,1478
+757,West Hartford Center,duplex,5418,6873,3,5,3,1638
+758,Downtown Bridgeport,condo,3021,3797,2,4,2,1372
+760,Upper West Side,condo,5920,7307,2,4,2,1548
+761,DUMBO,duplex,4767,5789,1,3,1,1112
+762,Williamsburg,single-family home,869513,1300700,2,4,2,1677
+764,Upper West Side,condo,5870,7943,2,4,2,1189
+765,Downtown Jersey City,duplex,780794,932701,2,4,2,1682
+766,Park Slope,condo,3533,4930,1,3,1,830
+767,Riverdale,co-op,716255,851140,2,4,2,1144
+769,Downtown Jersey City,co-op,614414,821307,1,3,1,1352
+772,Montclair Center,single-family home,878317,1047261,2,4,2,1582
+773,Greenwich Downtown,condo,7808,10702,4,6,4,2100
+774,Forest Hills,condo,508835,702262,1,3,1,1136
+775,DUMBO,single-family home,548552,770854,0,2,1,739
+776,Riverdale,apartment,762431,1142186,3,5,3,1673
+777,West Hartford Center,apartment,637947,799127,1,3,1,940
+778,Forest Hills,single-family home,4522,5968,2,4,2,1374
+779,West Hartford Center,apartment,6500,8283,4,6,4,2119
+780,Forest Hills,single-family home,832836,1085219,4,6,4,2114
+782,Chelsea,townhouse,8760,11517,4,6,4,2386
+783,Downtown Jersey City,duplex,477212,719535,0,2,1,576
+784,Hoboken Waterfront,townhouse,1071026,1604079,3,5,3,1863
+786,Forest Hills,apartment,3506,4647,1,3,1,1117
+787,SoHo,condo,1318044,1664094,2,4,2,1549
+788,Tribeca,single-family home,1735133,2125200,4,6,4,2438
+789,DUMBO,single-family home,744969,1131405,1,3,1,1062
+791,DUMBO,duplex,1180481,1660819,2,4,2,1684
+792,Jersey City Waterfront,condo,3278,4401,0,2,1,768
+794,Upper East Side,condo,5540,7290,2,4,2,1258
+795,Downtown Stamford,single-family home,5337,6718,2,4,2,1406
+796,Downtown Stamford,apartment,641901,907233,1,3,1,1228
+797,SoHo,townhouse,1030895,1308959,1,3,1,1254
+798,Williamsburg,apartment,633896,789466,1,3,1,970
+799,St. George,apartment,3666,5140,2,4,2,1726
+800,West Hartford Center,single-family home,2441,3067,0,2,1,781
+803,Forest Hills,condo,484164,624246,0,2,1,608
+804,St. George,townhouse,550267,676290,1,3,1,911
+805,Long Island City,condo,4587,5628,1,3,1,1022
+806,Park Slope,condo,923319,1395370,4,6,4,2055
+809,Astoria,apartment,5858,6986,3,5,3,1842
+811,Long Island City,condo,4048,5366,1,3,1,1325
+812,Forest Hills,co-op,836668,994813,2,4,2,1509
+813,Upper West Side,single-family home,7232,8974,3,5,3,1744
+814,Chelsea,apartment,6363,7458,1,3,1,1283
+817,SoHo,single-family home,826884,1074221,0,2,1,767
+818,SoHo,single-family home,1030073,1249348,1,3,1,882
+819,Greenwich Downtown,single-family home,834578,1184989,1,3,1,959
+820,Downtown Bridgeport,apartment,643097,961042,3,5,3,1962
+823,Hoboken Waterfront,apartment,5728,7861,3,5,3,1526
+824,Tribeca,condo,972951,1342737,1,3,1,991
+826,St. George,townhouse,4320,4887,3,5,3,1552
+830,SoHo,single-family home,722927,1061707,1,3,1,1179
+831,Williamsburg,condo,6995,8143,2,4,2,1214
+832,Jersey City Waterfront,co-op,7266,8388,3,5,3,1789
+835,Downtown Jersey City,apartment,4700,5579,1,3,1,1234
+836,Downtown Bridgeport,apartment,2077,2874,0,2,1,855
+837,Riverdale,single-family home,664135,986369,2,4,2,1483
+838,Tribeca,single-family home,1184301,1587740,1,3,1,990
+840,DUMBO,co-op,1200408,1771029,3,5,3,1588
+841,Riverdale,townhouse,5431,6627,3,5,3,1860
+845,Astoria,single-family home,457611,643674,1,3,1,920
+846,West Hartford Center,condo,702396,1011411,2,4,2,1510
+848,Downtown Bridgeport,single-family home,2155,2892,1,3,1,731
+849,Tribeca,co-op,1712839,2024102,4,6,4,1926
+850,Forest Hills,apartment,837166,1037631,2,4,2,1639
+851,Chelsea,apartment,878446,1176201,2,4,2,1492
+853,Forest Hills,apartment,372818,555150,1,3,1,807
+854,Greenwich Downtown,co-op,685638,1035937,1,3,1,893
+861,Greenwich Village,single-family home,4599,6491,0,2,1,774
+862,DUMBO,apartment,1199160,1497247,2,4,2,1442
+863,Greenwich Village,duplex,1254401,1815131,2,4,2,1135
+867,Financial District,condo,1178134,1635601,4,6,4,1933
+868,Chelsea,condo,8269,9738,3,5,3,1880
+870,Park Slope,apartment,5971,7760,2,4,2,1246
+872,SoHo,single-family home,1155462,1433291,1,3,1,920
+873,Montclair Center,single-family home,522811,684266,1,3,1,1049
+874,Greenwich Village,co-op,868700,1082292,0,2,1,709
+875,Downtown Jersey City,single-family home,3297,4466,1,3,1,1003
+876,DUMBO,apartment,4842,5692,1,3,1,785
+877,Upper East Side,apartment,5511,7657,1,3,1,1148
+878,Financial District,townhouse,843781,1028676,0,2,1,904
+880,St. George,co-op,4038,4938,3,5,3,1734
+881,Riverdale,condo,607074,904104,2,4,2,1552
+882,Long Island City,apartment,8696,11081,4,6,4,1992
+884,Downtown Jersey City,apartment,493582,733877,1,3,1,1189
+885,Astoria,single-family home,650625,968101,3,5,3,1733
+886,Tribeca,condo,911293,1261743,1,3,1,725
+889,DUMBO,condo,6043,8534,2,4,2,1499
+891,Astoria,co-op,844686,1161949,3,5,3,1715
+893,Riverdale,duplex,477218,669873,1,3,1,950
+896,Riverdale,condo,420229,574511,1,3,1,1077
+898,Forest Hills,co-op,329202,495845,0,2,1,917
+899,St. George,condo,645175,891756,2,4,2,1646
+900,Upper East Side,condo,1037629,1386594,1,3,1,1187
+901,Greenwich Village,apartment,7452,9263,2,4,2,1434
+902,Greenwich Downtown,apartment,7095,9737,4,6,4,2020
+904,Flushing,condo,4041,4513,1,3,1,1184
+906,West Hartford Center,single-family home,3035,3390,0,2,1,569
+909,Chelsea,condo,970852,1407405,2,4,2,1469
+910,Financial District,apartment,738325,870531,0,2,1,764
+911,Greenwich Village,apartment,9493,12094,4,6,4,1967
+912,St. George,townhouse,3551,4214,2,4,2,1718
+913,Hoboken Waterfront,single-family home,595769,743540,0,2,1,777
+914,Downtown Stamford,co-op,4443,5762,1,3,1,1274
+915,Greenwich Downtown,co-op,7419,9501,3,5,3,1485
+916,St. George,apartment,294288,433112,0,2,1,747
+917,Riverdale,single-family home,559668,799369,3,5,3,1645
+919,St. George,apartment,409098,487905,1,3,1,907
+920,Upper East Side,duplex,899155,1361180,3,5,3,1754
+922,Chelsea,condo,781960,1193195,1,3,1,1098
+923,SoHo,single-family home,989969,1259758,1,3,1,1325
+925,Tribeca,condo,1158460,1495470,2,4,2,1215
+926,Chelsea,apartment,1420430,1883886,3,5,3,1611
+927,St. George,apartment,570299,826058,2,4,2,1513
+928,Greenwich Downtown,apartment,1211950,1613871,3,5,3,1819
+929,Jersey City Waterfront,apartment,6774,7770,3,5,3,1797
+931,Jersey City Waterfront,single-family home,4094,4801,1,3,1,1219
+932,Forest Hills,apartment,573056,850450,1,3,1,982
+933,Riverdale,townhouse,671670,926100,3,5,3,1959
+935,Riverdale,condo,348933,509114,1,3,1,987
+936,Greenwich Downtown,condo,5439,7152,1,3,1,1140
+939,Downtown Bridgeport,apartment,2456,3125,1,3,1,1087
+941,DUMBO,condo,674545,902413,0,2,1,703
+942,Greenwich Village,townhouse,1541444,2060449,3,5,3,2120
+943,Jersey City Waterfront,condo,768452,1005246,1,3,1,1223
+944,St. George,apartment,510730,749682,2,4,2,1513
+945,Upper West Side,townhouse,1139424,1521386,3,5,3,1744
+946,Flushing,apartment,541667,751739,1,3,1,1203
+947,DUMBO,condo,5412,7670,2,4,2,1254
+948,Upper West Side,apartment,654110,904365,1,3,1,1186
+950,West Hartford Center,co-op,584608,727995,1,3,1,1107
+951,Downtown Stamford,apartment,514167,768022,1,3,1,1125
+952,Long Island City,condo,880359,1202043,1,3,1,1297
+953,Upper West Side,single-family home,1348416,1927624,4,6,4,1721
+954,Downtown Stamford,condo,4041,5637,2,4,2,1221
+957,Downtown Bridgeport,single-family home,415231,584025,2,4,2,1501
+958,Astoria,single-family home,761220,1004669,3,5,3,1830
+959,Upper West Side,apartment,597103,725808,0,2,1,450
+962,Hoboken Waterfront,apartment,1030224,1403127,3,5,3,1620
+963,Upper East Side,apartment,1115783,1453604,2,4,2,1170
+965,Astoria,apartment,669867,920071,2,4,2,1409
+966,Hoboken Waterfront,condo,4902,6146,2,4,2,1307
+967,Downtown Bridgeport,single-family home,2820,3677,1,3,1,1156
+968,Downtown Jersey City,apartment,549156,700922,0,2,1,737
+974,SoHo,single-family home,7898,10222,2,4,2,1674
+975,Forest Hills,apartment,3247,3926,1,3,1,908
+976,Chelsea,single-family home,6516,8073,1,3,1,1231
+977,DUMBO,duplex,703031,990933,1,3,1,1086
+978,Hoboken Waterfront,apartment,3991,5357,1,3,1,933
+981,West Hartford Center,duplex,685211,863485,1,3,1,1210
+983,Hoboken Waterfront,duplex,966050,1346661,4,6,4,2071
+984,Chelsea,apartment,7406,9187,2,4,2,1497
+987,Forest Hills,apartment,509526,629721,1,3,1,984
+988,Downtown Stamford,condo,5163,6447,2,4,2,1162
+989,DUMBO,townhouse,1453093,1917037,4,6,4,2261
+990,Financial District,single-family home,562587,803406,0,2,1,771
+993,Downtown Jersey City,apartment,776971,967962,2,4,2,1172
+994,SoHo,condo,1472482,1898584,2,4,2,1530
+996,Downtown Jersey City,condo,7688,9430,4,6,4,2070
+997,Financial District,apartment,4692,5426,0,2,1,872
+998,Riverdale,single-family home,3968,4795,2,4,2,1711
+999,Montclair Center,co-op,3377,3832,0,2,1,684
+1000,Hoboken Waterfront,duplex,5441,7643,2,4,2,1522

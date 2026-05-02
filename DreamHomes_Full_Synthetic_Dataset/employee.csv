@@ -1,0 +1,121 @@
+employee_id,office_id,first_name,last_name,email,phone,employment_type,job_title,hire_date,employment_status
+1,3,Danielle,Johnson,danielle.johnson1@dreamhomesnyc.com,433-218-1960,part-time,Agent,2021-07-29,active
+2,5,Anthony,Robinson,anthony.robinson2@dreamhomesnyc.com,890-838-6379,full-time,Agent,2024-10-17,active
+3,1,Joshua,Booth,joshua.booth3@dreamhomesnyc.com,265-423-5116,part-time,Agent,2024-01-22,active
+4,6,Colin,Abbott,colin.abbott4@dreamhomesnyc.com,940-781-6184,full-time,Agent,2021-06-28,active
+5,7,Maria,Montgomery,maria.montgomery5@dreamhomesnyc.com,593-103-4131,full-time,Agent,2024-04-24,active
+6,2,Norman,Chavez,norman.chavez6@dreamhomesnyc.com,525-534-1928,full-time,Agent,2023-05-15,active
+7,3,Jessica,Martin,jessica.martin7@dreamhomesnyc.com,648-350-3056,full-time,Agent,2021-03-07,active
+8,1,Joseph,Clark,joseph.clark8@dreamhomesnyc.com,953-767-2423,full-time,Agent,2021-03-03,active
+9,4,Julie,Ryan,julie.ryan9@dreamhomesnyc.com,969-653-2871,full-time,Agent,2021-07-11,active
+10,4,Katelyn,Callahan,katelyn.callahan10@dreamhomesnyc.com,226-916-6978,full-time,Agent,2022-03-24,active
+11,5,John,Tran,john.tran11@dreamhomesnyc.com,018-451-4627,full-time,Agent,2022-04-22,active
+12,8,Aaron,Bowen,aaron.bowen12@dreamhomesnyc.com,482-814-8932,part-time,Agent,2023-11-01,active
+13,2,Nathaniel,Martin,nathaniel.martin13@dreamhomesnyc.com,809-570-1543,full-time,Agent,2024-05-17,active
+14,3,Brian,Humphrey,brian.humphrey14@dreamhomesnyc.com,117-182-2782,full-time,Agent,2021-02-24,active
+15,1,Joseph,Brennan,joseph.brennan15@dreamhomesnyc.com,638-346-5787,part-time,Agent,2024-02-24,active
+16,5,David,Walker,david.walker16@dreamhomesnyc.com,509-839-3010,full-time,Agent,2022-02-12,active
+17,4,Jeremy,Whitehead,jeremy.whitehead17@dreamhomesnyc.com,518-347-3829,full-time,Agent,2025-01-06,active
+18,6,Barbara,Sanchez,barbara.sanchez18@dreamhomesnyc.com,763-116-5667,part-time,Agent,2024-08-23,active
+19,5,Michelle,Brown,michelle.brown19@dreamhomesnyc.com,106-513-3387,part-time,Agent,2024-12-07,active
+20,2,Donald,White,donald.white20@dreamhomesnyc.com,731-781-0801,full-time,Agent,2024-01-22,active
+21,3,Sara,Allison,sara.allison21@dreamhomesnyc.com,267-736-0260,full-time,Agent,2023-05-10,active
+22,3,Tricia,Baker,tricia.baker22@dreamhomesnyc.com,746-872-3430,full-time,Agent,2022-03-28,active
+23,1,Beth,Daniels,beth.daniels23@dreamhomesnyc.com,500-978-8208,full-time,Agent,2023-07-09,active
+24,8,Christopher,Lopez,christopher.lopez24@dreamhomesnyc.com,913-619-3990,full-time,Agent,2024-04-21,active
+25,1,Christine,Barnes,christine.barnes25@dreamhomesnyc.com,998-543-5346,full-time,Agent,2022-07-24,active
+26,6,David,Brewer,david.brewer26@dreamhomesnyc.com,751-079-9118,full-time,Agent,2021-01-14,active
+27,3,Jason,Baker,jason.baker27@dreamhomesnyc.com,513-542-7849,full-time,Agent,2021-11-23,active
+28,5,Tonya,Roman,tonya.roman28@dreamhomesnyc.com,808-412-4118,full-time,Agent,2024-11-30,active
+29,2,Eric,Campbell,eric.campbell29@dreamhomesnyc.com,353-487-4016,full-time,Agent,2023-05-16,active
+30,5,Maria,Williams,maria.williams30@dreamhomesnyc.com,524-278-6801,part-time,Agent,2022-11-28,active
+31,1,Charles,Ware,charles.ware31@dreamhomesnyc.com,280-598-2620,full-time,Agent,2022-07-24,active
+32,4,Kyle,Nolan,kyle.nolan32@dreamhomesnyc.com,053-315-8692,full-time,Agent,2021-11-15,active
+33,4,Sara,Young,sara.young33@dreamhomesnyc.com,226-025-6342,full-time,Agent,2022-03-17,active
+34,1,Kristin,Rodriguez,kristin.rodriguez34@dreamhomesnyc.com,073-375-4330,full-time,Agent,2022-11-21,active
+35,2,Donna,Ross,donna.ross35@dreamhomesnyc.com,414-586-8501,full-time,Agent,2021-07-29,active
+36,2,Natalie,Green,natalie.green36@dreamhomesnyc.com,940-196-5569,full-time,Agent,2021-07-09,active
+37,2,Tracey,Wilson,tracey.wilson37@dreamhomesnyc.com,934-060-8835,full-time,Agent,2023-02-18,active
+38,1,Ryan,Rush,ryan.rush38@dreamhomesnyc.com,595-148-4656,part-time,Agent,2021-07-18,active
+39,5,Heidi,Spencer,heidi.spencer39@dreamhomesnyc.com,366-299-4680,part-time,Agent,2023-01-06,active
+40,2,Kevin,Clark,kevin.clark40@dreamhomesnyc.com,995-777-3872,part-time,Agent,2022-12-06,active
+41,7,Donna,Campbell,donna.campbell41@dreamhomesnyc.com,951-343-3200,part-time,Agent,2024-05-21,active
+42,1,John,Alvarez,john.alvarez42@dreamhomesnyc.com,176-936-7632,full-time,Agent,2022-06-26,active
+43,7,Diana,Smith,diana.smith43@dreamhomesnyc.com,163-287-0831,part-time,Agent,2021-03-30,active
+44,4,Stephen,Solis,stephen.solis44@dreamhomesnyc.com,889-579-8687,full-time,Agent,2025-02-03,active
+45,1,Phyllis,Manning,phyllis.manning45@dreamhomesnyc.com,774-348-7347,full-time,Agent,2023-07-30,active
+46,2,Chris,Mitchell,chris.mitchell46@dreamhomesnyc.com,455-812-2362,full-time,Agent,2024-01-04,active
+47,3,Jasmine,Brown,jasmine.brown47@dreamhomesnyc.com,658-760-3669,part-time,Agent,2021-09-13,active
+48,2,Sophia,Smith,sophia.smith48@dreamhomesnyc.com,967-054-6688,full-time,Agent,2023-02-15,active
+49,2,Lauren,Hurst,lauren.hurst49@dreamhomesnyc.com,734-670-6562,full-time,Agent,2021-06-11,active
+50,4,Mary,Calhoun,mary.calhoun50@dreamhomesnyc.com,980-699-0162,full-time,Agent,2024-02-05,active
+51,8,Michelle,White,michelle.white51@dreamhomesnyc.com,465-375-5646,full-time,Agent,2022-08-24,active
+52,4,Johnny,Miller,johnny.miller52@dreamhomesnyc.com,080-531-0033,part-time,Agent,2024-07-11,active
+53,6,Mary,Howell,mary.howell53@dreamhomesnyc.com,327-193-7452,full-time,Agent,2024-06-20,active
+54,6,Catherine,Stuart,catherine.stuart54@dreamhomesnyc.com,124-190-4966,full-time,Agent,2023-01-11,active
+55,5,Shelly,Gonzalez,shelly.gonzalez55@dreamhomesnyc.com,931-491-9058,full-time,Agent,2024-03-28,active
+56,7,Ross,Wood,ross.wood56@dreamhomesnyc.com,850-671-6572,full-time,Agent,2022-01-29,active
+57,1,Ryan,Gross,ryan.gross57@dreamhomesnyc.com,498-776-9453,full-time,Agent,2024-12-13,active
+58,1,Mariah,Miller,mariah.miller58@dreamhomesnyc.com,737-996-5075,full-time,Agent,2021-05-23,active
+59,5,Hunter,Lewis,hunter.lewis59@dreamhomesnyc.com,454-948-0831,full-time,Agent,2021-04-04,active
+60,3,John,Russell,john.russell60@dreamhomesnyc.com,837-770-1436,part-time,Agent,2024-09-16,active
+61,3,Heather,Torres,heather.torres61@dreamhomesnyc.com,957-885-6855,full-time,Agent,2022-04-12,active
+62,8,Jacqueline,Nelson,jacqueline.nelson62@dreamhomesnyc.com,431-351-8233,full-time,Agent,2022-08-16,active
+63,7,Joanna,Hill,joanna.hill63@dreamhomesnyc.com,989-413-4352,full-time,Agent,2021-06-13,active
+64,2,Kevin,Erickson,kevin.erickson64@dreamhomesnyc.com,240-084-2710,full-time,Agent,2022-04-22,active
+65,8,Audrey,Harrison,audrey.harrison65@dreamhomesnyc.com,752-047-1167,full-time,Agent,2021-07-26,active
+66,3,Charles,Soto,charles.soto66@dreamhomesnyc.com,022-941-3186,full-time,Agent,2023-02-18,active
+67,8,Catherine,Gibbs,catherine.gibbs67@dreamhomesnyc.com,386-774-9649,full-time,Agent,2022-07-24,active
+68,1,Christine,Lynch,christine.lynch68@dreamhomesnyc.com,133-412-3281,full-time,Agent,2023-07-18,active
+69,5,Eric,Ortiz,eric.ortiz69@dreamhomesnyc.com,974-034-4713,full-time,Agent,2024-07-25,active
+70,5,Sandra,French,sandra.french70@dreamhomesnyc.com,936-183-2421,full-time,Agent,2023-01-18,active
+71,4,Brian,Sparks,brian.sparks71@dreamhomesnyc.com,994-717-4648,full-time,Agent,2021-11-30,active
+72,2,Amber,Kim,amber.kim72@dreamhomesnyc.com,906-594-0139,full-time,Agent,2023-01-29,active
+73,2,Brenda,Smith,brenda.smith73@dreamhomesnyc.com,490-278-7429,full-time,Client Coordinator,2022-12-29,active
+74,7,Ryan,Olsen,ryan.olsen74@dreamhomesnyc.com,175-655-1256,full-time,Marketing Coordinator,2024-10-04,active
+75,1,Heather,Roberts,heather.roberts75@dreamhomesnyc.com,680-715-4516,full-time,Office Manager,2024-12-08,active
+76,2,Michelle,Bryan,michelle.bryan76@dreamhomesnyc.com,087-603-8597,part-time,Client Coordinator,2024-06-01,active
+77,8,Colleen,Wolf,colleen.wolf77@dreamhomesnyc.com,348-247-7109,full-time,Client Coordinator,2023-12-30,active
+78,4,Lauren,Mckinney,lauren.mckinney78@dreamhomesnyc.com,480-861-3171,full-time,Operations Associate,2021-12-01,active
+79,2,Deborah,Moore,deborah.moore79@dreamhomesnyc.com,484-677-3782,full-time,Marketing Coordinator,2023-02-17,active
+80,1,Patrick,Weeks,patrick.weeks80@dreamhomesnyc.com,821-465-8404,full-time,Administrative Assistant,2024-08-03,active
+81,8,Jessica,Monroe,jessica.monroe81@dreamhomesnyc.com,972-787-5588,part-time,Marketing Coordinator,2022-03-26,active
+82,3,Nicholas,Cantu,nicholas.cantu82@dreamhomesnyc.com,339-636-0576,full-time,Client Coordinator,2021-04-25,active
+83,3,Paul,Alvarado,paul.alvarado83@dreamhomesnyc.com,270-289-5171,part-time,Marketing Coordinator,2021-03-07,active
+84,7,Alicia,Bryant,alicia.bryant84@dreamhomesnyc.com,262-174-5961,full-time,Marketing Coordinator,2023-04-02,active
+85,7,Melissa,Phelps,melissa.phelps85@dreamhomesnyc.com,865-780-9134,full-time,Client Coordinator,2021-05-16,active
+86,4,Wendy,Francis,wendy.francis86@dreamhomesnyc.com,611-724-0050,part-time,Marketing Coordinator,2024-03-07,active
+87,4,Kelly,Brooks,kelly.brooks87@dreamhomesnyc.com,238-692-2219,full-time,Operations Associate,2022-03-12,active
+88,8,Monica,Harvey,monica.harvey88@dreamhomesnyc.com,379-237-4740,full-time,Operations Associate,2023-03-22,active
+89,8,Rachel,Marshall,rachel.marshall89@dreamhomesnyc.com,482-175-9464,full-time,Marketing Coordinator,2021-10-20,active
+90,6,Stephen,Turner,stephen.turner90@dreamhomesnyc.com,671-369-5944,full-time,Client Coordinator,2021-10-13,active
+91,7,Andrew,Greer,andrew.greer91@dreamhomesnyc.com,640-909-7439,full-time,Administrative Assistant,2024-02-24,active
+92,8,Laurie,Robinson,laurie.robinson92@dreamhomesnyc.com,394-210-4709,full-time,Administrative Assistant,2022-06-23,active
+93,7,Michael,Anderson,michael.anderson93@dreamhomesnyc.com,456-232-8588,full-time,Administrative Assistant,2023-05-28,active
+94,7,Robin,Rivas,robin.rivas94@dreamhomesnyc.com,474-517-1236,part-time,Marketing Coordinator,2023-03-29,active
+95,3,Tammy,Ballard,tammy.ballard95@dreamhomesnyc.com,516-048-1754,full-time,Client Coordinator,2022-03-26,active
+96,1,Brenda,Carson,brenda.carson96@dreamhomesnyc.com,513-709-8593,full-time,Operations Associate,2023-11-10,active
+97,2,Deborah,Reid,deborah.reid97@dreamhomesnyc.com,746-120-0471,full-time,Office Manager,2021-07-06,active
+98,1,Colton,Clay,colton.clay98@dreamhomesnyc.com,267-586-9261,part-time,Client Coordinator,2021-08-13,active
+99,1,Martha,Gilbert,martha.gilbert99@dreamhomesnyc.com,405-377-3515,full-time,Client Coordinator,2024-07-09,active
+100,2,Amy,Levine,amy.levine100@dreamhomesnyc.com,506-431-7139,full-time,Operations Associate,2024-10-25,active
+101,1,Tasha,Williams,tasha.williams101@dreamhomesnyc.com,532-931-8393,full-time,Office Manager,2024-05-06,active
+102,5,Lisa,Hall,lisa.hall102@dreamhomesnyc.com,290-422-8421,full-time,Operations Associate,2023-02-28,on leave
+103,4,Donna,Johnson,donna.johnson103@dreamhomesnyc.com,053-950-2402,full-time,Operations Associate,2024-05-05,active
+104,2,Judy,Fox,judy.fox104@dreamhomesnyc.com,177-589-1783,full-time,Marketing Coordinator,2023-12-20,active
+105,1,Sonia,Williams,sonia.williams105@dreamhomesnyc.com,847-007-6617,part-time,Office Manager,2024-02-08,active
+106,6,Jennifer,Wallace,jennifer.wallace106@dreamhomesnyc.com,159-212-4998,full-time,Office Manager,2024-10-25,active
+107,1,Jennifer,James,jennifer.james107@dreamhomesnyc.com,984-789-6118,full-time,Administrative Assistant,2024-10-28,active
+108,6,Jennifer,Lewis,jennifer.lewis108@dreamhomesnyc.com,736-576-6156,full-time,Marketing Coordinator,2022-07-01,active
+109,8,Larry,Scott,larry.scott109@dreamhomesnyc.com,271-111-6152,full-time,Marketing Coordinator,2021-08-17,active
+110,5,Angela,Willis,angela.willis110@dreamhomesnyc.com,885-165-6049,full-time,Client Coordinator,2023-06-10,active
+111,3,Larry,Garcia,larry.garcia111@dreamhomesnyc.com,832-731-5851,full-time,Office Manager,2023-07-19,active
+112,1,Kathryn,Andrews,kathryn.andrews112@dreamhomesnyc.com,689-980-9402,full-time,Marketing Coordinator,2025-01-18,active
+113,7,Joshua,Farmer,joshua.farmer113@dreamhomesnyc.com,550-229-6120,full-time,Client Coordinator,2023-10-23,active
+114,1,Christopher,Moreno,christopher.moreno114@dreamhomesnyc.com,667-525-4599,full-time,Office Manager,2023-11-06,active
+115,1,Christopher,Williams,christopher.williams115@dreamhomesnyc.com,290-147-6797,full-time,Marketing Coordinator,2024-07-04,active
+116,5,Robert,Lewis,robert.lewis116@dreamhomesnyc.com,815-614-9784,full-time,Administrative Assistant,2024-08-01,active
+117,3,Brandon,Foster,brandon.foster117@dreamhomesnyc.com,900-343-2445,full-time,Client Coordinator,2024-06-01,active
+118,7,David,Jimenez,david.jimenez118@dreamhomesnyc.com,622-683-8851,full-time,Marketing Coordinator,2021-11-10,active
+119,1,Randy,Harmon,randy.harmon119@dreamhomesnyc.com,607-159-6966,full-time,Administrative Assistant,2021-11-27,active
+120,4,Keith,Sullivan,keith.sullivan120@dreamhomesnyc.com,529-751-6136,part-time,Office Manager,2023-12-23,active

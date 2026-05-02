@@ -1,0 +1,851 @@
+property_id,neighborhood_id,street_address,city,state,zip_code,property_type,square_feet,bedrooms,bathrooms,year_built
+1,3,2175 Brown Forks,New York,NY,11249,single-family home,2619,3,3,1979
+2,14,8707 Brenda Prairie,New York,NY,11101,apartment,1582,3,1,1944
+3,1,7904 Marshall Plain,New York,NY,11249,co-op,934,0,1,1947
+4,20,1896 Luis Roads,Montclair,NJ,07043,apartment,1001,1,2,1919
+5,7,6521 James Crescent,New York,NY,11249,apartment,1243,2,1,1981
+6,18,6474 Miller Flat,Jersey City,NJ,07302,single-family home,3327,4,5,1943
+7,9,6048 Amy Forge,New York,NY,10463,duplex,1534,2,3,2005
+8,14,6252 Evans Branch,New York,NY,11375,townhouse,2230,2,2,1957
+9,17,420 Callahan Creek,Jersey City,NJ,07310,townhouse,3119,5,3,2023
+10,7,3636 Waters Fields,New York,NY,11375,apartment,1667,3,2,1918
+11,1,4961 Gay Glen,New York,NY,11375,condo,1767,4,2,1962
+12,4,4996 Guzman Park,New York,NY,10038,condo,988,2,1,1924
+13,18,6377 Mark Orchard,Jersey City,NJ,07306,condo,1727,3,3,1957
+14,11,8860 Bean Hills,New York,NY,10028,single-family home,2503,3,4,1985
+15,14,6807 Camacho Gateway,New York,NY,11375,condo,858,1,2,1922
+16,15,6696 Hill Points,New York,NY,10021,condo,1797,3,1,1914
+17,21,7274 Garrett Creek,Stamford,CT,06902,condo,1315,2,1,1940
+18,6,6028 Tony Island,New York,NY,11102,single-family home,2239,2,3,1992
+19,8,4530 Simpson Fall,New York,NY,10014,apartment,621,1,2,1925
+20,12,7460 Kathleen Spring,New York,NY,10003,co-op,953,0,2,1994
+21,23,9793 Davis Wall,Bridgeport,CT,06604,co-op,1740,3,1,1916
+22,12,2073 Peterson Spur,New York,NY,11249,duplex,2292,2,2,1982
+23,18,9090 James Coves,Jersey City,NJ,07304,single-family home,2826,3,3,1985
+24,8,5393 Jason Parkway,New York,NY,11215,condo,1196,0,1,1928
+25,15,56 Flores Pines,New York,NY,10021,duplex,2941,5,2,2019
+26,18,8860 Garcia Hills,Jersey City,NJ,07305,condo,1344,2,1,2012
+27,1,432 Ashley Drives,New York,NY,10012,apartment,955,1,2,1911
+28,1,3908 Moore Trafficway,New York,NY,11105,duplex,3298,5,3,1951
+29,24,2086 Floyd Walk,West Hartford,CT,06119,co-op,1793,4,1,1963
+30,4,1051 Chelsea Estate,New York,NY,10038,apartment,1223,2,2,1967
+31,13,9736 Frye Mountains,New York,NY,10011,apartment,1861,3,2,1967
+32,6,720 Chan Grove,New York,NY,11201,condo,1827,4,1,2010
+33,11,8553 Sarah Mountains,New York,NY,10022,single-family home,3182,5,2,1968
+34,3,1006 Wood Inlet,New York,NY,10038,duplex,3141,4,2,2018
+35,11,1778 Acosta Village,New York,NY,10038,townhouse,2220,2,2,2001
+36,12,1333 Cole Manors,New York,NY,10023,condo,1172,0,1,1987
+37,10,4515 Farmer Avenue,New York,NY,11354,apartment,919,0,2,1991
+38,23,5337 Brown Lodge,Bridgeport,CT,06605,apartment,2052,4,3,1986
+39,17,8292 Brewer Dam,Jersey City,NJ,07310,duplex,3125,4,3,1965
+40,2,9043 Wang Brook,New York,NY,11201,townhouse,2800,5,2,2020
+41,19,3753 Jason Stravenue,Hoboken,NJ,07030,single-family home,3810,6,5,1953
+42,18,6825 Phillips Landing,Jersey City,NJ,07302,apartment,1312,2,2,1950
+43,5,4186 Marc Turnpike,New York,NY,10024,townhouse,3146,4,2,1929
+44,11,1109 Nguyen Points,New York,NY,10003,apartment,1029,0,1,2016
+45,22,6115 Lauren River,Greenwich,CT,06830,apartment,1433,2,1,1981
+46,17,2012 Gates Coves,Jersey City,NJ,07306,apartment,1246,2,1,1955
+47,11,6939 John Islands,New York,NY,11201,townhouse,2423,2,2,1916
+48,24,5129 David Ramp,West Hartford,CT,06117,apartment,1614,3,1,1923
+49,9,2545 Crane Cape,New York,NY,10463,single-family home,3214,6,5,1971
+50,18,5746 Watts Squares,Jersey City,NJ,07310,apartment,1451,2,1,1957
+51,15,3715 Wright Rest,New York,NY,11249,apartment,981,1,3,1964
+52,5,9131 Brown Centers,New York,NY,10001,apartment,846,0,1,1987
+53,21,4391 Hill Land,Stamford,CT,06901,condo,2246,4,2,1933
+54,12,5072 Mclean Creek,New York,NY,10023,single-family home,2393,3,3,1954
+55,21,6576 Taylor Summit,Stamford,CT,06901,duplex,2869,5,3,1928
+56,11,1513 Mark Trail,New York,NY,11201,apartment,1521,2,1,1977
+57,8,7442 Holloway Well,New York,NY,10023,single-family home,2122,3,2,1930
+58,19,5324 Brittany Ports,Hoboken,NJ,07030,single-family home,3151,4,4,2023
+59,18,825 Anna Mill,Jersey City,NJ,07302,townhouse,2148,3,4,1944
+60,10,7967 Mark Plains,New York,NY,11354,apartment,1024,1,2,1966
+61,1,8404 Hawkins Viaduct,New York,NY,10011,condo,1157,2,1,1954
+62,5,9727 Norris Dam,New York,NY,10038,apartment,1487,3,3,1977
+63,5,3622 Monica Squares,New York,NY,10025,townhouse,2440,4,4,1986
+64,8,3470 Krueger Lake,New York,NY,11215,townhouse,2670,4,2,1927
+65,8,5385 Burgess Forest,New York,NY,10011,single-family home,3244,5,5,1910
+66,13,2888 Manuel Forks,New York,NY,10012,townhouse,2572,2,3,1958
+67,17,8206 Cox Flat,Jersey City,NJ,07310,apartment,1731,3,2,2016
+68,7,1190 Scott Summit,New York,NY,10025,townhouse,2489,4,2,2020
+69,12,317 Donald Row,New York,NY,10036,co-op,1384,2,3,1919
+70,17,7043 Simmons Valley,Jersey City,NJ,07310,condo,2094,4,2,1961
+71,17,4753 Yates Village,Jersey City,NJ,07302,single-family home,2654,3,4,1961
+72,8,7548 Robin Passage,New York,NY,10301,duplex,2635,5,3,1956
+73,17,3996 Smith Mews,Jersey City,NJ,07306,co-op,1817,4,2,1985
+74,18,6494 Susan Well,Jersey City,NJ,07305,townhouse,2454,3,2,2005
+75,20,2764 Tyler Overpass,Montclair,NJ,07042,apartment,1427,3,3,1975
+76,17,8365 Andrews Roads,Jersey City,NJ,07304,single-family home,3007,4,5,2009
+77,1,2429 Jessica Port,New York,NY,10019,co-op,1708,3,3,1923
+78,12,2852 Terri Tunnel,New York,NY,11354,condo,906,1,3,1929
+79,3,1244 Amanda Union,New York,NY,10013,condo,1128,1,3,2008
+80,5,9246 Audrey Mountain,New York,NY,11215,townhouse,2955,4,4,1984
+81,22,5305 Karen Trafficway,Greenwich,CT,06831,apartment,1391,3,1,1929
+82,7,7255 Meyers Mountain,New York,NY,11375,condo,1367,2,1,1948
+83,17,930 Preston Streets,Jersey City,NJ,07305,condo,904,1,2,1974
+84,16,626 Debra Cliffs,New York,NY,10002,condo,740,1,1,1957
+85,23,1489 Deborah Junction,Bridgeport,CT,06606,townhouse,2740,4,3,1986
+86,18,9518 Rose Square,Jersey City,NJ,07310,apartment,794,1,1,2011
+87,10,7378 Preston Locks,New York,NY,11249,duplex,2064,2,3,1983
+88,17,9922 Smith Village,Jersey City,NJ,07306,townhouse,2336,3,3,1974
+89,9,7391 Smith Fork,New York,NY,10011,apartment,850,1,2,2013
+90,15,1391 Simmons Green,New York,NY,11101,duplex,2399,4,2,1992
+91,2,7182 Breanna Trafficway,New York,NY,10036,duplex,2781,3,2,1977
+92,15,5972 Patel Shoal,New York,NY,10024,apartment,1167,0,3,1946
+93,5,5553 Kayla Ports,New York,NY,10463,townhouse,2573,4,3,1986
+94,13,5492 Barry Stravenue,New York,NY,10003,single-family home,3461,6,2,1952
+95,3,4665 Jacob Drive,New York,NY,10021,duplex,2733,4,4,2002
+96,17,2473 Kyle Courts,Jersey City,NJ,07305,townhouse,2248,3,2,1920
+97,13,5741 Amanda Vista,New York,NY,10022,apartment,1467,2,3,1993
+98,4,2122 Kimberly Plains,New York,NY,11354,townhouse,3026,5,2,2000
+99,1,9167 Blevins Islands,New York,NY,10025,condo,961,1,2,1992
+100,6,2103 Hebert Shoals,New York,NY,10463,condo,1755,3,1,1999
+101,13,8634 James Estates,New York,NY,10003,townhouse,2709,4,2,1992
+102,4,5938 Ritter Fort,New York,NY,10001,single-family home,3468,5,2,1956
+103,5,5608 Kelsey Burg,New York,NY,11215,apartment,970,1,1,1972
+104,17,2548 Natalie Mill,Jersey City,NJ,07302,townhouse,2662,4,2,1947
+105,23,8327 Mary Lane,Bridgeport,CT,06606,single-family home,3419,5,4,2016
+106,4,628 Scott Summit,New York,NY,10463,townhouse,2983,4,3,1953
+107,12,2157 Omar Mission,New York,NY,11354,apartment,1460,2,3,1958
+108,6,2722 Ross Ford,New York,NY,11201,condo,2300,4,2,1966
+109,18,3901 Lawrence Crossing,Jersey City,NJ,07306,condo,1225,2,1,1988
+110,10,7365 Tanya Parkways,New York,NY,10019,townhouse,3478,5,2,1978
+111,20,7694 Frank Fords,Montclair,NJ,07042,condo,1313,2,1,1957
+112,1,7228 Shelia Streets,New York,NY,10036,condo,1701,4,1,2008
+113,18,8249 Brady Island,Jersey City,NJ,07310,condo,1600,3,1,1963
+114,2,3281 Lee Course,New York,NY,11249,apartment,1600,3,3,1987
+115,19,864 Woods Pass,Hoboken,NJ,07030,townhouse,2021,2,2,2021
+116,12,8462 Sierra Brook,New York,NY,10011,co-op,1194,2,1,1946
+117,20,7371 Norman Manor,Montclair,NJ,07042,single-family home,2767,3,5,2016
+118,8,7401 Nixon Courts,New York,NY,10024,co-op,2015,4,3,1913
+119,2,8234 Ward Inlet,New York,NY,10024,condo,1361,2,2,1940
+120,16,6152 Ryan Vista,New York,NY,10019,single-family home,3318,5,4,1913
+121,10,5503 Perez Squares,New York,NY,11249,townhouse,2662,3,3,1928
+122,5,7750 Debra Valleys,New York,NY,10301,apartment,851,1,1,2016
+123,17,7695 Liu Brook,Jersey City,NJ,07306,townhouse,2663,4,2,1988
+124,2,4203 Blair Islands,New York,NY,10014,apartment,1133,2,2,2016
+125,5,9985 Donald Gateway,New York,NY,11101,apartment,1452,2,1,1964
+126,9,4944 Anne Crossroad,New York,NY,10011,condo,1602,2,2,1916
+127,17,7499 Donald Mountains,Jersey City,NJ,07302,apartment,1355,2,2,1924
+128,12,9786 Bruce Unions,New York,NY,11102,apartment,1439,2,1,1912
+129,8,3973 Michelle Shore,New York,NY,10301,apartment,1760,3,1,1928
+130,4,5790 Watson Mall,New York,NY,10019,co-op,1277,2,1,1983
+131,19,1412 Robert Extensions,Hoboken,NJ,07030,apartment,1514,2,2,1918
+132,6,8322 Judy Valleys,New York,NY,11249,apartment,1779,3,2,1974
+133,20,7712 Michael Creek,Montclair,NJ,07042,single-family home,3685,5,3,1991
+134,11,4165 Anthony Ford,New York,NY,11201,apartment,1552,3,3,1912
+135,11,5659 Powell Landing,New York,NY,10019,apartment,1304,2,2,2003
+136,2,9543 Howell Burgs,New York,NY,11201,single-family home,3115,4,3,2006
+137,24,5782 Martin Mountains,West Hartford,CT,06119,apartment,1808,3,1,1953
+138,10,7622 Jessica Divide,New York,NY,10301,duplex,2521,4,3,1971
+139,5,2219 Williams Lane,New York,NY,10003,condo,1225,2,1,2001
+140,17,615 Eric Bridge,Jersey City,NJ,07305,townhouse,2334,4,2,1935
+141,4,5180 Prince Course,New York,NY,10022,townhouse,2671,3,2,1975
+142,12,8907 Mcneil Creek,New York,NY,10038,apartment,1733,3,2,1942
+143,18,4697 Marshall Mall,Jersey City,NJ,07305,single-family home,3506,5,3,2020
+144,14,5448 Taylor Rapids,New York,NY,10021,single-family home,2576,3,2,1925
+145,21,6563 Larry Mountains,Stamford,CT,06905,single-family home,4141,6,4,1966
+146,21,5564 Anderson Shoals,Stamford,CT,06901,co-op,1460,2,1,1973
+147,11,8517 Krueger Skyway,New York,NY,10021,townhouse,2300,3,2,2012
+148,4,7065 Tim Summit,New York,NY,11354,condo,1860,4,2,2015
+149,4,5272 David Passage,New York,NY,10011,apartment,1711,3,1,1920
+150,19,5031 Linda Divide,Hoboken,NJ,07030,apartment,1784,3,1,1987
+151,23,7282 Donna Summit,Bridgeport,CT,06605,townhouse,2671,3,2,1967
+152,4,7136 Jennifer Haven,New York,NY,10021,co-op,847,1,2,1991
+153,19,1239 John Glen,Hoboken,NJ,07030,single-family home,3467,5,2,1956
+154,8,2631 Jessica Hollow,New York,NY,10001,condo,904,0,1,1928
+155,1,7189 Page Mountain,New York,NY,10002,single-family home,2824,3,3,1926
+156,8,6011 Wolf Curve,New York,NY,10024,single-family home,3631,6,3,1959
+157,21,9923 Henderson Shore,Stamford,CT,06901,duplex,3012,5,4,1996
+158,2,6105 Beth Vista,New York,NY,10036,apartment,1755,4,1,2007
+159,18,6022 Julie Union,Jersey City,NJ,07306,single-family home,3135,5,5,1950
+160,1,1868 Welch Underpass,New York,NY,10001,condo,1605,3,2,2004
+161,7,6350 Tiffany Bridge,New York,NY,11102,townhouse,2676,3,2,1925
+162,18,7321 Cynthia Village,Jersey City,NJ,07304,apartment,1826,3,2,1988
+163,13,3289 Fernando Islands,New York,NY,10011,townhouse,3131,5,3,1927
+164,18,2838 Ashley Orchard,Jersey City,NJ,07306,condo,1643,3,1,1921
+165,5,5246 Lopez Ways,New York,NY,10463,co-op,2021,4,3,1954
+166,4,8892 Hayes Forest,New York,NY,10022,duplex,2395,5,3,1948
+167,19,2862 Howell Plains,Hoboken,NJ,07030,townhouse,3249,4,2,1975
+168,16,2285 Wilson Harbors,New York,NY,10019,condo,1899,4,1,2011
+169,11,9087 Rogers Ferry,New York,NY,11105,townhouse,2656,4,3,1957
+170,14,2136 Peterson Well,New York,NY,11354,co-op,912,1,2,2023
+171,11,7852 Ingram Motorway,New York,NY,11101,townhouse,3441,5,2,1962
+172,20,9429 Elizabeth Junctions,Montclair,NJ,07042,single-family home,3922,6,3,1926
+173,11,1225 Brown Lakes,New York,NY,10036,condo,1034,1,2,1969
+174,13,2112 May Plains,New York,NY,11215,co-op,1281,2,1,1980
+175,1,2124 Cody Mount,New York,NY,10028,condo,821,1,2,1974
+176,21,2044 David Station,Stamford,CT,06905,single-family home,2961,3,4,1929
+177,7,5296 Martinez Key,New York,NY,10301,single-family home,3765,6,2,1938
+178,24,4663 Chavez Plaza,West Hartford,CT,06107,condo,1754,3,1,1942
+179,8,4506 Tammy Parkways,New York,NY,10012,apartment,1941,4,2,1990
+180,2,1540 Raymond Pass,New York,NY,11101,apartment,875,1,2,1992
+181,6,2536 Donald Springs,New York,NY,10013,apartment,971,1,1,1994
+182,6,5541 Kimberly Flat,New York,NY,11105,single-family home,2924,3,3,1915
+183,5,1340 Fox Tunnel,New York,NY,10002,apartment,916,1,1,1992
+184,4,3463 Anna Pines,New York,NY,11215,single-family home,2847,3,3,1983
+185,21,506 Lauren Lake,Stamford,CT,06902,apartment,1060,1,2,2023
+186,19,4959 Heather Pines,Hoboken,NJ,07030,apartment,1059,2,2,1941
+187,3,6663 Nicholas Courts,New York,NY,10022,townhouse,2522,3,3,1968
+188,7,7212 Cynthia Walks,New York,NY,10028,single-family home,2283,2,3,1971
+189,11,9949 Megan Terrace,New York,NY,10012,townhouse,2926,4,3,1950
+190,7,5668 Amber Ridge,New York,NY,10025,co-op,1691,3,3,1926
+191,21,9212 Garrison Harbors,Stamford,CT,06901,condo,972,1,2,1950
+192,11,4392 Susan Locks,New York,NY,10036,single-family home,3543,4,4,1941
+193,9,4764 Price Pike,New York,NY,10025,condo,1275,2,2,2020
+194,23,2626 English Mountain,Bridgeport,CT,06605,apartment,1268,2,2,1983
+195,11,2620 Taylor Hills,New York,NY,10038,townhouse,2864,3,3,1975
+196,3,8158 Charles Station,New York,NY,10001,co-op,816,1,1,1921
+197,4,7501 Clark Street,New York,NY,10019,apartment,1485,3,1,1937
+198,9,838 Brian Loop,New York,NY,10022,single-family home,3157,4,2,1973
+199,12,7720 Douglas View,New York,NY,10022,single-family home,3113,5,2,1978
+200,4,2204 Kathy Valley,New York,NY,10021,single-family home,2977,3,3,2003
+201,1,6005 Peter Estate,New York,NY,10002,single-family home,3234,5,3,1961
+202,11,5949 Myers Fields,New York,NY,11102,condo,1044,1,2,1946
+203,22,9018 Mary Cliffs,Greenwich,CT,06831,apartment,1020,1,1,2015
+204,11,1956 Tabitha Harbor,New York,NY,10012,condo,1613,3,1,1922
+205,11,5565 Patricia Crossing,New York,NY,11102,condo,1236,2,3,1956
+206,20,9880 Jamie Divide,Montclair,NJ,07043,apartment,1174,0,1,1974
+207,8,5466 Hodges Branch,New York,NY,11249,co-op,1381,2,3,1970
+208,1,9942 Abigail Pine,New York,NY,11101,apartment,1859,2,2,1927
+209,20,5228 Kelsey Rapid,Montclair,NJ,07042,apartment,900,0,2,1960
+210,14,4912 Hall Mill,New York,NY,11105,condo,1026,1,1,1953
+211,19,8731 Short Plains,Hoboken,NJ,07030,condo,1537,3,1,2000
+212,16,282 Hernandez Throughway,New York,NY,10024,co-op,2076,4,1,1952
+213,2,9573 Hutchinson Canyon,New York,NY,10022,apartment,1539,3,2,2011
+214,8,446 Massey Glens,New York,NY,11354,apartment,2074,4,2,1970
+215,22,9487 Courtney Meadow,Greenwich,CT,06830,apartment,1431,2,2,2002
+216,23,8599 Nancy Square,Bridgeport,CT,06606,single-family home,3281,5,3,2002
+217,6,6239 Blake Fork,New York,NY,10012,duplex,2330,2,3,2015
+218,24,9390 Christopher Street,West Hartford,CT,06119,condo,1516,2,1,1924
+219,10,5149 Allen Vista,New York,NY,10028,apartment,1399,2,2,1929
+220,1,6733 Copeland Meadows,New York,NY,11101,apartment,953,1,2,2009
+221,3,1030 Brown Cove,New York,NY,10301,duplex,2335,3,3,1927
+222,15,5335 Kirby Street,New York,NY,10463,single-family home,2976,5,3,1971
+223,22,2847 Conway Route,Greenwich,CT,06831,single-family home,3153,5,2,1978
+224,9,4341 Barnes Villages,New York,NY,11354,single-family home,4154,6,5,1971
+225,7,4581 Bird Corner,New York,NY,11102,townhouse,2423,3,2,1948
+226,10,4745 Craig Valley,New York,NY,10301,single-family home,2525,3,4,1936
+227,12,5204 Sanchez Park,New York,NY,10038,condo,1118,2,1,1954
+228,3,4490 Brittany Shores,New York,NY,10022,apartment,1588,2,3,1925
+229,8,6230 Garcia Tunnel,New York,NY,10025,townhouse,2878,4,4,2014
+230,15,2409 Castro Villages,New York,NY,10022,single-family home,3430,4,3,1915
+231,1,1304 Obrien Ways,New York,NY,10024,single-family home,3106,5,2,1966
+232,2,7859 Williams Coves,New York,NY,10014,duplex,2958,3,2,1935
+233,13,9218 Barbara Crest,New York,NY,10301,townhouse,2050,2,3,1944
+234,3,9624 Michael Spring,New York,NY,10019,co-op,990,1,3,1941
+235,19,3824 Ochoa Stravenue,Hoboken,NJ,07030,duplex,1922,3,4,1922
+236,1,7749 Michael Turnpike,New York,NY,10011,apartment,1519,3,2,1997
+237,5,9026 Phelps Ports,New York,NY,10013,townhouse,2778,3,3,1962
+238,19,7832 Shelby Via,Hoboken,NJ,07030,condo,1244,2,1,2006
+239,19,4686 Caldwell Burg,Hoboken,NJ,07030,condo,767,1,1,2008
+240,20,8777 Ashley Burg,Montclair,NJ,07042,apartment,913,2,2,1932
+241,19,2890 Garcia Loop,Hoboken,NJ,07030,condo,1336,2,1,2017
+242,12,3062 Jessica Vista,New York,NY,11201,apartment,1372,2,2,2021
+243,3,161 Howard Springs,New York,NY,10022,townhouse,3024,5,3,1982
+244,10,4672 Gomez Gateway,New York,NY,10036,apartment,1333,2,3,1992
+245,15,2208 Griffin Causeway,New York,NY,11101,apartment,1472,2,2,1969
+246,19,1855 Ellis Roads,Hoboken,NJ,07030,townhouse,2466,3,2,1930
+247,2,4225 Mack Estates,New York,NY,10301,condo,1232,2,2,1933
+248,9,4843 Angela Way,New York,NY,11105,apartment,1008,1,2,1996
+249,1,6653 Yang Terrace,New York,NY,10028,condo,767,1,3,1975
+250,11,1572 Norman Extensions,New York,NY,10013,townhouse,3170,5,2,1927
+251,21,121 Gates Isle,Stamford,CT,06902,duplex,2595,5,3,1959
+252,18,4384 Jensen Streets,Jersey City,NJ,07305,co-op,1878,3,2,1948
+253,17,197 Leslie Inlet,Jersey City,NJ,07305,single-family home,3112,3,4,1993
+254,10,1027 Robin Course,New York,NY,10463,condo,1989,4,1,1925
+255,20,6652 Edwards Parks,Montclair,NJ,07043,condo,1055,2,1,1998
+256,1,3628 Katherine Flats,New York,NY,10019,apartment,1086,0,3,1927
+257,23,9934 Chase Oval,Bridgeport,CT,06605,condo,1785,3,1,1963
+258,23,8816 Rogers Mill,Bridgeport,CT,06606,condo,1721,3,1,2015
+259,24,9771 Fischer Extension,West Hartford,CT,06107,apartment,1207,2,2,1977
+260,23,5937 Smith Field,Bridgeport,CT,06604,apartment,1360,2,1,1982
+261,7,8291 Stout Squares,New York,NY,10014,co-op,1267,2,1,1983
+262,18,5385 Sherman Plain,Jersey City,NJ,07310,single-family home,2485,3,3,1966
+263,2,9564 Raymond Square,New York,NY,10038,apartment,1572,3,2,1921
+264,1,921 James Course,New York,NY,10036,single-family home,3540,6,2,1926
+265,5,9249 Phelps Drive,New York,NY,10002,single-family home,3203,6,3,1981
+266,1,5059 Patel Locks,New York,NY,11201,co-op,1164,0,2,1912
+267,7,59 Samantha Cove,New York,NY,11201,apartment,1315,2,1,1937
+268,6,6951 Austin Corner,New York,NY,10024,townhouse,2637,3,4,1999
+269,9,7744 Key Mills,New York,NY,10002,co-op,1040,1,2,1946
+270,5,2228 John Drives,New York,NY,11215,apartment,1705,3,3,1992
+271,2,6897 Johnson Fork,New York,NY,10024,condo,903,2,3,1958
+272,8,6164 John Fork,New York,NY,10003,condo,1257,2,1,1997
+273,13,2188 Wong Forge,New York,NY,11375,single-family home,3280,5,2,2020
+274,8,8812 Alexander Gardens,New York,NY,10025,condo,1542,3,1,1977
+275,1,66 Meredith Orchard,New York,NY,11215,condo,1455,3,1,1912
+276,21,8930 Perry Plaza,Stamford,CT,06902,single-family home,3001,3,3,1978
+277,9,4065 Robert Vista,New York,NY,10036,apartment,1776,3,2,1954
+278,9,1858 Burton Loaf,New York,NY,10002,apartment,1713,3,1,2013
+279,16,266 Mann Lakes,New York,NY,10019,apartment,1105,1,3,1936
+280,21,7324 Reynolds Lakes,Stamford,CT,06905,condo,1566,2,2,1996
+281,9,4019 Luke Knolls,New York,NY,11201,condo,1257,2,2,1915
+282,23,8853 Susan Dale,Bridgeport,CT,06604,townhouse,2916,4,3,2006
+283,18,2305 Heath Squares,Jersey City,NJ,07310,apartment,1506,3,1,1947
+284,18,9448 Laura Prairie,Jersey City,NJ,07305,apartment,1545,3,1,1983
+285,3,5263 Colin Tunnel,New York,NY,10019,duplex,2924,4,4,1948
+286,13,8550 Nichols Cove,New York,NY,10019,townhouse,2560,4,3,1962
+287,10,9131 Jennifer Stravenue,New York,NY,11105,apartment,1492,3,1,2022
+288,14,7009 Steven Ports,New York,NY,11102,single-family home,2996,3,2,1973
+289,3,6254 Steve Mill,New York,NY,11249,townhouse,2913,5,2,1977
+290,11,6698 Garza Circles,New York,NY,10012,duplex,2679,3,3,1948
+291,1,8823 Andrew Mission,New York,NY,10038,apartment,830,1,1,1940
+292,12,2375 Paula Neck,New York,NY,11249,apartment,1247,1,2,1969
+293,23,6771 Bryce Knoll,Bridgeport,CT,06605,apartment,1971,4,2,1981
+294,2,3988 Stephanie Harbor,New York,NY,10021,apartment,1711,2,1,1936
+295,22,7379 Valentine Stream,Greenwich,CT,06831,condo,1012,1,2,1921
+296,17,3130 Jennifer Overpass,Jersey City,NJ,07302,single-family home,2916,5,4,1944
+297,16,9888 Padilla Dale,New York,NY,10002,duplex,2168,3,2,2021
+298,15,9636 Lewis Mission,New York,NY,11201,townhouse,2663,4,2,1995
+299,17,3432 Ryan Spring,Jersey City,NJ,07305,condo,1517,3,2,1948
+300,2,3480 Rivera Port,New York,NY,10014,single-family home,3601,6,3,2004
+301,2,3984 Thomas Plains,New York,NY,10301,condo,1511,3,2,1987
+302,6,3931 Huffman Ridge,New York,NY,11102,apartment,1499,2,3,1951
+303,23,7649 Jennifer Knolls,Bridgeport,CT,06606,co-op,1008,2,1,1993
+304,14,5902 Kim Cliffs,New York,NY,11101,condo,1102,1,1,2022
+305,7,7702 Alyssa Stream,New York,NY,11215,apartment,1178,1,3,2017
+306,21,6083 Jessica Gateway,Stamford,CT,06902,duplex,2042,4,4,1962
+307,8,2400 Mary Burgs,New York,NY,10001,condo,1148,2,2,1943
+308,3,9498 Chandler Isle,New York,NY,11201,townhouse,2510,2,3,1963
+309,17,5414 Clinton Lodge,Jersey City,NJ,07304,townhouse,3207,4,4,1958
+310,14,8190 Ballard Light,New York,NY,11102,apartment,979,0,1,1993
+311,10,4226 Taylor Junctions,New York,NY,11215,townhouse,3088,5,2,2015
+312,13,8047 Cody Knoll,New York,NY,10036,co-op,842,1,1,1931
+313,2,2783 Jasmine Glen,New York,NY,10012,co-op,1464,2,1,2002
+314,1,8892 Davis Green,New York,NY,11375,condo,1706,3,1,1917
+315,7,1227 Gonzalez Keys,New York,NY,10463,townhouse,3449,5,4,1916
+316,8,2262 Matthew Terrace,New York,NY,11375,townhouse,2666,3,2,1939
+317,17,3593 Alexandria Brooks,Jersey City,NJ,07310,co-op,1166,2,3,1968
+318,16,7926 Tina Circle,New York,NY,10463,condo,1812,3,2,1972
+319,9,6749 Davis Alley,New York,NY,10001,duplex,2482,3,2,1912
+320,9,8787 Adam Lights,New York,NY,10022,apartment,1320,2,2,1912
+321,3,7064 Johnson Port,New York,NY,11249,townhouse,2846,5,3,1932
+322,2,2449 Villarreal Extensions,New York,NY,10019,single-family home,2661,4,3,1934
+323,15,5817 Dana Parks,New York,NY,10021,condo,1696,3,1,2011
+324,3,6662 Amanda Key,New York,NY,10036,condo,1328,2,2,1982
+325,9,3710 Monica Drives,New York,NY,10022,condo,1050,1,1,1997
+326,4,529 Berry Mill,New York,NY,10003,apartment,1208,2,2,1961
+327,21,7808 William Via,Stamford,CT,06901,co-op,1195,2,2,1991
+328,13,8199 Johnson Camp,New York,NY,10028,single-family home,3120,4,3,1992
+329,3,1572 Lindsay Inlet,New York,NY,11101,apartment,1380,2,2,1915
+330,20,9296 Rodriguez Springs,Montclair,NJ,07043,apartment,1518,2,2,1944
+331,20,4603 Brittany Expressway,Montclair,NJ,07042,single-family home,2913,3,5,1932
+332,13,266 Tyler Rapids,New York,NY,10014,duplex,2032,4,3,1985
+333,19,6535 Wendy Junction,Hoboken,NJ,07030,duplex,1958,2,4,1948
+334,10,9294 Mcfarland Plaza,New York,NY,10025,townhouse,2451,3,2,1996
+335,13,6298 Bowers Crescent,New York,NY,11215,single-family home,2942,4,3,2004
+336,19,1294 Matthew Lakes,Hoboken,NJ,07030,single-family home,3079,4,3,1916
+337,19,1255 John Viaduct,Hoboken,NJ,07030,co-op,1705,3,2,1987
+338,9,6509 Lopez Lodge,New York,NY,11215,duplex,2963,4,3,1951
+339,5,7391 Michael Neck,New York,NY,10038,townhouse,2852,4,2,1939
+340,18,7085 Melanie Course,Jersey City,NJ,07304,co-op,894,1,2,1997
+341,2,1414 Buck Port,New York,NY,11215,condo,913,1,1,1989
+342,1,1214 Sherman Row,New York,NY,10003,condo,1134,2,2,1944
+343,9,2537 Justin Dale,New York,NY,11201,single-family home,3240,3,3,1959
+344,21,1509 Gallagher Highway,Stamford,CT,06901,co-op,2235,4,1,1949
+345,2,4429 Powell Lane,New York,NY,10011,apartment,922,1,2,1926
+346,23,9135 Tracy Overpass,Bridgeport,CT,06606,single-family home,2834,3,2,1975
+347,3,1478 Marc Orchard,New York,NY,10024,apartment,879,1,2,1980
+348,24,5325 Torres Turnpike,West Hartford,CT,06117,townhouse,2817,5,2,1911
+349,9,1397 Townsend Square,New York,NY,11201,co-op,1141,1,1,1981
+350,9,9380 Allison Canyon,New York,NY,11101,condo,1504,2,1,1931
+351,8,2284 Stacey Inlet,New York,NY,10021,apartment,1194,1,3,1948
+352,7,1046 Danielle Streets,New York,NY,10013,condo,1073,1,1,1965
+353,4,7943 Amanda Causeway,New York,NY,11249,single-family home,3612,5,3,1919
+354,2,8133 Cruz Knoll,New York,NY,11354,condo,1303,2,2,1988
+355,24,2229 Madison Spur,West Hartford,CT,06117,apartment,1569,3,2,1910
+356,9,6234 Rodgers Pine,New York,NY,11249,duplex,2050,3,3,2020
+357,8,7065 William Springs,New York,NY,11375,townhouse,2635,3,3,1986
+358,21,9893 Renee Courts,Stamford,CT,06905,apartment,1706,3,1,1935
+359,9,6534 Dodson Forges,New York,NY,10023,co-op,1174,2,2,1947
+360,3,8054 Jones Ford,New York,NY,11105,apartment,2198,4,3,2010
+361,22,4602 Clark Route,Greenwich,CT,06831,duplex,2332,3,3,1956
+362,10,9713 Brandon Light,New York,NY,11102,condo,1599,2,2,1933
+363,3,450 Rachel Crescent,New York,NY,11201,condo,1405,2,2,1969
+364,1,7193 Smith Garden,New York,NY,11249,condo,1526,3,2,1947
+365,6,6713 Joyce Loaf,New York,NY,10463,townhouse,2971,4,3,1973
+366,11,3975 Nathan Villages,New York,NY,10021,apartment,1185,1,2,1994
+367,13,6186 Williams Divide,New York,NY,10003,co-op,722,1,1,1967
+368,17,9549 Christy Green,Jersey City,NJ,07306,apartment,1305,2,3,1978
+369,3,6863 Becker Station,New York,NY,11102,condo,673,1,2,1914
+370,12,8806 Harris Wells,New York,NY,11354,single-family home,3110,3,2,1991
+371,21,4077 Ortiz Branch,Stamford,CT,06905,co-op,1928,4,2,1995
+372,18,735 Colon Lane,Jersey City,NJ,07310,single-family home,3441,4,2,1992
+373,6,5442 Kirby Field,New York,NY,11249,apartment,1277,1,1,1965
+374,10,3647 King Branch,New York,NY,11101,townhouse,2552,2,2,2005
+375,3,9434 Williams Trafficway,New York,NY,10019,co-op,1153,1,1,1967
+376,1,9653 Anderson Spurs,New York,NY,10301,townhouse,2732,4,3,1974
+377,22,7919 Chad Crescent,Greenwich,CT,06830,apartment,1302,1,3,1947
+378,15,1911 Erik Turnpike,New York,NY,11201,townhouse,2774,5,4,1928
+379,17,7470 Jones Plain,Jersey City,NJ,07304,condo,1687,3,1,1976
+380,6,1609 Jackson Streets,New York,NY,10036,apartment,948,1,3,2002
+381,11,1110 Moses Stravenue,New York,NY,10022,townhouse,2368,3,3,1915
+382,9,380 Mitchell Heights,New York,NY,10023,apartment,2121,4,2,1992
+383,23,4006 Foley Green,Bridgeport,CT,06606,condo,1501,3,2,1932
+384,16,9182 Kathleen Locks,New York,NY,10028,townhouse,2757,4,2,1969
+385,11,3032 Stephanie Point,New York,NY,10013,condo,1193,2,2,1991
+386,9,488 Gonzalez Path,New York,NY,11201,apartment,1086,1,2,1988
+387,22,9712 Taylor Coves,Greenwich,CT,06831,condo,1592,3,3,1959
+388,23,4570 Jeremy Village,Bridgeport,CT,06606,condo,1361,2,1,2013
+389,11,1677 Lopez Track,New York,NY,11249,apartment,1016,1,1,2021
+390,7,5350 John Ridges,New York,NY,10014,single-family home,3455,5,4,1968
+391,3,8029 Kim Divide,New York,NY,11101,townhouse,3101,5,3,1991
+392,15,6441 Harper Canyon,New York,NY,11105,co-op,687,1,1,1924
+393,19,7511 Kayla Stream,Hoboken,NJ,07030,single-family home,3110,3,5,2014
+394,18,4883 Williams Bridge,Jersey City,NJ,07310,single-family home,3372,6,3,1985
+395,21,1941 Matthew Glen,Stamford,CT,06901,apartment,1479,3,2,1949
+396,21,2326 Michael Flats,Stamford,CT,06905,apartment,1094,1,2,1959
+397,11,9427 Peter Drives,New York,NY,10025,single-family home,3146,4,2,1964
+398,4,8814 Wagner Fork,New York,NY,10301,townhouse,3090,4,3,1992
+399,11,9101 Courtney Isle,New York,NY,10013,single-family home,3716,5,4,1972
+400,8,5164 Johnson Mill,New York,NY,10036,single-family home,3674,5,2,1989
+401,9,7949 Megan Rapids,New York,NY,10012,single-family home,2776,2,5,1934
+402,6,8291 Hawkins Divide,New York,NY,11375,apartment,2173,4,1,1973
+403,18,6819 Brown Spur,Jersey City,NJ,07306,condo,1039,1,1,1972
+404,8,515 Robert Place,New York,NY,11249,condo,1315,2,2,2007
+405,10,4513 Christine Extension,New York,NY,10019,single-family home,3052,4,3,1978
+406,15,7502 Wood Divide,New York,NY,11105,co-op,1295,2,2,2005
+407,18,9016 Gabrielle Avenue,Jersey City,NJ,07310,apartment,1472,3,2,1924
+408,6,8908 Smith Centers,New York,NY,10024,single-family home,2497,4,3,1979
+409,13,7241 Mack Crest,New York,NY,11102,duplex,2270,3,4,1937
+410,4,4065 Kathleen Camp,New York,NY,10022,condo,957,1,1,2021
+411,22,4315 Andrew View,Greenwich,CT,06831,single-family home,3483,5,2,2020
+412,10,1933 Pineda Rue,New York,NY,11215,apartment,1333,2,1,2013
+413,9,9642 Campbell Ridges,New York,NY,10301,townhouse,3095,4,2,1954
+414,8,7025 Cole Summit,New York,NY,10013,condo,1577,3,2,1988
+415,21,3400 Felicia Ridge,Stamford,CT,06901,single-family home,2572,2,4,1982
+416,11,9788 Reed Roads,New York,NY,11102,duplex,2634,4,2,1931
+417,12,4804 Mendoza Drives,New York,NY,10022,duplex,2665,5,2,1983
+418,1,8438 Herrera Lake,New York,NY,10463,condo,1162,1,2,2014
+419,8,6753 Drew Route,New York,NY,10002,single-family home,2296,2,3,1945
+420,2,2184 Sylvia Loaf,New York,NY,10019,apartment,1203,2,1,1928
+421,9,4065 Macias Land,New York,NY,11215,condo,1349,3,3,2017
+422,2,2339 Ryan Hills,New York,NY,11105,duplex,2099,2,3,1990
+423,7,6156 Brad Loop,New York,NY,10036,condo,1024,1,2,1919
+424,3,1535 Vanessa Crossroad,New York,NY,10025,apartment,1846,4,1,1975
+425,19,6056 Clark Lodge,Hoboken,NJ,07030,co-op,1062,1,3,1972
+426,3,1536 Stephenson Mount,New York,NY,11201,single-family home,2392,2,3,1968
+427,18,5879 Wallace Loaf,Jersey City,NJ,07302,duplex,2860,5,4,2011
+428,6,7049 Cox Islands,New York,NY,10014,condo,1339,2,1,1973
+429,12,4656 Anderson Pines,New York,NY,10023,apartment,1644,3,1,1980
+430,19,7961 John Station,Hoboken,NJ,07030,townhouse,2386,4,2,1997
+431,12,1641 Ashley Well,New York,NY,11375,apartment,1256,2,2,2010
+432,4,2045 Mccullough Plaza,New York,NY,10013,condo,1952,4,1,1966
+433,18,3324 Brooks Inlet,Jersey City,NJ,07304,apartment,1876,4,1,2022
+434,14,4499 Philip Mountains,New York,NY,10003,apartment,1144,1,3,1993
+435,22,6102 Amy Mission,Greenwich,CT,06830,single-family home,3047,4,4,1916
+436,7,3846 Conway Trail,New York,NY,10028,townhouse,2423,3,2,1993
+437,13,3506 Williams Forge,New York,NY,10038,single-family home,2940,4,2,1919
+438,7,8520 Arnold Estate,New York,NY,10463,townhouse,2663,4,3,1966
+439,8,1985 Giles Meadows,New York,NY,10028,single-family home,2663,3,3,1998
+440,2,3761 Sherry Burg,New York,NY,10025,single-family home,3228,4,4,1921
+441,1,1700 Paul Shores,New York,NY,10023,townhouse,2232,3,2,1957
+442,9,6280 Joshua Summit,New York,NY,11215,apartment,1062,1,1,2014
+443,2,2350 Danielle Ports,New York,NY,10003,single-family home,2403,2,3,1977
+444,22,2698 Edward Island,Greenwich,CT,06831,apartment,1868,4,1,1954
+445,17,2490 Sanchez Streets,Jersey City,NJ,07306,co-op,1445,3,2,1988
+446,3,3569 Kathryn Oval,New York,NY,10003,single-family home,2841,3,3,1922
+447,18,9669 Bishop Track,Jersey City,NJ,07306,condo,2103,4,2,1954
+448,1,2300 Erica Turnpike,New York,NY,10019,apartment,1344,2,1,1945
+449,17,9076 Christopher Branch,Jersey City,NJ,07310,single-family home,3083,4,3,1986
+450,11,449 Martin Course,New York,NY,10463,condo,2045,4,2,2022
+451,18,9953 Huynh Knolls,Jersey City,NJ,07310,single-family home,2997,4,3,1934
+452,19,904 Julia Forest,Hoboken,NJ,07030,duplex,2880,4,3,1973
+453,19,8195 Pittman Lake,Hoboken,NJ,07030,single-family home,3533,4,2,1977
+454,10,5926 Silva Village,New York,NY,10023,single-family home,2854,4,3,1926
+455,4,9322 Alvarez Squares,New York,NY,10028,single-family home,3362,4,3,1956
+456,11,7727 Keith Courts,New York,NY,11215,apartment,1851,4,2,1919
+457,23,4305 Rachel Drive,Bridgeport,CT,06604,condo,1569,2,3,1915
+458,5,6530 Robert Place,New York,NY,11101,condo,1011,1,1,1946
+459,1,6816 Moore Plaza,New York,NY,10028,apartment,2104,4,1,1999
+460,12,8801 Graves Harbors,New York,NY,11102,apartment,1704,3,2,1988
+461,17,5087 Theresa Shore,Jersey City,NJ,07302,single-family home,4024,6,3,1975
+462,2,2555 Regina Court,New York,NY,11102,single-family home,2453,3,3,1951
+463,19,1093 Derek Light,Hoboken,NJ,07030,co-op,1252,2,2,1999
+464,21,3919 Gray Extension,Stamford,CT,06901,apartment,1767,3,2,1941
+465,4,7438 Brenda Viaduct,New York,NY,11354,condo,1285,1,2,1987
+466,4,2887 Galvan Prairie,New York,NY,10011,apartment,1059,0,1,1911
+467,12,195 Seth Brooks,New York,NY,10013,single-family home,3412,5,3,1973
+468,6,8484 Potts Port,New York,NY,11249,apartment,1747,3,1,2015
+469,7,6102 Blackwell Corner,New York,NY,10012,co-op,1254,2,2,2005
+470,14,1944 Jones Dale,New York,NY,11215,duplex,2375,4,4,1913
+471,18,4466 Byrd Drive,Jersey City,NJ,07310,co-op,1170,1,2,1918
+472,11,1272 Victoria Turnpike,New York,NY,10038,co-op,1539,2,2,1968
+473,4,8195 Suzanne Islands,New York,NY,11105,single-family home,3300,3,2,1931
+474,10,1695 Dawson Turnpike,New York,NY,11105,apartment,1201,2,1,1996
+475,22,8346 Michael Union,Greenwich,CT,06830,duplex,1881,3,3,1915
+476,22,4016 Smith Ramp,Greenwich,CT,06830,apartment,1265,2,2,1970
+477,11,2942 Frey Lakes,New York,NY,10002,apartment,1778,4,2,1980
+478,11,6880 Lee Harbors,New York,NY,10019,condo,1062,1,1,1951
+479,20,5251 Tracy Expressway,Montclair,NJ,07043,apartment,842,1,2,2015
+480,1,8235 Debra Squares,New York,NY,10463,apartment,1667,3,1,1916
+481,1,8460 Baker Meadows,New York,NY,10002,condo,1567,3,1,1961
+482,10,4635 Williams Summit,New York,NY,11215,co-op,1297,2,1,2018
+483,7,9071 Hopkins Isle,New York,NY,10036,apartment,1533,2,1,1911
+484,6,9247 David Road,New York,NY,11249,townhouse,2716,3,3,1948
+485,18,7610 Jessica Brook,Jersey City,NJ,07305,condo,1306,2,3,1985
+486,22,3211 James Mountains,Greenwich,CT,06830,townhouse,2668,4,2,1929
+487,8,3827 Price Square,New York,NY,11102,single-family home,3072,4,3,1954
+488,13,167 Terry Isle,New York,NY,10023,apartment,1695,3,3,1910
+489,13,5048 Pratt Walk,New York,NY,10011,apartment,1444,2,2,1936
+490,15,6888 Russell Junctions,New York,NY,10038,single-family home,3038,4,2,1917
+491,7,4594 Sherri Stravenue,New York,NY,10003,apartment,1803,4,2,1915
+492,4,8525 Tran Overpass,New York,NY,10028,single-family home,3374,4,3,1999
+493,14,1401 Adams Mission,New York,NY,11105,apartment,1255,2,2,1922
+494,4,6471 Linda Island,New York,NY,10003,single-family home,3020,4,3,1985
+495,1,2151 Andrew Crossroad,New York,NY,10019,apartment,1430,2,2,1947
+496,9,6448 John Fall,New York,NY,10301,single-family home,2820,3,5,2016
+497,18,7427 Brown Ports,Jersey City,NJ,07305,duplex,2612,4,3,1939
+498,8,9589 Kimberly Way,New York,NY,10011,townhouse,2868,4,4,1929
+499,4,5155 Alec Bridge,New York,NY,10028,single-family home,3009,5,2,1925
+500,7,3411 Berg River,New York,NY,10036,duplex,2453,4,3,1949
+501,24,1974 Eric Road,West Hartford,CT,06107,condo,1611,3,2,1930
+502,23,9894 Welch Isle,Bridgeport,CT,06604,apartment,1342,2,2,1937
+503,9,2440 Cheyenne Centers,New York,NY,10003,townhouse,2486,3,3,2001
+504,3,6502 James Summit,New York,NY,11101,condo,1045,2,1,1916
+505,13,2858 Jacob Stravenue,New York,NY,10001,single-family home,2571,3,3,1961
+506,17,9023 Adam Turnpike,Jersey City,NJ,07304,condo,1561,2,1,1922
+507,16,2300 Jason Stravenue,New York,NY,10011,townhouse,2247,2,3,1911
+508,11,2151 Paul Road,New York,NY,10014,single-family home,3487,5,3,2015
+509,19,1386 Thomas Flat,Hoboken,NJ,07030,single-family home,3200,4,3,2014
+510,17,7275 Jacobs Ferry,Jersey City,NJ,07304,apartment,1626,3,2,1921
+511,2,5442 Roberts Springs,New York,NY,10011,co-op,1383,2,3,1915
+512,12,2762 Scott Parkways,New York,NY,11105,apartment,1903,4,2,1965
+513,7,8138 Christopher Flat,New York,NY,10001,condo,1598,3,1,1958
+514,7,5809 Thomas Plains,New York,NY,10014,single-family home,3035,4,3,1933
+515,3,2445 Holly Squares,New York,NY,10002,condo,1968,4,1,1988
+516,4,4845 Jacob Vista,New York,NY,10038,single-family home,3179,4,4,1962
+517,24,1009 Avila Forks,West Hartford,CT,06107,apartment,861,1,2,1945
+518,1,3277 Ralph Villages,New York,NY,11375,apartment,1558,3,1,2023
+519,11,8917 Guzman Parkways,New York,NY,11249,townhouse,2627,3,2,1912
+520,10,5893 Robinson Glen,New York,NY,10038,co-op,1346,2,1,1979
+521,21,9277 Moss Pines,Stamford,CT,06905,single-family home,2318,4,3,1951
+522,6,437 Diana Springs,New York,NY,10023,duplex,2257,2,3,1986
+523,6,4612 Campbell Estates,New York,NY,10002,apartment,1325,2,3,2013
+524,2,5866 Bryan Park,New York,NY,11215,apartment,1222,2,2,1984
+525,6,1650 Orr Circle,New York,NY,10019,condo,1091,1,1,1994
+526,22,926 Miller Track,Greenwich,CT,06830,apartment,1379,3,3,1983
+527,2,6373 Smith Summit,New York,NY,10024,apartment,2229,4,2,2017
+528,17,2895 Lucas Trail,Jersey City,NJ,07304,duplex,2264,3,3,1985
+529,12,5888 Wolfe Rest,New York,NY,11105,condo,979,1,3,1913
+530,13,9310 Ashley Stream,New York,NY,11105,apartment,1474,2,2,1928
+531,12,8074 Hayes Summit,New York,NY,11102,duplex,2493,4,3,1949
+532,9,1488 Wood Hills,New York,NY,10002,condo,1380,2,2,1939
+533,11,8635 Edwards Summit,New York,NY,10038,single-family home,2946,4,3,1910
+534,5,3310 Jeremy Extension,New York,NY,11249,co-op,1077,1,1,1926
+535,15,5311 Hannah Lodge,New York,NY,10002,co-op,1460,2,3,1912
+536,3,2330 Hobbs Islands,New York,NY,11215,co-op,1669,3,2,1924
+537,17,5988 Ford Mountain,Jersey City,NJ,07302,condo,1119,1,2,1957
+538,5,6491 Hernandez Street,New York,NY,11105,duplex,2831,5,2,1922
+539,8,2245 Barnes Burg,New York,NY,10013,single-family home,3775,6,3,2003
+540,16,7992 Kristina Light,New York,NY,11375,apartment,1360,3,1,1950
+541,1,5856 Reginald Bridge,New York,NY,10019,condo,1026,2,1,1995
+542,4,6209 Moody Shore,New York,NY,10022,condo,1955,4,2,2003
+543,10,2921 Edward Ferry,New York,NY,11201,co-op,2132,4,1,1910
+544,14,6425 Cody Lock,New York,NY,11215,apartment,1776,3,1,1982
+545,13,3629 Hernandez Junction,New York,NY,11375,townhouse,2213,3,4,1982
+546,3,5435 Andrew Lock,New York,NY,11201,duplex,2069,2,2,1919
+547,8,2760 Kevin Walk,New York,NY,11375,townhouse,2603,4,2,2023
+548,4,5510 Perez Oval,New York,NY,10036,condo,1529,3,1,1911
+549,8,1120 Reynolds Walk,New York,NY,10024,condo,1881,4,3,1942
+550,2,30 Tony Shores,New York,NY,10002,condo,1082,1,2,1959
+551,18,2735 Michael Coves,Jersey City,NJ,07306,single-family home,3106,5,3,1973
+552,1,8956 Stephanie Squares,New York,NY,10025,townhouse,2508,2,3,1922
+553,8,9480 Franklin Divide,New York,NY,11375,townhouse,2688,4,3,2007
+554,10,7403 April Park,New York,NY,10003,townhouse,3018,4,4,2012
+555,5,338 Robert Bridge,New York,NY,10023,townhouse,2924,4,4,1943
+556,13,5610 Welch Junction,New York,NY,10013,apartment,1219,2,1,2023
+557,13,1238 Sutton Meadow,New York,NY,11102,single-family home,2929,4,3,1921
+558,5,7919 Carol Pines,New York,NY,10301,condo,1313,2,1,1913
+559,11,2713 Peterson Landing,New York,NY,11354,condo,1036,1,2,2023
+560,2,1669 Mike Mountains,New York,NY,10023,single-family home,3586,5,4,1936
+561,2,9088 Andrew Land,New York,NY,11201,townhouse,2968,5,3,2003
+562,12,4622 Sanchez Islands,New York,NY,10022,apartment,1603,2,1,1940
+563,10,9015 Renee Island,New York,NY,10038,condo,1449,2,1,1929
+564,3,1445 Buchanan Point,New York,NY,10022,apartment,1070,1,3,2015
+565,12,7879 Ray Isle,New York,NY,10014,condo,1001,1,2,1922
+566,14,4791 Rachel Islands,New York,NY,10003,apartment,1004,1,1,1970
+567,6,6522 Jean Ridge,New York,NY,10038,apartment,1000,1,1,1972
+568,20,1503 Lisa Gateway,Montclair,NJ,07043,townhouse,2388,2,3,1933
+569,6,6062 Elliott Brook,New York,NY,10013,townhouse,2341,3,4,1967
+570,22,4325 Dixon Court,Greenwich,CT,06830,apartment,1505,3,2,2017
+571,20,2486 Christensen Road,Montclair,NJ,07042,duplex,3016,5,2,1920
+572,15,8881 Miller Overpass,New York,NY,10028,apartment,1790,3,3,2006
+573,22,1009 Morrison Stream,Greenwich,CT,06831,condo,1055,0,1,2014
+574,11,7789 Jones Loaf,New York,NY,11105,apartment,1432,2,2,2022
+575,22,1303 Lacey Harbor,Greenwich,CT,06831,townhouse,2462,3,3,2019
+576,8,9368 Michael Tunnel,New York,NY,11101,townhouse,2331,4,3,2012
+577,6,2425 Thomas Fork,New York,NY,10011,condo,994,1,2,2006
+578,21,3481 Mark Views,Stamford,CT,06901,single-family home,2974,4,3,1926
+579,2,7143 Hoffman Tunnel,New York,NY,10014,townhouse,3078,4,2,2015
+580,21,9759 Frye Oval,Stamford,CT,06902,apartment,1271,2,1,1950
+581,2,1107 Jacobs Plain,New York,NY,10003,single-family home,2896,5,4,1959
+582,12,5353 Madison Rue,New York,NY,10021,apartment,1533,3,2,1976
+583,4,9636 Susan Ranch,New York,NY,11101,apartment,1140,1,1,2010
+584,1,2461 Kenneth Circle,New York,NY,10012,apartment,1351,2,2,1982
+585,8,1651 Alexandra Parkways,New York,NY,10011,condo,1476,2,1,1982
+586,17,4697 Wright Lane,Jersey City,NJ,07310,townhouse,2946,3,3,2022
+587,3,4337 Haynes Walk,New York,NY,10025,apartment,1655,3,3,1993
+588,4,7760 Kenneth Ford,New York,NY,10002,apartment,1694,3,2,1932
+589,14,9982 Kenneth Burgs,New York,NY,10463,single-family home,3280,5,4,1998
+590,15,5441 Miller Mountain,New York,NY,10301,condo,2075,4,1,1940
+591,13,6112 Sean Light,New York,NY,10001,apartment,1635,3,1,1953
+592,22,5104 Brittney Trace,Greenwich,CT,06831,apartment,756,1,2,2017
+593,11,1619 Rodriguez Harbor,New York,NY,10019,single-family home,2646,3,3,1927
+594,16,7269 Hill Squares,New York,NY,11215,co-op,1575,3,1,2015
+595,10,6838 Mitchell Radial,New York,NY,11354,condo,1835,4,1,1992
+596,13,6681 Marcus Brook,New York,NY,11201,apartment,1780,4,1,1972
+597,21,930 Brian Islands,Stamford,CT,06905,apartment,1732,3,3,2011
+598,16,8313 Wood Island,New York,NY,10025,condo,970,1,1,1927
+599,2,9327 Pierce Road,New York,NY,10001,apartment,921,1,2,1932
+600,3,3298 Lucas Locks,New York,NY,10002,townhouse,2615,3,2,1941
+601,3,3272 Mark Villages,New York,NY,10021,duplex,3019,5,3,1957
+602,16,6513 Dawn Islands,New York,NY,11375,townhouse,3276,4,2,1925
+603,1,6112 Nicole Centers,New York,NY,10038,condo,2040,4,2,1986
+604,16,9625 Tyler Cliff,New York,NY,11102,duplex,2689,5,3,1954
+605,5,4247 Edward Pike,New York,NY,11201,single-family home,2743,3,4,2016
+606,14,459 Shelby Freeway,New York,NY,10025,condo,1417,2,1,1916
+607,18,3521 Karen Knolls,Jersey City,NJ,07304,duplex,2988,5,2,1992
+608,6,4418 Miller Junctions,New York,NY,11375,apartment,1061,1,3,1962
+609,14,155 Travis Plains,New York,NY,10038,townhouse,2522,3,3,1926
+610,14,148 Alicia Row,New York,NY,10019,apartment,1597,3,1,1942
+611,15,4521 Neal Plaza,New York,NY,10028,condo,1420,2,1,1958
+612,24,4138 Lisa Mission,West Hartford,CT,06107,apartment,900,1,2,1969
+613,23,6516 Darius Ways,Bridgeport,CT,06606,single-family home,2944,4,4,1923
+614,6,6141 Perez Centers,New York,NY,11102,single-family home,3022,4,2,1992
+615,8,4900 Brian Ville,New York,NY,10463,duplex,2504,4,3,1923
+616,2,4539 Timothy Canyon,New York,NY,11375,apartment,1096,1,2,1951
+617,22,4905 Katherine Drives,Greenwich,CT,06830,condo,1783,3,2,1929
+618,3,940 Vincent Islands,New York,NY,11249,condo,1438,2,1,2019
+619,8,6630 Avila Skyway,New York,NY,10463,co-op,1931,4,2,1950
+620,19,427 Smith Track,Hoboken,NJ,07030,co-op,1820,3,2,1947
+621,13,6638 Vasquez Skyway,New York,NY,10025,townhouse,2464,3,2,2004
+622,4,3121 Pierce Canyon,New York,NY,10023,townhouse,2647,3,3,2002
+623,3,8769 Brittany Fords,New York,NY,11375,duplex,3246,5,4,2010
+624,3,5883 Brandi Avenue,New York,NY,11101,apartment,908,0,2,1948
+625,11,9156 Miles Prairie,New York,NY,10013,co-op,916,0,2,1947
+626,17,4247 Hicks Village,Jersey City,NJ,07310,apartment,1881,3,2,2007
+627,4,5509 Randy Drive,New York,NY,11375,apartment,1093,2,2,1921
+628,21,5041 Rose Summit,Stamford,CT,06902,townhouse,2421,3,3,2010
+629,4,4279 Baker Landing,New York,NY,11105,townhouse,2096,3,4,1947
+630,13,7719 Moore Flats,New York,NY,10002,single-family home,2663,5,3,2020
+631,17,1176 Cook Islands,Jersey City,NJ,07306,co-op,1083,2,1,2023
+632,22,6263 Long Run,Greenwich,CT,06831,condo,1937,4,2,1962
+633,14,2260 Hayes Mission,New York,NY,10014,co-op,1014,1,1,1953
+634,10,7506 Harris Creek,New York,NY,10012,single-family home,2591,3,2,1950
+635,9,1334 Paul Coves,New York,NY,10038,duplex,2434,4,3,1952
+636,24,5144 James Port,West Hartford,CT,06119,townhouse,2547,3,3,1917
+637,2,2772 Whitaker Spring,New York,NY,11105,duplex,2317,2,3,2007
+638,18,1452 Olivia Viaduct,Jersey City,NJ,07304,townhouse,2608,4,4,1988
+639,2,6619 Ward Center,New York,NY,10028,condo,1185,1,3,1971
+640,16,8755 Ashley Ville,New York,NY,10014,apartment,882,1,1,2003
+641,9,5289 Robinson Burg,New York,NY,11215,apartment,968,0,3,2016
+642,8,77 Smith Village,New York,NY,11375,apartment,1674,3,2,2003
+643,3,5651 Michelle Ford,New York,NY,10022,apartment,1657,3,2,1926
+644,7,5025 Arroyo Loaf,New York,NY,10013,condo,1574,3,2,1918
+645,9,4774 Ellis Lock,New York,NY,10036,duplex,2609,3,3,2003
+646,22,5545 Samantha Neck,Greenwich,CT,06831,apartment,1964,4,2,2023
+647,19,5625 Norton Shores,Hoboken,NJ,07030,apartment,1651,3,3,1955
+648,1,6619 Chris Coves,New York,NY,10001,apartment,1304,2,2,1939
+649,15,3470 Melissa River,New York,NY,11201,apartment,2071,4,1,1912
+650,15,2027 Mercedes Harbor,New York,NY,10024,single-family home,2529,2,3,2001
+651,11,6157 Kevin Light,New York,NY,11375,condo,1202,1,2,1942
+652,11,806 Colton Land,New York,NY,11354,apartment,1642,3,1,1916
+653,21,333 Debbie Manors,Stamford,CT,06901,townhouse,2366,3,4,1998
+654,14,2034 Jones Mall,New York,NY,11102,apartment,1644,3,2,1942
+655,24,3376 Kenneth Bypass,West Hartford,CT,06119,co-op,1329,2,2,1997
+656,12,6905 Kevin Greens,New York,NY,10463,apartment,1157,2,3,1922
+657,20,9932 Conrad Union,Montclair,NJ,07042,apartment,905,1,1,1963
+658,14,8391 David Roads,New York,NY,11201,condo,1681,3,1,1989
+659,15,1751 Nicole Mountains,New York,NY,10038,apartment,1500,3,3,1935
+660,10,4318 Alexis Corners,New York,NY,11101,apartment,1674,3,2,1935
+661,2,4849 Spencer Prairie,New York,NY,10013,co-op,1730,3,3,1915
+662,12,7885 Nelson Squares,New York,NY,10023,condo,1642,3,2,1940
+663,11,1819 Brown Square,New York,NY,11105,condo,1403,3,2,1995
+664,11,8393 Jason Locks,New York,NY,10003,co-op,843,1,2,2002
+665,11,3797 Johnson Parks,New York,NY,10036,condo,963,1,1,1947
+666,3,1645 Rivas Loop,New York,NY,10013,condo,1346,2,1,2021
+667,8,5133 Teresa Ports,New York,NY,10028,co-op,1380,2,1,2004
+668,9,761 Diane Trail,New York,NY,10001,apartment,971,1,2,2019
+669,18,2803 Mckinney Stravenue,Jersey City,NJ,07305,apartment,1839,3,1,1955
+670,8,4405 Harris Grove,New York,NY,11201,co-op,921,1,2,1921
+671,1,3006 Emily Well,New York,NY,10011,single-family home,3143,3,4,1961
+672,8,4463 Jimmy Mission,New York,NY,10025,single-family home,2572,3,2,1998
+673,11,6919 Wendy Cape,New York,NY,11375,apartment,971,1,3,2023
+674,22,2181 Hansen Squares,Greenwich,CT,06830,co-op,1013,1,2,2018
+675,15,9688 Conner Stravenue,New York,NY,10038,duplex,2521,3,3,2012
+676,12,2979 Justin Corners,New York,NY,11354,condo,1066,1,1,1958
+677,9,482 Bryant Mountains,New York,NY,10463,single-family home,3278,4,2,2022
+678,15,7924 Nathaniel Landing,New York,NY,10038,single-family home,3063,4,3,1924
+679,2,763 Malik Route,New York,NY,10003,single-family home,2717,5,2,1943
+680,14,8608 Russell Prairie,New York,NY,11215,duplex,3251,4,3,2005
+681,1,3679 Watson Key,New York,NY,10463,apartment,1101,1,1,2021
+682,3,1570 Hernandez Spring,New York,NY,10028,single-family home,3046,3,3,1994
+683,5,5674 Lowe Lodge,New York,NY,10463,condo,1006,1,2,1996
+684,1,9157 Ali Corners,New York,NY,11354,apartment,974,1,2,1916
+685,1,7698 Dyer Isle,New York,NY,10038,single-family home,2776,4,3,2021
+686,4,8065 Brewer Mission,New York,NY,10023,condo,1342,2,1,1940
+687,2,834 Pamela Junctions,New York,NY,11101,duplex,1956,2,4,1938
+688,3,6617 Carol Plains,New York,NY,10019,apartment,1775,3,2,1920
+689,18,9398 Melissa Ports,Jersey City,NJ,07306,duplex,2791,4,2,1921
+690,4,5188 Tiffany Turnpike,New York,NY,10011,apartment,1573,3,2,1973
+691,22,1691 Makayla Locks,Greenwich,CT,06831,townhouse,2079,2,4,1962
+692,9,1499 Madeline Creek,New York,NY,11249,apartment,1139,2,1,1987
+693,9,5000 April Ports,New York,NY,11101,condo,1585,3,2,1981
+694,8,7484 Jonathan Plaza,New York,NY,10023,apartment,1497,3,2,1956
+695,4,3662 Jodi Spur,New York,NY,10036,condo,907,1,2,1952
+696,13,9839 Burns Islands,New York,NY,10038,single-family home,3444,4,2,2001
+697,9,7424 Kelley Locks,New York,NY,10011,single-family home,3532,4,4,1922
+698,18,45 Robinson Keys,Jersey City,NJ,07305,townhouse,2607,3,3,1955
+699,17,4793 Watts Coves,Jersey City,NJ,07310,apartment,1463,2,1,1976
+700,14,760 Danielle Motorway,New York,NY,10013,townhouse,2617,5,2,1973
+701,2,6714 Mary Terrace,New York,NY,10011,single-family home,2800,3,5,1942
+702,24,1988 Jennifer Underpass,West Hartford,CT,06117,apartment,1482,2,2,1937
+703,8,3132 Tyler Cliffs,New York,NY,10301,duplex,2539,2,3,1953
+704,6,9657 Allen Lodge,New York,NY,10011,condo,1785,3,1,2008
+705,20,9665 Bryan Plains,Montclair,NJ,07042,co-op,1685,3,2,1973
+706,21,9074 Stephanie Field,Stamford,CT,06902,condo,1775,4,2,2017
+707,3,2913 Allen Hill,New York,NY,10301,condo,1878,4,1,1984
+708,17,2113 Jamie Views,Jersey City,NJ,07302,condo,1607,3,2,1959
+709,11,5283 Carl Mission,New York,NY,11101,single-family home,2717,4,3,2022
+710,12,4077 Robert Knolls,New York,NY,10021,single-family home,2742,4,3,1960
+711,16,7429 Smith Ranch,New York,NY,11249,apartment,1059,1,3,1927
+712,15,8403 Cooper Landing,New York,NY,10022,apartment,1539,2,2,2017
+713,12,5153 Kevin River,New York,NY,10301,condo,963,1,1,2004
+714,11,3570 Reid Ramp,New York,NY,10014,apartment,1059,0,2,1936
+715,12,5667 Erin Bypass,New York,NY,10463,co-op,920,1,2,1926
+716,11,2923 Flores Burgs,New York,NY,11101,condo,916,1,2,1979
+717,15,1900 Haynes Wall,New York,NY,11215,single-family home,3515,4,2,1955
+718,1,9359 Mullins Trail,New York,NY,10463,co-op,1082,0,2,2000
+719,22,8757 Roberto Radial,Greenwich,CT,06831,duplex,2677,4,3,2022
+720,1,219 Avery Spur,New York,NY,11101,condo,1035,1,2,1923
+721,11,937 Vang Light,New York,NY,10014,co-op,1490,2,1,1944
+722,15,4705 Sydney Trace,New York,NY,10463,condo,1972,4,3,1942
+723,4,4845 Thomas Plains,New York,NY,10014,apartment,1740,3,2,2006
+724,1,7425 Christopher Stream,New York,NY,10011,apartment,1645,2,2,1988
+725,12,9215 Shawn Summit,New York,NY,10019,single-family home,2755,3,3,2005
+726,18,3902 Allen Mountains,Jersey City,NJ,07310,townhouse,2921,5,2,2010
+727,11,4722 Marcus Plaza,New York,NY,10301,condo,1412,2,3,1995
+728,4,6835 Robinson Loop,New York,NY,11249,single-family home,2591,2,4,1997
+729,8,891 Alex Crossroad,New York,NY,10001,condo,1290,2,3,2005
+730,20,7269 Selena Mills,Montclair,NJ,07042,condo,920,1,2,1991
+731,9,6035 Wayne Mountain,New York,NY,11215,single-family home,3394,5,3,1985
+732,1,3228 Terry Loaf,New York,NY,11215,apartment,1350,2,1,2002
+733,23,7363 Jon Crest,Bridgeport,CT,06604,single-family home,2852,3,3,1997
+734,21,8428 Thompson Mission,Stamford,CT,06901,co-op,1654,3,2,1958
+735,12,4339 Nash Canyon,New York,NY,10012,apartment,1113,1,2,1930
+736,24,102 Burke Meadow,West Hartford,CT,06117,condo,1305,1,2,1969
+737,20,664 Gloria Villages,Montclair,NJ,07042,duplex,2045,3,3,1951
+738,1,4944 James Oval,New York,NY,10038,condo,1218,1,2,2011
+739,23,1204 Adam Trail,Bridgeport,CT,06606,apartment,1532,3,1,1950
+740,22,8539 Kelsey Cape,Greenwich,CT,06830,single-family home,3417,5,4,2010
+741,15,8907 White Junctions,New York,NY,11102,duplex,2392,4,4,1961
+742,12,5447 Perez Mills,New York,NY,10023,apartment,1316,2,2,1956
+743,14,8701 Craig Dam,New York,NY,10038,apartment,961,1,2,1981
+744,10,154 Joy Rapids,New York,NY,10011,townhouse,2934,4,2,1995
+745,9,4004 Samuel Lakes,New York,NY,10002,apartment,1933,4,1,1997
+746,5,1867 Smith Pine,New York,NY,10025,single-family home,2781,3,2,1942
+747,11,414 Reid Coves,New York,NY,11101,apartment,1000,1,2,2015
+748,20,8345 Wells Harbors,Montclair,NJ,07043,townhouse,2281,2,3,1972
+749,20,5258 Grant Manors,Montclair,NJ,07042,single-family home,3224,4,3,1922
+750,24,8824 Cameron Greens,West Hartford,CT,06119,apartment,1082,1,1,1910
+751,19,3502 Wells Parkways,Hoboken,NJ,07030,apartment,1124,1,3,2016
+752,12,7140 Rebecca Wells,New York,NY,11375,single-family home,3594,6,2,2014
+753,2,2529 David Estates,New York,NY,10001,apartment,1958,3,3,1968
+754,4,1443 Ashley Shores,New York,NY,10003,single-family home,3478,6,3,1916
+755,11,9153 Sean Plains,New York,NY,10003,apartment,1284,2,2,1983
+756,8,6688 Grant Neck,New York,NY,10025,co-op,1151,2,1,1967
+757,18,5193 Tara Shoals,Jersey City,NJ,07302,townhouse,2371,3,2,1959
+758,4,106 Brandi Crescent,New York,NY,11375,co-op,822,1,1,2002
+759,17,9604 Jesse Drive,Jersey City,NJ,07302,co-op,1292,2,2,1999
+760,2,8248 Anderson Squares,New York,NY,10011,single-family home,2504,2,4,1947
+761,22,9947 Smith Circle,Greenwich,CT,06830,apartment,1258,2,2,1946
+762,15,6259 Daniel Shores,New York,NY,10025,condo,1339,2,1,2015
+763,4,2571 Richards Branch,New York,NY,11102,single-family home,3367,4,3,1938
+764,18,8951 Beard Dam,Jersey City,NJ,07305,apartment,932,1,1,1991
+765,22,6123 Mccall Wall,Greenwich,CT,06830,co-op,1472,2,2,1980
+766,12,2029 Solis Field,New York,NY,10002,apartment,909,1,2,1910
+767,23,8810 Mendoza Forest,Bridgeport,CT,06606,condo,1680,3,2,1920
+768,4,5643 Gerald Plaza,New York,NY,10014,condo,1239,2,2,1962
+769,2,8407 Dustin Crossroad,New York,NY,10012,condo,1249,2,2,1930
+770,19,4150 Michelle Cliff,Hoboken,NJ,07030,townhouse,2911,4,3,1924
+771,9,9304 Palmer Cliffs,New York,NY,10002,apartment,1444,3,2,2018
+772,22,7567 John Terrace,Greenwich,CT,06830,co-op,1148,1,2,1947
+773,18,1618 Franco Lake,Jersey City,NJ,07304,single-family home,2944,4,4,2002
+774,21,5861 Maria Lodge,Stamford,CT,06901,single-family home,2994,5,4,1995
+775,2,4681 Karen Canyon,New York,NY,11354,single-family home,2678,3,2,1918
+776,5,7970 Norman Burgs,New York,NY,10036,condo,772,1,1,1952
+777,13,9581 Emily Landing,New York,NY,10012,condo,1348,2,2,1982
+778,8,5192 Cole Villages,New York,NY,10028,single-family home,2908,3,2,1931
+779,8,3639 Kaitlyn Crossroad,New York,NY,10301,single-family home,2452,3,2,2004
+780,12,5899 Mendez Turnpike,New York,NY,10012,co-op,1741,3,1,1996
+781,21,7593 Lucas Throughway,Stamford,CT,06902,condo,1434,3,1,1955
+782,12,9048 John Pike,New York,NY,10011,apartment,1463,3,1,1932
+783,16,4607 Crawford Club,New York,NY,10012,single-family home,2783,4,4,1978
+784,19,1262 Greene Mall,Hoboken,NJ,07030,condo,1500,2,2,1912
+785,9,521 Anna Squares,New York,NY,11105,condo,1321,2,2,1984
+786,15,3495 Kendra Canyon,New York,NY,10002,single-family home,2997,3,3,1980
+787,17,7744 Ramirez Harbors,Jersey City,NJ,07304,single-family home,3366,5,3,1956
+788,5,9670 Santos Junctions,New York,NY,11201,condo,1520,3,1,2019
+789,20,8220 Huff Rapids,Montclair,NJ,07042,condo,1218,2,1,1960
+790,23,3923 Calhoun Walk,Bridgeport,CT,06606,single-family home,3032,4,3,1997
+791,22,2309 Dixon Lights,Greenwich,CT,06831,condo,1131,1,2,1930
+792,11,2405 Taylor Course,New York,NY,11201,duplex,2690,4,2,2003
+793,24,672 Hester Place,West Hartford,CT,06107,condo,904,1,2,2007
+794,1,4341 John Grove,New York,NY,10024,condo,1604,3,2,1939
+795,24,5928 Baxter Ranch,West Hartford,CT,06117,condo,908,1,1,1970
+796,19,663 Lawrence Islands,Hoboken,NJ,07030,single-family home,3491,6,3,1923
+797,21,4490 Ashlee Keys,Stamford,CT,06905,condo,832,1,3,1943
+798,10,2858 Lee Isle,New York,NY,10025,condo,1699,3,2,1993
+799,24,1285 Ramirez Rapid,West Hartford,CT,06119,apartment,1030,2,2,1942
+800,17,8470 Santiago Field,Jersey City,NJ,07306,single-family home,3708,6,4,1955
+801,20,7986 Leah Spurs,Montclair,NJ,07043,co-op,1411,3,1,2023
+802,11,2286 Lee Spur,New York,NY,10036,condo,1843,4,1,1931
+803,2,4610 Marquez Plaza,New York,NY,10014,co-op,953,1,1,1929
+804,10,9873 Harris Mountain,New York,NY,10301,single-family home,3010,5,3,2014
+805,8,5420 David Stream,New York,NY,11201,condo,1486,3,1,1924
+806,5,7858 Little Ford,New York,NY,10014,duplex,2883,5,3,1985
+807,11,6742 White Rue,New York,NY,10001,co-op,2055,4,3,1941
+808,4,2649 Brooks Lock,New York,NY,10012,apartment,1562,3,2,1990
+809,22,2416 Love Port,Greenwich,CT,06830,apartment,1499,2,3,1931
+810,3,8474 Medina Drive,New York,NY,10025,duplex,2536,5,2,1986
+811,3,315 Obrien Glen,New York,NY,11201,apartment,1783,4,1,2003
+812,13,1414 Tammy Via,New York,NY,10014,apartment,675,1,3,1967
+813,22,7901 Smith Field,Greenwich,CT,06830,single-family home,2133,2,3,1938
+814,22,2348 Reilly Motorway,Greenwich,CT,06830,townhouse,2436,2,4,1989
+815,23,2757 Dixon Manor,Bridgeport,CT,06606,apartment,1143,2,1,1997
+816,13,9783 Joseph Meadow,New York,NY,11105,duplex,2284,3,2,1918
+817,14,2176 Larson Mountains,New York,NY,10011,condo,1566,3,2,1912
+818,18,8273 Hughes Crest,Jersey City,NJ,07306,apartment,1566,3,1,2015
+819,8,2916 Herbert Lake,New York,NY,10038,condo,1890,4,3,1988
+820,3,8716 Blake Cliff,New York,NY,11101,co-op,1144,2,3,2006
+821,22,2145 Rodriguez Plain,Greenwich,CT,06830,condo,1202,2,3,2009
+822,5,8563 Anderson Court,New York,NY,10028,apartment,731,0,2,1957
+823,6,8690 Harris Shore,New York,NY,10028,apartment,972,1,2,1939
+824,9,6256 Alejandro Junction,New York,NY,10024,duplex,2664,3,2,1985
+825,7,9449 Mitchell Garden,New York,NY,10011,apartment,1121,2,3,1964
+826,23,3819 Jeffrey Rapids,Bridgeport,CT,06604,apartment,1227,1,2,1946
+827,14,6705 Reilly Knoll,New York,NY,10021,apartment,1446,2,2,1934
+828,8,126 Edward Plaza,New York,NY,11105,apartment,1505,2,1,1976
+829,23,3375 Farmer Extension,Bridgeport,CT,06606,condo,1034,2,2,2012
+830,19,1756 Harris Ridges,Hoboken,NJ,07030,single-family home,3394,5,2,1964
+831,13,4291 Stephanie Course,New York,NY,11102,single-family home,2755,3,3,1964
+832,10,4524 Pacheco Crossing,New York,NY,10463,apartment,1869,3,1,1960
+833,12,9055 John Lodge,New York,NY,11249,townhouse,2295,4,4,1981
+834,23,9170 John Ridge,Bridgeport,CT,06606,townhouse,2703,3,2,1971
+835,20,9474 Patricia Forges,Montclair,NJ,07043,condo,1700,3,2,2009
+836,1,2272 Rodriguez Garden,New York,NY,10463,condo,1131,2,2,1925
+837,18,2660 Graham Wall,Jersey City,NJ,07302,single-family home,3443,5,2,1937
+838,23,5554 Griffin Fort,Bridgeport,CT,06606,single-family home,3040,5,3,1988
+839,10,862 Melanie Lodge,New York,NY,10013,condo,948,1,1,1959
+840,22,1502 Ramos Streets,Greenwich,CT,06830,co-op,1620,3,3,1970
+841,8,1454 Jefferson Terrace,New York,NY,10003,townhouse,2371,2,2,1943
+842,8,9988 Johnson Track,New York,NY,10002,condo,1397,2,1,2002
+843,5,8546 Harris Spring,New York,NY,10022,apartment,860,1,2,2001
+844,11,2881 Kim Wells,New York,NY,11375,single-family home,2640,3,2,1973
+845,8,8499 Morris Parks,New York,NY,10022,single-family home,3058,4,4,1934
+846,1,8461 Massey Rest,New York,NY,10301,duplex,2980,3,2,1939
+847,15,600 Nathan Squares,New York,NY,10024,condo,1481,2,2,1940
+848,6,1432 Carolyn Square,New York,NY,10021,condo,1282,2,2,2009
+849,18,6484 Jackson Lodge,Jersey City,NJ,07306,condo,1615,3,1,1985
+850,17,1134 Jeffery Knoll,Jersey City,NJ,07302,apartment,1069,1,2,1980

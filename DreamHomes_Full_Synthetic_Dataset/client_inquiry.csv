@@ -1,0 +1,2401 @@
+inquiry_id,client_id,listing_id,inquiry_date,inquiry_channel,inquiry_status
+1,380,3,2023-08-05,website,closed
+2,544,100,2023-07-08,referral,open
+3,772,205,2024-06-03,website,open
+4,294,773,2022-11-04,walk-in,closed
+5,495,189,2021-08-21,website,followed up
+6,757,954,2022-07-22,website,closed
+7,806,437,2023-09-24,website,followed up
+8,635,73,2024-12-23,email,followed up
+9,811,725,2022-03-27,website,closed
+10,952,194,2022-06-22,referral,closed
+11,416,968,2023-03-05,phone,closed
+12,917,368,2023-06-03,website,followed up
+13,530,167,2023-06-18,referral,open
+14,884,589,2021-06-08,email,followed up
+15,268,661,2024-05-11,website,followed up
+16,565,285,2022-05-13,referral,closed
+17,819,972,2024-05-10,website,followed up
+18,784,196,2024-03-05,website,followed up
+19,997,677,2023-10-11,website,followed up
+20,966,889,2023-03-03,email,followed up
+21,682,370,2022-10-13,phone,open
+22,672,633,2022-09-13,website,closed
+23,758,756,2023-05-12,phone,followed up
+24,31,211,2023-04-30,email,followed up
+25,957,226,2021-05-30,website,open
+26,609,779,2024-05-14,website,followed up
+27,309,450,2022-10-25,phone,closed
+28,958,870,2022-05-19,phone,open
+29,73,425,2024-04-12,phone,followed up
+30,223,651,2023-09-22,website,closed
+31,430,184,2021-12-19,email,followed up
+32,465,710,2025-03-10,website,followed up
+33,202,705,2024-06-19,website,closed
+34,462,630,2022-11-02,phone,followed up
+35,317,482,2023-03-22,phone,followed up
+36,670,698,2021-08-17,website,open
+37,838,215,2021-12-06,website,followed up
+38,718,749,2024-04-07,email,open
+39,544,958,2024-01-13,phone,closed
+40,570,707,2023-10-21,email,open
+41,296,220,2023-04-18,website,closed
+42,538,344,2022-12-12,email,followed up
+43,989,822,2024-06-22,website,open
+44,625,340,2021-08-28,website,followed up
+45,240,765,2023-05-29,website,followed up
+46,819,839,2022-10-03,website,closed
+47,584,986,2024-03-12,website,followed up
+48,698,370,2022-09-04,email,followed up
+49,646,643,2024-06-24,email,open
+50,577,835,2022-06-02,email,followed up
+51,914,891,2024-04-25,email,open
+52,610,428,2024-03-19,phone,open
+53,96,954,2022-02-24,website,closed
+54,906,506,2023-12-20,website,closed
+55,231,854,2024-04-05,phone,followed up
+56,899,123,2024-01-21,website,followed up
+57,14,507,2021-08-31,referral,followed up
+58,462,891,2024-03-26,email,followed up
+59,729,856,2022-06-26,phone,closed
+60,524,290,2023-06-17,website,closed
+61,977,588,2023-03-13,referral,closed
+62,665,55,2022-06-13,phone,followed up
+63,459,625,2021-09-27,email,followed up
+64,739,556,2022-09-13,email,open
+65,393,816,2021-11-20,phone,closed
+66,268,338,2023-12-27,website,followed up
+67,703,87,2022-07-22,referral,open
+68,662,753,2023-07-07,phone,followed up
+69,898,67,2023-09-03,email,followed up
+70,336,279,2022-05-24,referral,followed up
+71,751,449,2023-09-24,phone,open
+72,194,932,2023-08-19,website,open
+73,717,386,2024-05-04,phone,followed up
+74,635,694,2024-01-11,website,followed up
+75,528,822,2024-07-15,website,closed
+76,56,93,2022-07-21,walk-in,followed up
+77,286,613,2022-10-09,website,open
+78,266,217,2021-10-26,website,followed up
+79,301,514,2021-10-05,phone,closed
+80,120,655,2023-11-26,phone,followed up
+81,668,474,2023-02-19,website,closed
+82,420,230,2021-01-22,website,closed
+83,920,203,2022-10-09,referral,closed
+84,14,78,2023-02-05,website,followed up
+85,31,610,2022-07-02,website,closed
+86,900,595,2024-05-26,website,open
+87,945,750,2024-09-04,website,closed
+88,279,418,2022-01-19,phone,closed
+89,732,866,2024-09-14,website,open
+90,517,777,2023-12-12,website,open
+91,814,906,2022-03-05,website,open
+92,82,22,2023-05-07,email,closed
+93,183,309,2022-02-20,website,followed up
+94,910,679,2021-01-26,website,closed
+95,260,223,2021-05-08,referral,open
+96,183,773,2022-10-25,website,open
+97,798,877,2022-07-16,walk-in,followed up
+98,492,702,2024-10-17,phone,closed
+99,85,313,2022-05-03,phone,followed up
+100,135,353,2021-04-11,referral,open
+101,625,151,2023-10-21,phone,closed
+102,540,196,2024-04-18,website,closed
+103,920,246,2023-12-09,email,closed
+104,978,447,2021-11-08,referral,closed
+105,699,457,2022-12-18,phone,closed
+106,874,592,2023-07-26,walk-in,followed up
+107,114,297,2021-02-11,website,open
+108,348,45,2024-03-08,walk-in,closed
+109,10,659,2024-01-29,phone,closed
+110,346,480,2022-10-29,walk-in,followed up
+111,420,926,2022-12-30,email,followed up
+112,998,564,2022-04-03,phone,open
+113,300,591,2021-08-31,website,open
+114,181,948,2022-07-18,email,closed
+115,212,675,2022-10-04,website,followed up
+116,798,675,2022-09-22,referral,followed up
+117,296,877,2022-05-26,referral,closed
+118,634,931,2022-08-31,website,closed
+119,628,703,2022-12-09,website,closed
+120,947,484,2022-12-04,phone,followed up
+121,459,151,2023-09-25,phone,closed
+122,315,17,2024-09-16,website,open
+123,690,414,2024-05-29,email,closed
+124,959,945,2022-09-08,phone,followed up
+125,591,924,2022-09-27,email,followed up
+126,282,695,2022-07-29,referral,closed
+127,176,366,2022-08-27,email,open
+128,620,385,2022-11-28,website,open
+129,101,24,2024-02-05,website,closed
+130,649,803,2021-02-01,referral,followed up
+131,889,599,2023-03-28,referral,open
+132,698,717,2021-04-23,email,open
+133,994,863,2024-01-06,walk-in,open
+134,572,92,2023-08-09,website,followed up
+135,926,509,2023-09-13,phone,followed up
+136,147,912,2025-03-10,website,open
+137,388,298,2021-09-10,phone,followed up
+138,559,272,2022-04-26,website,closed
+139,872,996,2022-06-02,website,followed up
+140,548,618,2024-06-13,email,followed up
+141,403,906,2022-08-16,phone,followed up
+142,673,646,2022-06-25,referral,closed
+143,717,42,2024-07-15,website,followed up
+144,301,313,2021-12-29,email,closed
+145,659,731,2021-10-17,referral,followed up
+146,91,877,2022-07-03,email,followed up
+147,573,734,2024-10-21,website,closed
+148,575,532,2022-09-26,website,closed
+149,584,640,2024-05-12,website,open
+150,993,431,2021-05-04,phone,closed
+151,530,928,2022-10-01,phone,closed
+152,886,437,2023-09-23,email,open
+153,302,369,2021-10-03,email,open
+154,976,722,2021-11-09,walk-in,followed up
+155,841,447,2021-08-26,walk-in,closed
+156,163,286,2021-08-22,website,closed
+157,574,563,2024-03-18,website,followed up
+158,840,900,2025-02-19,email,closed
+159,615,769,2024-01-21,referral,open
+160,22,773,2022-11-21,website,closed
+161,313,468,2024-01-15,website,closed
+162,889,856,2022-05-07,website,closed
+163,384,365,2021-11-08,website,closed
+164,38,308,2022-12-10,referral,open
+165,762,662,2023-01-31,email,followed up
+166,613,323,2021-10-22,walk-in,closed
+167,327,327,2021-10-26,phone,open
+168,950,210,2023-08-15,phone,open
+169,279,846,2025-03-10,email,closed
+170,762,693,2023-08-05,referral,followed up
+171,327,600,2021-05-18,referral,closed
+172,624,32,2022-07-31,email,closed
+173,769,797,2024-02-12,phone,closed
+174,613,990,2024-10-11,website,closed
+175,721,281,2022-11-11,email,closed
+176,118,155,2022-05-02,website,closed
+177,965,130,2021-04-17,website,closed
+178,165,325,2024-04-26,phone,closed
+179,749,228,2021-07-14,website,closed
+180,592,755,2022-09-13,referral,closed
+181,327,778,2024-08-15,website,open
+182,975,382,2021-10-21,website,closed
+183,959,660,2024-01-07,website,closed
+184,643,248,2021-12-03,website,closed
+185,21,428,2023-12-20,phone,open
+186,679,400,2022-01-09,email,closed
+187,366,412,2024-04-25,website,closed
+188,889,943,2021-07-08,website,followed up
+189,675,797,2024-03-29,phone,open
+190,204,626,2024-08-15,website,followed up
+191,154,528,2021-07-01,walk-in,followed up
+192,366,277,2024-03-08,website,closed
+193,749,172,2023-02-16,website,open
+194,528,775,2024-03-14,phone,followed up
+195,439,359,2024-03-23,walk-in,followed up
+196,36,718,2021-10-01,referral,closed
+197,583,326,2022-05-01,referral,open
+198,293,375,2022-12-28,referral,followed up
+199,472,271,2021-11-20,website,closed
+200,698,436,2022-09-05,email,closed
+201,621,673,2021-12-09,website,closed
+202,639,264,2024-11-28,website,open
+203,978,563,2024-07-02,website,open
+204,487,298,2021-12-16,website,closed
+205,334,819,2021-02-18,email,followed up
+206,594,245,2023-11-20,referral,open
+207,1000,881,2023-08-29,website,closed
+208,491,342,2023-06-05,phone,closed
+209,845,588,2023-05-03,website,followed up
+210,1000,730,2024-11-30,website,open
+211,318,457,2023-03-11,website,closed
+212,191,215,2021-12-29,website,open
+213,254,549,2022-02-11,website,open
+214,615,52,2022-07-31,referral,open
+215,976,709,2024-02-16,website,open
+216,754,509,2023-10-30,phone,closed
+217,570,945,2022-09-24,email,closed
+218,698,454,2024-11-23,website,closed
+219,379,603,2023-08-09,phone,followed up
+220,284,48,2023-05-14,referral,followed up
+221,993,440,2022-08-02,website,closed
+222,817,29,2021-06-30,walk-in,open
+223,317,888,2023-01-14,email,open
+224,11,566,2024-11-05,website,open
+225,693,860,2022-04-17,website,followed up
+226,681,171,2023-07-25,website,closed
+227,931,361,2021-08-04,referral,closed
+228,481,146,2024-07-17,website,closed
+229,968,392,2021-12-04,website,followed up
+230,959,597,2023-11-15,email,open
+231,358,112,2021-12-17,referral,closed
+232,999,590,2024-03-22,email,followed up
+233,227,759,2021-12-19,website,followed up
+234,783,729,2024-07-24,website,closed
+235,799,348,2023-10-12,referral,closed
+236,734,242,2022-01-23,email,followed up
+237,313,918,2022-08-19,phone,closed
+238,553,466,2021-12-05,website,open
+239,24,424,2022-08-06,email,closed
+240,472,689,2024-02-18,website,followed up
+241,221,46,2022-02-17,walk-in,closed
+242,76,405,2023-07-22,website,open
+243,777,652,2022-08-31,phone,closed
+244,738,254,2021-08-13,email,closed
+245,278,321,2022-07-18,phone,open
+246,705,452,2024-08-22,referral,followed up
+247,830,842,2022-12-03,phone,open
+248,880,582,2024-07-05,phone,followed up
+249,445,121,2021-01-18,website,open
+250,486,100,2023-10-07,website,followed up
+251,445,925,2022-03-22,website,closed
+252,925,529,2022-08-10,email,followed up
+253,511,942,2024-01-23,phone,closed
+254,264,363,2023-01-10,website,closed
+255,322,8,2021-05-31,phone,open
+256,204,626,2024-06-06,referral,followed up
+257,570,820,2021-09-28,phone,followed up
+258,965,931,2022-08-16,referral,closed
+259,243,294,2021-08-16,phone,followed up
+260,754,441,2022-07-16,phone,closed
+261,42,897,2024-01-16,website,open
+262,692,863,2024-02-11,website,closed
+263,438,27,2022-05-24,website,closed
+264,320,102,2023-06-29,website,followed up
+265,814,906,2022-09-04,walk-in,followed up
+266,824,82,2023-02-25,email,followed up
+267,703,671,2024-04-22,website,open
+268,554,686,2022-10-18,website,closed
+269,923,60,2021-02-09,website,closed
+270,953,431,2021-05-31,email,open
+271,116,610,2022-07-01,email,followed up
+272,996,831,2024-01-27,phone,followed up
+273,186,557,2022-08-18,phone,open
+274,82,401,2023-07-02,website,followed up
+275,227,762,2022-05-24,phone,closed
+276,95,292,2022-01-21,website,closed
+277,279,546,2024-06-08,phone,open
+278,762,397,2023-08-22,website,closed
+279,183,307,2021-09-29,referral,closed
+280,495,340,2021-09-02,phone,closed
+281,176,885,2022-12-04,website,followed up
+282,556,333,2022-11-24,website,followed up
+283,606,857,2022-11-10,website,closed
+284,863,626,2024-06-07,website,open
+285,615,710,2025-01-13,walk-in,closed
+286,767,19,2023-03-26,website,open
+287,177,571,2022-06-04,email,open
+288,142,840,2024-02-21,phone,closed
+289,604,971,2023-10-20,website,closed
+290,139,128,2022-07-30,website,closed
+291,345,907,2023-08-18,phone,followed up
+292,176,709,2024-02-28,walk-in,open
+293,911,812,2024-04-19,phone,followed up
+294,85,422,2024-11-19,phone,closed
+295,380,548,2022-03-03,referral,open
+296,64,724,2021-10-03,walk-in,closed
+297,293,607,2024-07-16,phone,closed
+298,458,824,2024-04-28,website,closed
+299,129,412,2024-05-20,website,closed
+300,574,430,2022-12-26,walk-in,followed up
+301,612,4,2024-01-20,phone,open
+302,743,754,2024-02-07,website,followed up
+303,57,88,2024-08-03,website,closed
+304,999,153,2021-05-25,email,closed
+305,638,679,2021-01-19,walk-in,open
+306,676,250,2021-12-07,referral,closed
+307,187,638,2021-02-15,email,followed up
+308,288,46,2021-12-13,email,closed
+309,322,473,2024-02-01,referral,followed up
+310,691,292,2022-01-20,walk-in,closed
+311,11,515,2022-10-12,website,open
+312,186,655,2024-01-20,website,closed
+313,649,949,2022-05-07,walk-in,followed up
+314,318,790,2021-06-29,website,open
+315,307,35,2023-07-21,website,closed
+316,954,239,2022-06-30,website,closed
+317,850,27,2022-08-21,email,followed up
+318,531,39,2022-03-12,referral,open
+319,723,551,2021-09-01,website,open
+320,362,51,2022-06-21,website,open
+321,301,761,2022-02-27,phone,followed up
+322,491,416,2022-07-13,referral,closed
+323,292,715,2023-05-29,referral,followed up
+324,462,380,2022-03-26,phone,closed
+325,134,481,2023-12-11,website,closed
+326,610,824,2024-06-05,website,closed
+327,40,268,2024-04-19,website,followed up
+328,697,401,2023-11-28,website,closed
+329,819,357,2023-03-09,phone,open
+330,300,176,2021-08-29,referral,closed
+331,195,950,2022-11-29,referral,followed up
+332,511,296,2021-05-07,walk-in,closed
+333,116,628,2025-01-02,email,closed
+334,389,354,2024-08-25,phone,closed
+335,578,688,2021-11-02,website,followed up
+336,332,146,2024-12-09,website,closed
+337,600,38,2022-12-03,website,followed up
+338,848,617,2021-10-21,phone,open
+339,796,166,2024-08-31,website,followed up
+340,417,270,2024-03-22,referral,followed up
+341,403,60,2021-03-26,email,followed up
+342,598,653,2021-11-10,website,followed up
+343,593,774,2023-04-09,referral,followed up
+344,337,333,2022-11-27,phone,closed
+345,875,903,2022-02-21,website,open
+346,282,495,2024-02-27,website,followed up
+347,709,150,2024-06-10,email,closed
+348,654,997,2022-06-12,website,followed up
+349,553,858,2021-09-14,website,closed
+350,369,407,2024-12-08,website,followed up
+351,709,77,2024-12-07,email,followed up
+352,874,310,2023-10-20,website,closed
+353,565,493,2021-11-02,phone,followed up
+354,460,408,2022-04-13,website,closed
+355,221,129,2022-01-20,website,closed
+356,70,210,2023-10-12,website,followed up
+357,54,448,2023-08-10,email,closed
+358,32,643,2024-07-24,email,followed up
+359,16,320,2022-07-03,website,followed up
+360,814,985,2021-08-09,walk-in,open
+361,878,6,2023-01-19,website,followed up
+362,326,115,2023-11-20,phone,closed
+363,72,737,2023-09-01,website,followed up
+364,420,508,2023-03-12,walk-in,closed
+365,364,910,2021-07-18,phone,closed
+366,915,113,2023-06-22,phone,followed up
+367,141,429,2024-09-14,email,followed up
+368,684,53,2022-01-03,website,open
+369,386,9,2022-11-10,website,followed up
+370,178,222,2022-03-12,referral,followed up
+371,256,129,2022-02-22,phone,closed
+372,779,677,2023-12-12,website,followed up
+373,303,715,2023-05-03,email,closed
+374,700,873,2022-07-25,walk-in,followed up
+375,806,428,2024-04-22,email,closed
+376,64,6,2023-04-09,referral,open
+377,876,469,2021-05-13,walk-in,followed up
+378,30,477,2023-11-07,website,followed up
+379,120,178,2022-01-24,website,followed up
+380,330,993,2024-07-18,referral,open
+381,752,726,2024-08-02,website,open
+382,830,107,2021-07-18,referral,closed
+383,397,194,2022-06-06,website,followed up
+384,868,515,2022-11-14,phone,followed up
+385,133,756,2023-05-01,website,closed
+386,846,656,2024-04-17,website,closed
+387,403,820,2021-07-28,website,followed up
+388,665,936,2021-07-30,website,open
+389,78,453,2022-08-02,walk-in,closed
+390,706,920,2021-12-08,phone,open
+391,948,589,2021-08-01,email,open
+392,541,174,2021-09-14,website,followed up
+393,24,888,2022-12-30,email,closed
+394,942,64,2024-07-14,referral,closed
+395,987,312,2023-01-30,referral,followed up
+396,512,890,2023-06-26,referral,closed
+397,836,563,2024-02-01,website,followed up
+398,868,355,2024-09-18,email,closed
+399,61,911,2024-08-05,website,closed
+400,286,939,2021-09-05,email,open
+401,845,83,2021-09-04,website,closed
+402,1,628,2024-12-09,referral,followed up
+403,96,329,2021-10-23,email,closed
+404,723,937,2022-06-02,walk-in,followed up
+405,978,634,2022-06-25,walk-in,followed up
+406,50,217,2021-12-19,website,open
+407,575,718,2021-08-16,website,followed up
+408,726,295,2023-07-30,phone,followed up
+409,876,674,2023-04-26,website,open
+410,799,500,2022-05-14,website,followed up
+411,395,69,2021-10-31,referral,closed
+412,881,123,2024-01-16,website,closed
+413,724,680,2023-07-25,website,closed
+414,605,756,2023-05-02,email,followed up
+415,775,428,2023-12-30,website,closed
+416,509,604,2021-09-21,website,closed
+417,657,916,2024-01-05,referral,closed
+418,459,998,2023-03-19,website,closed
+419,572,825,2022-07-08,website,open
+420,294,979,2022-10-11,website,closed
+421,757,5,2022-05-25,website,followed up
+422,962,239,2022-10-11,email,followed up
+423,400,78,2022-12-30,website,followed up
+424,124,186,2021-01-20,email,followed up
+425,349,94,2023-03-18,phone,open
+426,293,131,2023-12-14,website,closed
+427,745,924,2022-11-12,walk-in,followed up
+428,698,271,2022-01-15,phone,closed
+429,947,993,2024-08-09,website,open
+430,274,694,2024-01-18,walk-in,closed
+431,50,677,2023-07-14,referral,followed up
+432,926,914,2021-12-27,referral,closed
+433,288,308,2022-12-23,website,followed up
+434,455,452,2024-10-02,walk-in,open
+435,681,257,2024-03-24,email,open
+436,932,319,2024-03-11,website,closed
+437,796,160,2023-03-29,walk-in,followed up
+438,884,918,2023-01-05,phone,followed up
+439,375,144,2024-06-05,website,followed up
+440,181,109,2023-06-08,website,followed up
+441,721,274,2024-03-01,website,closed
+442,187,947,2024-11-29,website,open
+443,952,960,2022-03-22,website,closed
+444,632,5,2022-04-30,walk-in,followed up
+445,814,939,2021-07-08,website,closed
+446,368,81,2023-01-18,website,closed
+447,707,528,2021-07-06,referral,followed up
+448,254,872,2022-10-25,phone,closed
+449,624,960,2022-04-20,website,closed
+450,223,850,2024-01-05,website,closed
+451,717,74,2021-05-03,walk-in,open
+452,932,72,2023-09-27,website,followed up
+453,634,857,2023-01-15,referral,followed up
+454,849,62,2022-03-20,email,followed up
+455,458,447,2021-11-04,website,followed up
+456,615,338,2024-01-21,email,followed up
+457,739,879,2025-01-16,phone,followed up
+458,193,853,2023-10-24,phone,open
+459,796,622,2021-12-04,website,closed
+460,579,452,2024-06-25,email,open
+461,900,395,2024-07-01,referral,closed
+462,264,162,2021-09-26,website,followed up
+463,931,649,2023-02-08,email,closed
+464,721,510,2024-06-18,walk-in,followed up
+465,186,126,2021-09-26,phone,closed
+466,183,794,2021-09-26,phone,closed
+467,153,931,2022-09-06,website,followed up
+468,496,977,2024-05-22,walk-in,followed up
+469,712,462,2022-08-24,website,open
+470,269,957,2022-09-05,website,closed
+471,699,190,2022-02-02,phone,open
+472,271,765,2023-05-26,phone,closed
+473,35,53,2022-01-05,website,open
+474,397,287,2023-03-09,email,followed up
+475,458,613,2022-10-29,phone,followed up
+476,148,244,2024-05-24,website,closed
+477,304,616,2024-10-20,website,open
+478,143,875,2021-03-07,email,closed
+479,657,405,2023-09-01,website,closed
+480,652,798,2023-06-30,website,closed
+481,540,759,2021-12-31,website,followed up
+482,605,187,2022-11-27,website,closed
+483,320,266,2023-10-07,walk-in,closed
+484,604,77,2025-01-12,phone,closed
+485,968,791,2022-01-28,email,followed up
+486,943,453,2022-12-28,phone,closed
+487,86,325,2024-07-26,referral,followed up
+488,670,989,2024-02-26,email,followed up
+489,710,614,2022-08-05,website,followed up
+490,610,115,2023-11-03,website,followed up
+491,307,763,2021-09-15,phone,open
+492,609,854,2024-08-18,phone,closed
+493,149,669,2022-02-16,website,followed up
+494,947,647,2021-08-30,website,open
+495,670,131,2024-01-23,website,followed up
+496,67,487,2023-10-22,website,closed
+497,57,596,2021-09-26,website,open
+498,853,78,2022-11-16,website,open
+499,592,375,2023-01-08,email,followed up
+500,919,231,2021-08-07,website,closed
+501,124,863,2024-01-16,email,followed up
+502,958,360,2021-02-12,website,closed
+503,661,41,2021-04-24,referral,closed
+504,439,680,2023-08-18,website,closed
+505,901,484,2023-01-20,website,followed up
+506,50,891,2024-04-03,phone,followed up
+507,304,74,2021-06-18,email,closed
+508,990,614,2022-12-20,phone,followed up
+509,904,593,2021-06-26,website,closed
+510,708,589,2021-07-25,website,followed up
+511,151,807,2023-04-30,website,followed up
+512,851,679,2021-02-01,website,closed
+513,812,132,2024-04-10,email,open
+514,820,14,2022-03-13,referral,followed up
+515,747,351,2021-11-09,website,closed
+516,71,509,2023-10-01,referral,closed
+517,321,634,2022-07-25,phone,followed up
+518,307,681,2021-12-09,website,followed up
+519,716,76,2023-04-16,website,open
+520,926,485,2022-02-09,email,followed up
+521,64,333,2022-11-30,website,followed up
+522,210,270,2024-04-24,phone,closed
+523,878,112,2021-12-26,website,followed up
+524,312,968,2023-05-30,email,closed
+525,489,332,2024-01-06,referral,open
+526,78,55,2022-06-02,walk-in,closed
+527,581,92,2023-07-19,website,open
+528,177,106,2021-10-04,website,closed
+529,238,667,2023-06-07,email,closed
+530,122,535,2024-02-03,email,followed up
+531,639,313,2022-03-05,phone,followed up
+532,313,826,2023-04-26,referral,followed up
+533,573,765,2023-08-26,website,closed
+534,375,369,2021-10-12,website,followed up
+535,680,611,2021-09-10,website,closed
+536,322,78,2022-11-28,referral,closed
+537,348,327,2022-01-16,website,closed
+538,896,601,2023-09-20,email,followed up
+539,773,487,2023-09-13,referral,open
+540,819,416,2022-11-11,website,closed
+541,193,765,2023-06-04,website,open
+542,254,13,2023-11-24,website,followed up
+543,231,988,2024-03-29,phone,followed up
+544,33,892,2024-10-24,phone,followed up
+545,481,97,2023-06-17,website,closed
+546,927,589,2021-07-28,website,closed
+547,57,911,2024-10-09,website,followed up
+548,884,958,2024-02-08,website,closed
+549,221,615,2024-02-09,email,followed up
+550,777,312,2023-01-28,email,open
+551,498,417,2024-09-10,website,open
+552,687,970,2024-09-25,website,closed
+553,76,142,2024-04-10,phone,open
+554,136,792,2022-06-15,email,open
+555,714,913,2021-07-22,website,closed
+556,761,985,2021-09-10,referral,closed
+557,491,342,2023-09-20,website,open
+558,124,501,2023-08-21,email,open
+559,51,658,2022-05-16,website,followed up
+560,191,661,2024-06-05,phone,closed
+561,201,157,2022-04-18,email,open
+562,637,195,2024-12-28,email,closed
+563,643,253,2023-08-26,website,followed up
+564,943,213,2021-07-31,walk-in,closed
+565,913,147,2021-09-26,phone,closed
+566,952,336,2022-07-30,email,open
+567,644,609,2022-04-20,website,closed
+568,231,354,2024-11-25,website,closed
+569,91,52,2022-08-09,website,followed up
+570,255,283,2024-02-08,referral,closed
+571,403,65,2021-09-13,email,followed up
+572,708,902,2023-06-23,website,followed up
+573,22,501,2023-10-25,phone,followed up
+574,73,206,2023-07-17,email,followed up
+575,977,958,2023-12-24,website,closed
+576,240,941,2022-09-26,email,closed
+577,904,829,2023-01-21,website,closed
+578,836,158,2023-04-16,phone,followed up
+579,16,744,2021-09-06,phone,followed up
+580,212,268,2024-04-02,referral,open
+581,458,45,2024-06-07,website,closed
+582,830,979,2022-10-10,email,closed
+583,361,215,2021-12-17,referral,open
+584,900,103,2023-05-13,website,followed up
+585,818,783,2022-01-08,website,closed
+586,123,433,2023-12-16,website,followed up
+587,663,678,2023-09-14,walk-in,followed up
+588,214,594,2022-11-15,website,closed
+589,851,986,2024-03-08,website,closed
+590,119,562,2022-03-23,website,closed
+591,987,483,2023-04-18,website,open
+592,994,244,2024-06-18,walk-in,closed
+593,539,914,2021-12-27,website,open
+594,765,7,2021-09-23,phone,closed
+595,718,694,2024-01-31,website,closed
+596,379,784,2023-01-22,website,closed
+597,388,298,2021-10-03,website,followed up
+598,141,467,2022-01-08,website,followed up
+599,638,173,2024-09-03,email,closed
+600,593,779,2024-04-17,website,followed up
+601,608,218,2024-01-03,website,followed up
+602,366,606,2024-10-08,email,closed
+603,574,291,2023-09-18,website,closed
+604,544,348,2023-12-04,website,followed up
+605,337,271,2021-10-24,website,closed
+606,773,855,2021-08-30,website,open
+607,878,739,2021-05-29,website,followed up
+608,554,65,2021-10-16,website,closed
+609,878,806,2025-02-07,website,followed up
+610,307,136,2023-10-27,website,closed
+611,953,655,2024-02-13,phone,closed
+612,181,843,2024-12-03,walk-in,open
+613,61,188,2022-11-25,email,followed up
+614,75,982,2024-02-28,email,closed
+615,96,203,2023-03-19,walk-in,followed up
+616,954,989,2024-03-26,website,followed up
+617,874,794,2021-07-18,website,followed up
+618,65,986,2024-03-15,website,closed
+619,506,56,2021-07-17,walk-in,closed
+620,346,402,2021-08-15,website,followed up
+621,795,14,2022-06-01,website,closed
+622,309,190,2022-03-30,website,closed
+623,862,56,2021-06-30,website,open
+624,559,581,2025-03-10,email,closed
+625,729,255,2023-02-23,website,open
+626,594,425,2024-04-25,referral,open
+627,702,256,2022-01-16,website,closed
+628,625,679,2021-02-28,email,closed
+629,165,486,2023-08-24,website,followed up
+630,943,661,2024-05-06,phone,followed up
+631,662,682,2024-04-07,email,closed
+632,682,586,2024-03-28,email,followed up
+633,82,677,2023-06-21,referral,followed up
+634,593,781,2023-02-22,email,open
+635,397,582,2024-08-13,website,closed
+636,710,813,2023-08-05,website,open
+637,422,595,2024-10-23,website,open
+638,508,541,2021-09-02,website,open
+639,361,803,2021-04-04,referral,closed
+640,311,825,2022-07-23,website,followed up
+641,611,210,2023-06-25,email,closed
+642,511,717,2021-06-27,referral,closed
+643,774,387,2023-08-24,website,open
+644,321,33,2024-08-23,email,followed up
+645,836,552,2022-03-01,phone,followed up
+646,274,476,2022-06-18,phone,followed up
+647,408,823,2023-10-13,phone,closed
+648,889,896,2023-03-13,walk-in,closed
+649,496,269,2021-09-11,website,followed up
+650,914,277,2024-04-08,referral,closed
+651,740,83,2021-09-23,website,open
+652,242,629,2021-05-27,email,closed
+653,620,941,2022-10-25,website,followed up
+654,386,241,2023-04-29,website,closed
+655,646,575,2023-03-31,email,followed up
+656,942,31,2023-11-28,website,followed up
+657,762,718,2021-09-21,website,closed
+658,459,812,2024-07-22,website,closed
+659,577,402,2021-08-23,email,closed
+660,545,992,2024-07-24,website,followed up
+661,539,167,2023-10-09,website,closed
+662,392,918,2022-07-24,website,open
+663,340,283,2024-03-08,phone,followed up
+664,98,234,2023-02-18,email,open
+665,194,539,2024-04-27,email,followed up
+666,944,604,2021-11-08,email,closed
+667,611,445,2023-11-14,website,closed
+668,165,759,2021-11-22,website,open
+669,893,73,2025-03-10,website,followed up
+670,400,53,2022-05-04,website,closed
+671,593,292,2022-01-22,email,closed
+672,594,246,2024-01-18,email,closed
+673,789,396,2022-10-17,website,followed up
+674,280,922,2021-12-25,email,open
+675,70,682,2024-03-15,website,followed up
+676,886,734,2024-11-11,phone,closed
+677,861,721,2021-02-13,phone,open
+678,629,838,2023-05-16,referral,open
+679,592,488,2021-08-01,website,closed
+680,207,721,2021-02-14,website,closed
+681,231,182,2022-02-04,email,followed up
+682,574,326,2022-05-23,website,open
+683,116,661,2024-03-29,phone,open
+684,958,114,2023-02-11,website,closed
+685,544,712,2023-06-26,website,followed up
+686,638,86,2023-07-30,referral,closed
+687,535,698,2021-06-17,referral,closed
+688,196,830,2023-05-20,phone,followed up
+689,951,218,2024-04-13,website,closed
+690,247,174,2021-09-05,website,followed up
+691,119,233,2022-05-30,phone,closed
+692,78,748,2022-09-28,email,followed up
+693,962,487,2024-01-17,website,closed
+694,407,248,2021-10-11,website,closed
+695,718,176,2021-09-12,website,open
+696,293,140,2023-09-17,website,open
+697,777,656,2024-05-16,walk-in,followed up
+698,549,876,2022-03-31,website,followed up
+699,338,153,2021-11-04,email,followed up
+700,789,614,2022-08-14,email,followed up
+701,391,626,2024-06-19,referral,followed up
+702,32,357,2023-04-16,email,closed
+703,942,179,2021-05-02,website,followed up
+704,385,417,2024-08-07,website,closed
+705,948,763,2021-08-23,phone,closed
+706,235,898,2025-01-15,website,followed up
+707,997,542,2021-04-24,email,open
+708,200,984,2022-12-03,phone,followed up
+709,854,291,2023-09-02,website,closed
+710,841,955,2021-11-14,website,closed
+711,162,826,2023-05-19,phone,closed
+712,313,433,2023-12-31,phone,open
+713,392,696,2022-05-01,website,closed
+714,818,827,2022-05-07,website,followed up
+715,208,481,2023-11-11,phone,followed up
+716,446,593,2021-07-12,website,open
+717,232,3,2023-05-23,website,closed
+718,335,962,2024-06-20,website,followed up
+719,355,148,2024-06-17,phone,open
+720,671,612,2022-05-13,referral,open
+721,591,766,2024-04-20,website,followed up
+722,368,112,2021-12-18,website,open
+723,119,371,2022-03-08,website,followed up
+724,129,656,2024-05-04,referral,followed up
+725,814,193,2024-10-18,website,closed
+726,216,572,2023-06-04,phone,open
+727,1000,449,2023-08-12,website,closed
+728,662,886,2023-07-04,website,followed up
+729,791,226,2021-07-19,website,closed
+730,271,527,2021-07-09,website,open
+731,974,802,2024-05-13,email,followed up
+732,707,218,2024-04-16,website,closed
+733,838,519,2024-10-20,website,followed up
+734,621,780,2024-05-09,website,open
+735,61,585,2022-01-23,email,closed
+736,762,884,2023-05-15,website,open
+737,500,958,2024-02-17,website,closed
+738,462,665,2024-07-10,phone,open
+739,303,755,2022-09-04,walk-in,followed up
+740,891,488,2021-08-09,website,open
+741,337,338,2024-01-24,website,closed
+742,778,786,2024-06-22,email,followed up
+743,271,169,2021-10-08,referral,followed up
+744,561,108,2023-07-15,phone,closed
+745,393,888,2022-10-07,website,closed
+746,523,270,2024-06-15,website,closed
+747,265,866,2024-05-11,phone,followed up
+748,572,816,2021-12-23,email,closed
+749,38,552,2022-06-05,referral,closed
+750,496,117,2023-09-30,walk-in,followed up
+751,119,387,2023-10-07,phone,open
+752,751,507,2021-11-03,walk-in,open
+753,21,425,2024-04-25,referral,followed up
+754,913,357,2023-02-22,phone,followed up
+755,660,631,2024-06-14,walk-in,followed up
+756,38,820,2021-09-20,phone,followed up
+757,649,657,2025-02-23,email,followed up
+758,594,58,2023-04-07,website,followed up
+759,128,280,2022-09-16,email,open
+760,531,755,2022-10-09,website,followed up
+761,253,527,2021-07-13,website,closed
+762,358,87,2023-01-05,phone,closed
+763,313,616,2024-10-27,website,followed up
+764,282,707,2023-10-10,referral,closed
+765,420,342,2023-09-06,referral,open
+766,983,29,2021-10-10,walk-in,open
+767,612,62,2022-05-12,website,followed up
+768,661,730,2025-03-10,email,followed up
+769,407,504,2024-11-11,referral,closed
+770,81,321,2022-07-01,referral,closed
+771,362,64,2024-07-15,website,open
+772,379,727,2021-03-06,website,followed up
+773,872,94,2023-03-26,referral,followed up
+774,335,909,2023-05-06,referral,open
+775,584,463,2022-10-26,website,closed
+776,724,518,2022-07-21,website,open
+777,277,382,2021-07-07,referral,closed
+778,617,870,2022-05-04,website,open
+779,537,974,2024-05-08,website,closed
+780,610,366,2022-09-16,website,closed
+781,752,980,2023-07-09,referral,open
+782,951,182,2022-08-26,phone,closed
+783,284,740,2022-01-20,website,closed
+784,722,638,2021-04-25,walk-in,followed up
+785,220,412,2024-05-22,referral,followed up
+786,118,869,2021-08-10,referral,closed
+787,150,549,2022-02-10,website,open
+788,123,202,2022-05-07,website,followed up
+789,313,303,2021-09-19,website,followed up
+790,925,100,2023-10-11,website,closed
+791,671,537,2023-06-02,phone,closed
+792,459,830,2022-09-30,website,closed
+793,340,953,2023-03-19,walk-in,followed up
+794,163,643,2024-06-27,website,followed up
+795,181,980,2023-07-06,phone,closed
+796,348,405,2023-08-24,referral,followed up
+797,191,44,2024-05-16,phone,followed up
+798,837,34,2023-12-17,walk-in,followed up
+799,613,798,2023-12-30,website,open
+800,207,973,2023-11-03,website,closed
+801,987,610,2022-05-27,phone,closed
+802,301,674,2023-07-16,website,closed
+803,13,182,2022-03-28,phone,closed
+804,337,624,2022-03-23,walk-in,closed
+805,778,842,2022-11-28,referral,followed up
+806,572,171,2023-07-31,phone,closed
+807,909,228,2021-03-28,website,followed up
+808,531,969,2024-03-09,email,followed up
+809,285,193,2024-08-29,website,open
+810,722,108,2023-06-13,referral,closed
+811,232,165,2022-04-07,website,followed up
+812,789,460,2024-07-29,website,followed up
+813,639,202,2022-05-07,email,closed
+814,556,634,2022-07-25,website,closed
+815,312,969,2024-04-19,website,followed up
+816,225,525,2022-12-26,website,followed up
+817,338,582,2024-04-24,phone,followed up
+818,987,542,2021-04-27,referral,open
+819,146,654,2022-06-14,website,open
+820,225,551,2021-04-24,website,open
+821,414,173,2024-12-19,phone,closed
+822,622,203,2023-04-12,email,open
+823,684,614,2022-11-05,website,closed
+824,835,995,2022-07-17,referral,open
+825,853,887,2023-09-16,website,closed
+826,794,280,2022-09-12,website,open
+827,693,113,2023-07-04,email,closed
+828,875,611,2021-09-30,email,closed
+829,722,262,2022-10-05,website,open
+830,749,349,2021-02-19,website,open
+831,953,180,2024-03-12,website,closed
+832,188,142,2024-07-31,phone,followed up
+833,824,543,2021-08-20,website,followed up
+834,70,53,2022-02-19,website,open
+835,180,561,2023-11-19,email,followed up
+836,922,432,2023-02-18,website,closed
+837,183,220,2023-05-11,email,closed
+838,745,417,2024-09-03,website,followed up
+839,504,94,2022-10-19,website,open
+840,702,188,2022-10-06,phone,closed
+841,584,236,2023-08-09,referral,closed
+842,259,958,2023-12-25,walk-in,followed up
+843,221,74,2021-05-19,phone,followed up
+844,939,852,2022-06-23,referral,followed up
+845,789,344,2023-03-10,website,open
+846,747,509,2023-11-07,phone,closed
+847,303,505,2021-09-16,referral,closed
+848,644,843,2024-11-24,website,closed
+849,301,674,2023-02-01,website,open
+850,32,926,2023-01-21,website,followed up
+851,721,312,2023-02-11,email,closed
+852,461,359,2024-06-17,website,closed
+853,922,786,2024-07-25,referral,followed up
+854,576,235,2021-10-02,website,closed
+855,702,111,2022-07-21,website,open
+856,717,430,2022-10-18,walk-in,open
+857,302,675,2022-09-11,referral,followed up
+858,886,693,2023-07-25,referral,closed
+859,459,235,2021-11-14,website,open
+860,176,702,2024-11-22,email,closed
+861,862,334,2021-05-15,website,followed up
+862,853,483,2023-04-19,email,followed up
+863,538,338,2023-12-27,website,open
+864,909,265,2021-11-30,website,followed up
+865,975,38,2023-01-02,website,closed
+866,101,323,2021-10-31,email,closed
+867,85,582,2024-06-12,referral,open
+868,652,739,2021-03-01,referral,closed
+869,426,170,2024-09-10,website,open
+870,303,601,2023-02-18,email,followed up
+871,151,539,2024-04-12,email,followed up
+872,849,856,2022-05-29,email,open
+873,96,620,2023-07-19,website,followed up
+874,508,956,2022-06-21,walk-in,followed up
+875,718,290,2023-10-19,website,followed up
+876,628,115,2023-11-02,phone,open
+877,449,322,2022-03-05,website,closed
+878,591,727,2021-06-08,website,open
+879,391,516,2023-12-16,website,followed up
+880,438,838,2023-04-07,phone,closed
+881,598,540,2022-08-30,referral,closed
+882,942,513,2022-06-16,website,followed up
+883,700,187,2022-12-26,email,followed up
+884,605,105,2022-05-12,website,followed up
+885,632,889,2023-02-10,phone,closed
+886,923,338,2024-01-20,phone,followed up
+887,824,658,2022-08-27,website,followed up
+888,797,294,2021-06-14,website,closed
+889,212,184,2022-02-22,website,followed up
+890,673,865,2023-12-19,website,closed
+891,889,858,2021-10-12,website,followed up
+892,477,355,2024-10-17,walk-in,open
+893,463,307,2021-09-01,email,followed up
+894,188,434,2024-02-22,phone,open
+895,201,429,2024-12-09,phone,closed
+896,561,260,2021-12-03,walk-in,closed
+897,553,22,2023-01-03,email,open
+898,81,997,2022-02-26,walk-in,followed up
+899,305,257,2023-08-28,website,followed up
+900,216,370,2022-07-05,website,closed
+901,544,166,2024-08-16,walk-in,closed
+902,362,476,2022-07-04,walk-in,followed up
+903,334,19,2023-02-20,phone,followed up
+904,1000,568,2023-03-20,referral,closed
+905,304,633,2023-03-20,email,open
+906,321,163,2022-09-15,email,followed up
+907,96,445,2023-12-04,website,closed
+908,65,186,2021-01-09,email,open
+909,932,65,2021-10-05,website,followed up
+910,123,890,2023-06-18,website,open
+911,719,549,2022-04-27,phone,open
+912,997,8,2021-07-08,referral,closed
+913,870,363,2023-01-08,phone,followed up
+914,176,344,2023-01-19,email,closed
+915,780,185,2021-12-25,walk-in,open
+916,634,216,2023-10-26,website,open
+917,799,918,2022-09-20,phone,open
+918,800,959,2021-12-16,walk-in,closed
+919,752,934,2024-08-28,website,closed
+920,878,690,2021-11-05,walk-in,closed
+921,679,345,2024-10-15,email,followed up
+922,845,327,2022-01-12,website,closed
+923,604,289,2024-08-01,phone,followed up
+924,885,960,2022-05-02,website,closed
+925,354,857,2023-02-22,website,followed up
+926,769,748,2023-01-19,referral,closed
+927,909,228,2021-05-15,referral,followed up
+928,296,577,2021-12-03,walk-in,open
+929,875,786,2024-07-27,phone,closed
+930,355,173,2024-11-16,website,closed
+931,677,21,2024-04-26,website,closed
+932,977,278,2022-08-19,referral,open
+933,388,359,2024-03-20,email,closed
+934,877,582,2024-05-29,phone,closed
+935,479,236,2023-06-21,phone,open
+936,214,596,2021-10-14,website,followed up
+937,348,470,2023-02-22,website,open
+938,366,685,2023-03-06,website,closed
+939,440,694,2023-10-01,website,closed
+940,361,95,2021-10-19,email,closed
+941,840,531,2023-08-15,email,followed up
+942,749,436,2022-07-10,walk-in,open
+943,794,264,2024-12-13,phone,closed
+944,716,374,2021-10-21,referral,open
+945,498,368,2023-07-12,email,followed up
+946,186,655,2023-12-08,website,open
+947,214,123,2024-02-03,referral,followed up
+948,760,798,2024-02-20,website,followed up
+949,906,495,2024-01-03,referral,closed
+950,831,730,2025-02-14,website,followed up
+951,111,466,2021-12-06,referral,followed up
+952,620,269,2021-09-25,website,followed up
+953,320,131,2024-01-04,walk-in,followed up
+954,745,863,2024-01-02,walk-in,followed up
+955,556,548,2022-02-27,website,closed
+956,160,402,2021-08-10,website,followed up
+957,483,459,2022-12-08,website,followed up
+958,946,801,2023-09-07,walk-in,followed up
+959,723,468,2024-01-19,walk-in,open
+960,722,890,2023-07-15,website,closed
+961,500,583,2024-07-08,phone,closed
+962,509,103,2023-06-16,website,followed up
+963,259,813,2023-09-02,website,closed
+964,221,398,2023-08-07,website,closed
+965,576,92,2023-08-09,phone,open
+966,408,355,2024-10-25,phone,followed up
+967,98,403,2024-07-07,website,followed up
+968,101,455,2022-03-03,referral,closed
+969,40,147,2021-10-07,website,closed
+970,896,526,2023-04-07,phone,closed
+971,654,313,2022-06-18,phone,closed
+972,114,671,2024-03-19,website,open
+973,91,205,2024-05-29,email,followed up
+974,909,23,2022-03-06,referral,open
+975,82,11,2022-10-10,website,followed up
+976,318,420,2024-02-11,referral,closed
+977,665,456,2022-08-28,website,followed up
+978,204,243,2022-05-10,website,closed
+979,275,187,2022-11-11,website,followed up
+980,417,491,2023-05-28,website,open
+981,54,376,2024-02-19,email,followed up
+982,148,421,2021-10-05,phone,closed
+983,994,324,2021-10-13,website,followed up
+984,348,747,2021-10-04,website,followed up
+985,382,19,2023-04-21,website,followed up
+986,517,296,2021-05-10,walk-in,closed
+987,764,453,2022-08-20,website,followed up
+988,420,42,2024-06-06,referral,closed
+989,355,182,2022-06-10,website,open
+990,990,660,2024-02-16,email,closed
+991,134,752,2021-10-30,phone,closed
+992,301,688,2021-08-14,phone,followed up
+993,819,643,2024-09-04,phone,closed
+994,575,613,2022-10-22,email,closed
+995,694,519,2024-10-17,email,followed up
+996,129,242,2022-01-21,website,followed up
+997,767,591,2021-09-13,referral,followed up
+998,481,393,2022-01-28,website,open
+999,559,775,2024-05-27,website,closed
+1000,625,688,2021-10-30,phone,closed
+1001,252,441,2022-08-22,website,closed
+1002,745,863,2024-02-21,website,open
+1003,624,91,2023-09-06,website,closed
+1004,703,558,2023-06-29,website,closed
+1005,376,452,2024-10-31,website,closed
+1006,629,852,2022-07-10,walk-in,followed up
+1007,461,791,2022-02-17,website,followed up
+1008,978,983,2022-06-24,website,closed
+1009,830,490,2021-10-11,website,closed
+1010,277,170,2024-08-07,email,open
+1011,716,947,2024-08-31,website,followed up
+1012,324,131,2023-09-29,referral,closed
+1013,183,742,2023-01-06,phone,followed up
+1014,862,111,2022-10-25,phone,followed up
+1015,164,977,2024-05-10,email,followed up
+1016,116,153,2021-07-04,email,open
+1017,129,190,2022-02-09,website,followed up
+1018,120,789,2023-11-08,website,open
+1019,717,463,2022-10-14,email,followed up
+1020,500,220,2023-05-05,referral,closed
+1021,351,990,2025-01-02,walk-in,open
+1022,772,213,2021-08-19,website,followed up
+1023,187,956,2022-12-21,email,closed
+1024,912,187,2022-11-09,referral,closed
+1025,384,165,2022-09-22,walk-in,followed up
+1026,481,82,2023-02-25,email,closed
+1027,658,96,2021-02-18,website,closed
+1028,675,677,2023-06-06,email,open
+1029,592,80,2022-11-18,website,followed up
+1030,81,235,2021-08-19,website,followed up
+1031,389,326,2022-04-29,walk-in,open
+1032,225,463,2022-10-30,website,followed up
+1033,633,58,2023-04-12,referral,closed
+1034,732,489,2023-06-22,website,followed up
+1035,782,759,2021-11-08,website,followed up
+1036,875,817,2023-09-25,email,closed
+1037,754,881,2023-09-18,referral,followed up
+1038,968,569,2023-04-25,email,closed
+1039,977,996,2022-06-30,website,followed up
+1040,216,279,2022-05-04,website,followed up
+1041,873,710,2025-03-10,website,closed
+1042,279,693,2023-08-04,website,followed up
+1043,684,627,2024-04-27,email,closed
+1044,784,854,2024-06-27,referral,followed up
+1045,328,909,2023-04-23,walk-in,closed
+1046,223,13,2023-12-01,referral,followed up
+1047,717,800,2023-12-28,website,followed up
+1048,506,270,2024-06-17,website,open
+1049,296,807,2023-10-29,website,followed up
+1050,275,176,2021-10-27,phone,followed up
+1051,75,258,2022-12-15,phone,closed
+1052,35,123,2024-02-05,website,followed up
+1053,414,973,2023-12-21,website,followed up
+1054,823,242,2021-12-20,phone,open
+1055,332,36,2024-03-11,phone,followed up
+1056,151,139,2022-12-31,email,closed
+1057,946,394,2024-08-28,email,closed
+1058,977,833,2021-07-09,phone,closed
+1059,240,130,2021-04-22,phone,followed up
+1060,518,163,2022-10-28,website,open
+1061,811,699,2024-02-12,phone,followed up
+1062,662,148,2024-06-12,website,followed up
+1063,981,985,2021-10-02,website,followed up
+1064,789,871,2022-06-13,website,closed
+1065,990,524,2024-06-18,website,followed up
+1066,854,295,2023-04-15,website,closed
+1067,692,724,2021-12-29,email,closed
+1068,643,257,2024-01-12,phone,followed up
+1069,504,784,2022-11-09,website,closed
+1070,698,884,2022-12-20,website,open
+1071,328,516,2023-10-03,website,closed
+1072,48,950,2023-03-03,phone,followed up
+1073,923,654,2022-08-17,website,followed up
+1074,71,919,2023-11-10,email,open
+1075,615,205,2024-06-27,email,closed
+1076,838,843,2025-03-10,website,closed
+1077,481,552,2022-04-02,email,followed up
+1078,446,125,2023-04-25,referral,open
+1079,484,255,2023-01-27,walk-in,closed
+1080,836,840,2024-01-08,phone,followed up
+1081,311,922,2022-02-14,website,closed
+1082,952,231,2021-08-28,walk-in,open
+1083,652,581,2024-10-14,referral,followed up
+1084,13,746,2022-10-14,walk-in,closed
+1085,375,925,2022-03-12,phone,open
+1086,315,49,2021-10-14,website,open
+1087,561,557,2022-08-02,website,open
+1088,716,37,2021-03-22,walk-in,followed up
+1089,528,356,2024-06-06,referral,open
+1090,120,980,2023-11-20,phone,open
+1091,531,678,2023-10-28,email,followed up
+1092,30,863,2024-02-02,website,followed up
+1093,909,94,2023-02-23,website,followed up
+1094,841,918,2022-11-27,website,followed up
+1095,963,532,2022-05-02,referral,closed
+1096,919,753,2023-10-19,referral,closed
+1097,774,964,2023-05-28,email,open
+1098,536,400,2022-04-27,email,followed up
+1099,253,272,2022-06-10,phone,closed
+1100,706,36,2024-07-30,email,closed
+1101,380,964,2023-08-29,referral,closed
+1102,193,520,2021-08-24,website,followed up
+1103,362,766,2024-08-20,referral,closed
+1104,397,196,2024-07-21,phone,followed up
+1105,520,10,2021-11-24,website,open
+1106,760,845,2024-10-12,website,followed up
+1107,379,960,2022-03-20,website,open
+1108,818,282,2021-01-23,website,open
+1109,352,78,2023-01-26,phone,open
+1110,246,359,2024-07-07,walk-in,followed up
+1111,21,916,2023-10-20,phone,followed up
+1112,202,750,2024-09-16,website,open
+1113,293,651,2023-10-01,phone,closed
+1114,318,917,2021-11-19,website,followed up
+1115,288,501,2023-11-05,referral,closed
+1116,326,912,2025-03-10,website,closed
+1117,524,264,2024-10-24,website,closed
+1118,906,21,2024-04-22,referral,open
+1119,362,822,2024-07-10,website,followed up
+1120,440,218,2024-03-15,phone,followed up
+1121,654,656,2024-05-22,website,open
+1122,686,101,2023-12-18,website,closed
+1123,85,889,2023-02-12,website,followed up
+1124,227,770,2025-03-10,website,followed up
+1125,133,523,2023-04-02,website,open
+1126,7,154,2021-11-10,email,open
+1127,78,191,2022-10-04,website,open
+1128,385,192,2024-08-12,referral,open
+1129,123,653,2022-05-18,website,closed
+1130,545,589,2021-07-16,website,closed
+1131,148,492,2022-11-25,walk-in,followed up
+1132,983,985,2021-08-31,email,closed
+1133,832,514,2021-08-02,phone,closed
+1134,791,881,2023-09-09,referral,followed up
+1135,139,800,2023-11-23,website,followed up
+1136,841,181,2022-03-06,website,closed
+1137,438,148,2024-05-15,email,followed up
+1138,524,123,2023-10-15,website,followed up
+1139,978,188,2022-11-04,walk-in,closed
+1140,40,216,2023-10-26,website,followed up
+1141,61,748,2022-07-20,website,open
+1142,259,541,2021-02-19,referral,followed up
+1143,605,418,2021-12-12,referral,closed
+1144,811,719,2022-06-02,phone,closed
+1145,917,689,2024-02-17,referral,closed
+1146,559,735,2024-01-12,website,followed up
+1147,977,785,2023-07-06,website,followed up
+1148,659,249,2022-01-29,walk-in,open
+1149,465,831,2024-03-03,phone,open
+1150,608,541,2021-08-03,website,followed up
+1151,872,350,2022-10-20,website,closed
+1152,936,33,2024-08-01,email,followed up
+1153,712,644,2022-03-08,website,closed
+1154,141,729,2024-08-10,email,open
+1155,777,656,2024-05-18,website,open
+1156,943,413,2022-05-09,website,followed up
+1157,654,705,2024-06-13,website,followed up
+1158,963,62,2022-06-18,email,followed up
+1159,264,348,2023-12-11,email,followed up
+1160,875,468,2024-02-04,phone,closed
+1161,710,659,2024-03-31,website,open
+1162,902,158,2023-04-06,email,closed
+1163,460,407,2024-12-06,website,closed
+1164,118,834,2021-11-22,referral,closed
+1165,509,862,2023-04-13,website,open
+1166,7,94,2022-12-28,email,open
+1167,532,496,2021-07-29,phone,followed up
+1168,846,872,2022-12-01,website,followed up
+1169,881,776,2023-05-09,website,closed
+1170,395,818,2024-07-12,referral,closed
+1171,31,317,2023-12-29,phone,open
+1172,945,257,2023-12-21,website,followed up
+1173,162,877,2022-04-23,website,followed up
+1174,926,431,2021-02-14,phone,closed
+1175,925,294,2021-10-08,email,followed up
+1176,622,62,2022-06-24,phone,closed
+1177,191,100,2023-11-11,website,open
+1178,212,765,2023-07-22,email,followed up
+1179,896,467,2021-11-18,referral,closed
+1180,724,814,2023-12-11,walk-in,closed
+1181,122,457,2023-04-09,walk-in,closed
+1182,792,25,2022-09-24,website,closed
+1183,658,275,2022-03-15,walk-in,followed up
+1184,506,120,2021-12-10,website,open
+1185,749,249,2022-04-07,phone,closed
+1186,64,986,2024-03-07,phone,followed up
+1187,72,521,2022-07-02,phone,followed up
+1188,386,9,2023-01-30,website,open
+1189,286,103,2023-07-08,email,open
+1190,506,896,2023-03-08,referral,closed
+1191,184,940,2021-12-09,website,followed up
+1192,575,176,2022-02-15,walk-in,closed
+1193,655,853,2023-09-16,website,closed
+1194,835,99,2021-12-14,website,closed
+1195,149,424,2022-08-18,referral,open
+1196,379,857,2023-02-05,phone,closed
+1197,530,819,2021-05-01,referral,followed up
+1198,59,949,2022-01-03,website,open
+1199,638,429,2024-09-26,walk-in,followed up
+1200,285,831,2024-01-27,email,open
+1201,195,948,2022-07-05,website,closed
+1202,617,302,2022-04-16,phone,followed up
+1203,748,173,2025-03-10,website,open
+1204,163,205,2024-06-09,website,followed up
+1205,202,800,2023-09-17,phone,closed
+1206,577,636,2025-03-10,email,closed
+1207,430,448,2023-03-25,email,open
+1208,923,862,2023-04-04,email,followed up
+1209,268,770,2025-02-12,website,open
+1210,332,66,2021-04-15,email,closed
+1211,782,816,2021-09-14,website,followed up
+1212,282,705,2024-06-11,website,closed
+1213,524,85,2022-01-30,website,followed up
+1214,913,653,2022-05-17,website,open
+1215,762,205,2024-06-22,website,followed up
+1216,694,394,2024-05-25,email,followed up
+1217,886,778,2024-08-27,email,open
+1218,549,50,2023-09-12,walk-in,open
+1219,315,150,2024-06-21,website,closed
+1220,594,583,2024-06-26,referral,closed
+1221,953,409,2023-08-11,website,followed up
+1222,76,154,2021-11-28,website,open
+1223,698,115,2023-11-19,website,followed up
+1224,915,962,2024-05-08,phone,closed
+1225,446,370,2022-05-30,phone,followed up
+1226,191,184,2021-07-16,website,closed
+1227,133,987,2022-11-02,website,open
+1228,196,421,2022-01-25,website,followed up
+1229,89,131,2024-01-18,phone,followed up
+1230,577,351,2021-10-30,website,followed up
+1231,612,982,2023-11-04,website,closed
+1232,433,846,2025-03-05,referral,closed
+1233,639,658,2022-08-26,walk-in,open
+1234,482,461,2021-02-08,referral,closed
+1235,426,963,2022-12-28,email,closed
+1236,304,707,2023-10-02,email,followed up
+1237,64,924,2022-10-21,walk-in,closed
+1238,280,672,2021-04-03,website,open
+1239,194,936,2021-06-07,phone,followed up
+1240,923,151,2023-09-01,walk-in,closed
+1241,377,817,2023-08-15,email,followed up
+1242,743,302,2022-03-26,website,closed
+1243,520,88,2024-08-20,email,followed up
+1244,386,526,2023-04-24,referral,open
+1245,727,775,2023-12-21,website,open
+1246,90,428,2024-01-21,website,closed
+1247,286,529,2022-08-11,website,open
+1248,796,613,2022-10-31,walk-in,followed up
+1249,775,554,2024-10-08,email,closed
+1250,591,226,2021-02-08,phone,closed
+1251,622,734,2024-12-07,email,closed
+1252,721,198,2024-08-03,referral,followed up
+1253,340,671,2024-04-18,website,followed up
+1254,446,771,2021-06-12,email,open
+1255,196,546,2024-04-09,website,closed
+1256,416,898,2024-11-03,website,closed
+1257,906,920,2021-12-30,website,closed
+1258,670,440,2022-07-30,email,followed up
+1259,218,321,2022-07-07,website,open
+1260,422,833,2021-07-16,website,followed up
+1261,232,895,2022-09-26,phone,followed up
+1262,841,956,2022-10-08,referral,open
+1263,877,473,2024-01-04,referral,followed up
+1264,523,369,2021-05-01,website,open
+1265,109,741,2022-06-19,email,closed
+1266,334,775,2024-04-29,website,open
+1267,110,985,2021-11-07,website,followed up
+1268,96,907,2023-09-15,phone,open
+1269,705,890,2023-06-07,referral,open
+1270,349,864,2024-08-03,website,followed up
+1271,149,916,2024-02-19,referral,followed up
+1272,11,214,2025-01-05,website,followed up
+1273,292,15,2024-02-02,website,open
+1274,120,403,2024-07-01,website,closed
+1275,477,211,2023-01-22,website,closed
+1276,368,746,2022-07-23,website,open
+1277,783,715,2023-05-06,website,closed
+1278,260,444,2024-08-19,website,followed up
+1279,943,749,2024-03-10,referral,open
+1280,388,523,2022-12-10,website,followed up
+1281,561,887,2023-10-16,website,closed
+1282,612,630,2022-12-03,referral,closed
+1283,862,105,2021-12-19,website,followed up
+1284,331,172,2023-02-21,phone,followed up
+1285,400,956,2022-07-26,website,closed
+1286,208,942,2024-01-20,walk-in,open
+1287,724,496,2021-09-27,website,followed up
+1288,269,359,2024-06-26,walk-in,followed up
+1289,67,523,2022-10-30,referral,open
+1290,15,487,2023-11-04,email,open
+1291,548,612,2022-03-18,website,closed
+1292,160,325,2024-08-22,website,followed up
+1293,958,184,2021-07-14,website,followed up
+1294,889,352,2022-01-01,phone,followed up
+1295,755,567,2022-03-20,email,followed up
+1296,279,128,2022-09-07,email,closed
+1297,111,257,2024-04-06,website,followed up
+1298,523,533,2022-09-27,email,open
+1299,462,721,2021-02-18,website,followed up
+1300,324,830,2023-01-13,phone,open
+1301,64,985,2021-09-02,referral,closed
+1302,784,409,2023-11-11,website,closed
+1303,662,532,2022-03-01,walk-in,followed up
+1304,896,333,2022-12-06,referral,followed up
+1305,379,143,2023-04-30,website,followed up
+1306,957,44,2024-03-06,phone,followed up
+1307,872,781,2023-02-13,website,closed
+1308,766,182,2022-08-13,phone,open
+1309,458,734,2025-02-08,referral,closed
+1310,708,555,2022-08-15,phone,closed
+1311,417,936,2021-06-05,referral,followed up
+1312,872,991,2023-07-28,website,followed up
+1313,794,90,2024-04-10,website,closed
+1314,284,855,2021-06-15,email,closed
+1315,384,514,2021-12-14,email,followed up
+1316,967,844,2022-06-15,email,closed
+1317,320,535,2024-05-04,referral,followed up
+1318,775,380,2022-04-03,email,followed up
+1319,260,890,2023-06-04,website,followed up
+1320,483,890,2023-07-07,phone,followed up
+1321,943,331,2023-06-04,website,closed
+1322,121,121,2021-01-23,walk-in,closed
+1323,900,191,2022-09-03,email,closed
+1324,861,185,2021-12-24,website,followed up
+1325,600,699,2024-06-12,email,followed up
+1326,626,770,2024-09-23,email,closed
+1327,96,789,2024-01-20,website,closed
+1328,221,615,2024-01-29,walk-in,followed up
+1329,355,219,2022-02-02,phone,followed up
+1330,491,697,2023-01-29,phone,closed
+1331,929,677,2023-11-23,email,open
+1332,786,984,2023-03-25,walk-in,closed
+1333,230,328,2023-10-27,phone,open
+1334,572,538,2023-06-15,website,followed up
+1335,7,648,2023-12-13,website,followed up
+1336,48,877,2022-05-17,website,closed
+1337,830,172,2023-03-16,website,open
+1338,535,766,2023-12-28,website,closed
+1339,813,524,2024-06-17,website,closed
+1340,225,111,2022-07-18,email,open
+1341,649,345,2024-11-07,email,closed
+1342,776,369,2021-06-01,walk-in,open
+1343,461,809,2022-11-23,email,open
+1344,256,300,2022-12-20,website,followed up
+1345,929,204,2023-07-19,email,closed
+1346,766,13,2023-12-22,phone,followed up
+1347,968,915,2023-03-07,phone,followed up
+1348,188,471,2021-11-03,website,open
+1349,885,407,2024-10-31,website,followed up
+1350,361,305,2022-06-06,phone,open
+1351,553,933,2023-12-15,referral,open
+1352,670,343,2021-11-01,phone,open
+1353,797,353,2021-05-05,website,closed
+1354,385,854,2024-08-17,phone,followed up
+1355,697,931,2022-08-24,referral,closed
+1356,379,127,2021-12-28,website,closed
+1357,809,541,2021-01-17,website,open
+1358,823,889,2023-02-12,walk-in,followed up
+1359,191,892,2024-11-09,phone,closed
+1360,235,426,2021-10-08,website,followed up
+1361,721,456,2022-07-19,phone,open
+1362,380,992,2024-07-11,website,open
+1363,718,526,2023-05-04,phone,followed up
+1364,163,774,2023-05-02,phone,closed
+1365,981,724,2021-12-07,website,followed up
+1366,775,886,2023-08-02,website,followed up
+1367,362,926,2023-01-17,website,followed up
+1368,398,981,2023-04-14,website,open
+1369,122,861,2022-09-11,walk-in,followed up
+1370,408,514,2021-07-04,walk-in,closed
+1371,976,264,2025-01-30,website,followed up
+1372,760,860,2022-01-17,referral,closed
+1373,518,881,2023-10-23,phone,followed up
+1374,317,777,2023-12-11,email,followed up
+1375,635,88,2024-05-25,referral,followed up
+1376,227,361,2021-07-21,email,closed
+1377,518,212,2023-12-15,walk-in,followed up
+1378,878,187,2022-10-24,website,closed
+1379,86,965,2023-08-07,walk-in,closed
+1380,724,143,2023-04-23,website,followed up
+1381,776,288,2023-08-06,walk-in,closed
+1382,794,970,2024-08-02,website,followed up
+1383,661,501,2024-02-16,website,followed up
+1384,416,441,2022-09-17,phone,followed up
+1385,796,19,2023-04-20,phone,followed up
+1386,463,2,2024-05-05,website,followed up
+1387,200,392,2022-01-21,website,followed up
+1388,643,692,2024-05-12,email,closed
+1389,881,451,2022-12-31,phone,closed
+1390,11,426,2021-11-02,email,followed up
+1391,668,416,2022-12-14,email,open
+1392,691,337,2022-05-29,website,followed up
+1393,786,231,2021-08-17,phone,closed
+1394,40,789,2024-03-04,website,closed
+1395,139,594,2022-11-08,website,closed
+1396,757,730,2025-02-04,email,open
+1397,360,467,2021-08-13,walk-in,followed up
+1398,951,682,2024-01-06,phone,closed
+1399,498,282,2021-01-14,phone,open
+1400,300,690,2021-05-12,email,open
+1401,889,675,2022-09-19,website,open
+1402,348,418,2021-12-08,website,followed up
+1403,369,383,2024-02-07,email,closed
+1404,119,608,2022-06-24,website,closed
+1405,388,686,2022-10-25,website,closed
+1406,286,201,2022-04-10,phone,followed up
+1407,227,417,2024-10-17,referral,followed up
+1408,420,76,2023-03-25,referral,closed
+1409,942,684,2022-05-02,phone,open
+1410,511,792,2022-11-08,website,open
+1411,686,537,2023-05-30,website,open
+1412,128,421,2021-11-04,website,open
+1413,536,78,2022-12-23,website,closed
+1414,14,811,2024-08-28,phone,followed up
+1415,672,34,2023-08-06,website,followed up
+1416,643,544,2021-06-18,email,closed
+1417,932,391,2023-11-14,website,closed
+1418,700,362,2022-09-25,email,followed up
+1419,191,739,2021-05-13,referral,closed
+1420,218,535,2024-02-07,phone,followed up
+1421,116,936,2021-06-03,phone,open
+1422,717,430,2022-11-01,website,followed up
+1423,764,561,2023-10-14,website,open
+1424,889,944,2022-04-20,email,closed
+1425,200,364,2023-11-04,email,followed up
+1426,915,202,2022-05-06,website,followed up
+1427,909,140,2023-10-16,referral,open
+1428,854,439,2023-11-16,phone,followed up
+1429,700,572,2023-06-01,website,closed
+1430,605,330,2023-02-08,phone,closed
+1431,944,890,2023-08-01,walk-in,closed
+1432,459,387,2023-10-06,phone,closed
+1433,772,879,2024-09-06,website,followed up
+1434,711,778,2024-09-04,website,followed up
+1435,788,409,2023-08-21,phone,closed
+1436,553,493,2021-07-02,website,open
+1437,431,44,2024-04-24,phone,followed up
+1438,282,206,2023-11-01,email,closed
+1439,61,258,2022-07-21,website,closed
+1440,682,372,2021-08-13,email,followed up
+1441,432,794,2021-08-20,email,closed
+1442,657,857,2022-11-27,referral,followed up
+1443,122,238,2021-03-20,website,closed
+1444,968,650,2022-08-19,website,open
+1445,70,682,2024-01-24,website,followed up
+1446,914,747,2021-10-21,phone,open
+1447,201,186,2021-01-18,website,followed up
+1448,601,565,2021-12-03,phone,open
+1449,799,69,2021-12-23,website,closed
+1450,232,467,2021-07-13,walk-in,closed
+1451,824,512,2022-04-08,email,open
+1452,976,688,2021-09-04,website,closed
+1453,254,85,2022-01-21,email,open
+1454,160,883,2024-07-24,website,closed
+1455,936,487,2023-12-03,website,closed
+1456,117,947,2024-09-23,website,closed
+1457,993,610,2022-06-20,walk-in,followed up
+1458,143,471,2021-10-31,walk-in,followed up
+1459,628,534,2023-06-26,website,open
+1460,121,640,2024-05-04,email,followed up
+1461,538,145,2021-09-15,phone,followed up
+1462,792,495,2024-01-12,walk-in,closed
+1463,360,85,2021-12-27,referral,followed up
+1464,532,744,2021-10-24,website,closed
+1465,448,237,2021-04-28,website,open
+1466,266,153,2021-09-06,website,followed up
+1467,150,102,2023-07-24,email,open
+1468,328,617,2022-03-16,website,closed
+1469,671,933,2023-12-19,website,closed
+1470,789,30,2023-06-07,referral,followed up
+1471,953,45,2023-11-20,website,open
+1472,658,392,2022-01-10,email,followed up
+1473,188,382,2021-12-08,website,followed up
+1474,511,102,2023-07-01,walk-in,open
+1475,51,595,2024-03-08,website,followed up
+1476,37,638,2021-08-23,phone,followed up
+1477,67,593,2021-11-16,phone,followed up
+1478,896,558,2023-08-17,email,open
+1479,44,465,2022-03-07,website,open
+1480,73,560,2024-07-14,walk-in,closed
+1481,465,71,2021-11-11,website,followed up
+1482,948,148,2024-07-27,email,closed
+1483,993,904,2022-06-30,website,open
+1484,133,829,2023-05-09,email,closed
+1485,309,59,2022-06-17,phone,followed up
+1486,218,37,2021-05-17,phone,closed
+1487,811,192,2024-10-01,website,closed
+1488,133,467,2022-01-17,walk-in,followed up
+1489,899,266,2023-09-02,referral,closed
+1490,721,31,2023-09-26,email,open
+1491,634,29,2021-07-17,website,followed up
+1492,368,822,2024-07-15,email,closed
+1493,978,712,2023-09-03,website,closed
+1494,581,999,2022-09-07,email,closed
+1495,427,939,2021-09-11,website,closed
+1496,255,853,2023-09-18,referral,open
+1497,307,504,2024-09-09,email,followed up
+1498,745,600,2021-06-24,website,followed up
+1499,523,439,2023-08-03,phone,followed up
+1500,136,493,2021-05-21,website,open
+1501,264,49,2021-10-14,website,followed up
+1502,797,788,2023-02-03,website,open
+1503,632,749,2024-01-28,website,closed
+1504,508,714,2024-06-11,website,followed up
+1505,570,523,2022-09-06,website,open
+1506,920,177,2024-12-02,email,followed up
+1507,824,11,2022-09-12,email,followed up
+1508,76,511,2023-12-19,website,followed up
+1509,106,979,2022-08-20,website,followed up
+1510,492,243,2022-12-12,website,followed up
+1511,243,821,2024-04-30,referral,open
+1512,545,542,2021-07-12,email,followed up
+1513,465,432,2022-12-26,website,followed up
+1514,621,399,2024-01-30,email,closed
+1515,594,136,2023-10-24,website,closed
+1516,646,535,2024-01-22,walk-in,open
+1517,708,526,2023-03-25,phone,closed
+1518,902,99,2021-10-13,website,followed up
+1519,334,868,2021-05-31,referral,closed
+1520,200,958,2024-01-26,website,open
+1521,628,149,2023-03-17,website,closed
+1522,679,894,2024-02-12,website,closed
+1523,748,918,2022-06-29,phone,open
+1524,358,457,2023-01-19,website,followed up
+1525,395,437,2023-10-20,website,closed
+1526,668,543,2021-07-29,phone,closed
+1527,677,157,2022-04-08,website,closed
+1528,747,260,2022-01-22,email,followed up
+1529,105,34,2023-11-10,phone,open
+1530,246,758,2022-06-29,email,closed
+1531,606,785,2023-06-29,website,closed
+1532,922,640,2024-06-18,email,closed
+1533,845,574,2021-04-29,phone,closed
+1534,788,296,2021-03-11,website,closed
+1535,948,234,2023-01-19,website,open
+1536,811,609,2022-06-13,website,closed
+1537,901,374,2021-09-02,phone,followed up
+1538,180,649,2022-11-07,website,closed
+1539,78,936,2021-07-02,walk-in,closed
+1540,54,448,2023-08-28,phone,closed
+1541,218,696,2022-05-21,referral,closed
+1542,317,998,2023-04-12,website,closed
+1543,977,697,2022-08-20,email,followed up
+1544,925,788,2023-04-13,referral,open
+1545,917,624,2022-01-14,website,closed
+1546,360,478,2024-01-24,website,followed up
+1547,814,653,2022-01-09,website,closed
+1548,380,931,2022-08-28,walk-in,open
+1549,621,993,2024-07-29,email,open
+1550,254,14,2022-07-16,website,closed
+1551,414,23,2022-03-19,website,closed
+1552,772,586,2023-12-06,email,closed
+1553,917,52,2022-09-05,referral,followed up
+1554,176,553,2023-09-29,email,open
+1555,373,976,2021-07-02,phone,open
+1556,269,937,2022-07-01,phone,closed
+1557,122,524,2024-06-04,walk-in,open
+1558,672,267,2021-06-18,phone,open
+1559,803,706,2025-01-16,website,followed up
+1560,355,3,2023-10-03,email,closed
+1561,732,394,2024-08-05,phone,followed up
+1562,939,621,2022-12-25,website,followed up
+1563,610,643,2024-08-10,referral,followed up
+1564,439,766,2024-02-06,phone,closed
+1565,19,397,2023-08-23,website,closed
+1566,841,51,2022-08-27,website,open
+1567,225,846,2025-03-10,website,closed
+1568,694,450,2023-01-15,website,followed up
+1569,962,188,2022-11-27,email,closed
+1570,376,487,2023-08-12,website,closed
+1571,508,845,2024-10-20,email,closed
+1572,449,202,2022-04-06,referral,followed up
+1573,622,15,2024-03-13,walk-in,closed
+1574,95,655,2024-02-20,website,followed up
+1575,589,465,2021-10-12,referral,open
+1576,710,828,2024-01-19,website,closed
+1577,496,921,2023-08-10,website,followed up
+1578,606,803,2021-04-28,phone,closed
+1579,326,622,2021-07-03,website,closed
+1580,288,197,2023-06-30,referral,followed up
+1581,360,734,2025-01-09,website,followed up
+1582,707,308,2022-12-06,email,followed up
+1583,923,885,2022-10-07,website,closed
+1584,373,753,2023-07-07,website,followed up
+1585,984,482,2023-03-06,website,followed up
+1586,177,686,2022-10-06,website,closed
+1587,432,935,2024-04-26,phone,closed
+1588,754,70,2021-09-23,walk-in,followed up
+1589,528,615,2024-01-15,referral,followed up
+1590,300,724,2021-12-30,phone,open
+1591,192,799,2023-04-30,website,closed
+1592,391,24,2024-01-20,walk-in,open
+1593,823,514,2021-11-11,phone,followed up
+1594,240,340,2021-08-17,phone,followed up
+1595,706,436,2022-09-28,website,followed up
+1596,177,238,2021-05-04,referral,followed up
+1597,835,195,2025-01-07,phone,closed
+1598,119,23,2022-03-16,email,followed up
+1599,57,171,2023-06-06,walk-in,followed up
+1600,754,292,2022-01-25,walk-in,closed
+1601,76,899,2024-09-02,email,closed
+1602,288,839,2022-09-24,website,closed
+1603,307,614,2022-07-08,website,followed up
+1604,997,84,2021-06-08,email,followed up
+1605,653,953,2022-12-04,website,closed
+1606,901,213,2021-07-30,phone,closed
+1607,789,722,2021-10-31,walk-in,closed
+1608,984,78,2023-02-03,website,closed
+1609,147,499,2024-10-07,website,followed up
+1610,448,405,2023-07-30,website,closed
+1611,836,406,2021-10-08,website,open
+1612,164,858,2021-05-07,referral,closed
+1613,741,362,2023-01-10,referral,closed
+1614,620,847,2023-08-14,email,followed up
+1615,904,478,2023-09-17,website,followed up
+1616,913,780,2024-02-29,referral,closed
+1617,427,464,2023-08-04,website,open
+1618,931,372,2021-06-22,phone,closed
+1619,655,7,2021-11-30,referral,followed up
+1620,349,850,2024-02-17,phone,open
+1621,335,799,2023-04-23,email,followed up
+1622,705,514,2021-12-13,website,closed
+1623,624,912,2025-03-10,website,followed up
+1624,70,904,2022-08-11,website,closed
+1625,968,534,2023-02-17,phone,followed up
+1626,141,297,2021-01-30,website,closed
+1627,861,746,2022-11-04,email,closed
+1628,884,244,2024-09-11,website,closed
+1629,414,491,2023-07-04,website,open
+1630,101,64,2024-10-29,website,closed
+1631,673,919,2024-02-16,referral,closed
+1632,655,908,2023-12-22,phone,open
+1633,954,800,2024-01-05,website,followed up
+1634,64,233,2022-05-30,phone,followed up
+1635,274,156,2023-01-06,phone,closed
+1636,939,571,2022-05-01,walk-in,open
+1637,945,169,2021-09-01,phone,followed up
+1638,207,659,2024-04-03,email,closed
+1639,997,943,2021-06-25,website,open
+1640,196,551,2021-09-11,website,followed up
+1641,279,209,2022-10-17,website,open
+1642,714,33,2024-08-04,email,closed
+1643,58,709,2024-02-02,email,open
+1644,761,289,2024-08-30,website,closed
+1645,640,747,2021-07-14,website,followed up
+1646,831,967,2022-04-27,phone,closed
+1647,776,264,2024-11-13,website,closed
+1648,953,685,2022-08-23,email,followed up
+1649,738,563,2024-08-02,email,followed up
+1650,16,352,2022-02-24,walk-in,followed up
+1651,766,546,2024-04-03,email,closed
+1652,285,433,2023-12-30,website,closed
+1653,629,807,2023-10-01,email,followed up
+1654,826,322,2022-03-04,phone,closed
+1655,260,885,2022-09-04,website,followed up
+1656,72,463,2022-10-13,referral,closed
+1657,180,405,2023-07-28,website,followed up
+1658,878,97,2023-07-08,walk-in,closed
+1659,604,459,2022-09-02,website,closed
+1660,655,286,2021-04-17,website,closed
+1661,442,811,2024-09-13,walk-in,open
+1662,762,145,2021-09-27,website,followed up
+1663,654,776,2023-05-10,website,closed
+1664,37,252,2023-05-04,website,closed
+1665,294,245,2024-01-05,website,followed up
+1666,226,111,2022-07-26,phone,followed up
+1667,265,694,2023-07-30,walk-in,followed up
+1668,723,33,2024-08-24,phone,open
+1669,619,616,2024-08-03,email,open
+1670,90,822,2024-08-16,referral,closed
+1671,789,303,2021-09-18,phone,closed
+1672,426,319,2024-04-26,walk-in,open
+1673,646,4,2023-10-25,email,closed
+1674,184,791,2022-01-14,referral,open
+1675,76,232,2022-01-25,referral,open
+1676,136,681,2021-11-28,phone,open
+1677,640,283,2024-02-25,phone,closed
+1678,1000,708,2024-03-05,email,followed up
+1679,997,296,2021-03-12,website,followed up
+1680,38,30,2023-05-13,website,followed up
+1681,449,416,2022-08-23,website,followed up
+1682,556,550,2023-12-16,website,closed
+1683,597,101,2024-01-07,walk-in,open
+1684,110,884,2023-04-20,website,closed
+1685,177,360,2021-02-14,email,followed up
+1686,221,72,2023-09-28,email,open
+1687,35,922,2021-11-26,website,followed up
+1688,330,722,2021-09-28,website,open
+1689,873,759,2021-11-26,email,closed
+1690,433,375,2023-02-12,phone,followed up
+1691,397,257,2024-04-07,email,followed up
+1692,870,426,2021-09-20,website,closed
+1693,978,919,2023-07-18,email,followed up
+1694,772,781,2023-02-07,email,open
+1695,718,97,2023-06-29,website,followed up
+1696,180,828,2024-03-01,website,followed up
+1697,446,910,2021-06-06,walk-in,closed
+1698,279,266,2023-09-26,website,open
+1699,472,109,2023-06-17,website,followed up
+1700,459,65,2021-09-27,website,open
+1701,139,631,2024-10-04,phone,followed up
+1702,705,250,2021-12-02,website,open
+1703,608,227,2022-11-02,referral,closed
+1704,605,646,2022-07-03,referral,closed
+1705,200,34,2023-11-30,referral,open
+1706,748,682,2024-03-30,website,followed up
+1707,745,644,2022-07-27,website,followed up
+1708,875,332,2024-03-08,website,closed
+1709,247,800,2023-10-16,phone,open
+1710,721,813,2024-01-06,website,open
+1711,317,364,2023-11-10,referral,open
+1712,109,124,2023-01-02,phone,followed up
+1713,322,569,2023-04-16,phone,followed up
+1714,712,113,2023-05-06,website,closed
+1715,823,887,2023-08-23,website,open
+1716,328,55,2022-06-15,phone,closed
+1717,480,370,2022-07-16,email,closed
+1718,786,936,2021-09-12,website,open
+1719,974,70,2021-08-17,walk-in,closed
+1720,646,574,2021-03-07,website,followed up
+1721,433,295,2023-06-03,phone,followed up
+1722,676,74,2021-05-03,email,followed up
+1723,697,452,2024-11-18,website,closed
+1724,178,565,2021-10-20,referral,followed up
+1725,95,942,2024-01-28,referral,followed up
+1726,610,935,2024-08-02,website,followed up
+1727,24,47,2021-11-01,phone,closed
+1728,91,775,2024-02-28,website,followed up
+1729,496,178,2021-12-14,email,open
+1730,799,905,2021-05-21,website,followed up
+1731,437,853,2023-11-09,phone,open
+1732,962,494,2021-06-04,website,closed
+1733,57,588,2023-07-04,website,followed up
+1734,508,78,2022-12-07,email,closed
+1735,565,876,2022-04-14,website,followed up
+1736,177,36,2024-06-22,email,followed up
+1737,741,458,2023-01-07,referral,open
+1738,743,11,2023-03-21,website,followed up
+1739,726,35,2023-09-13,phone,followed up
+1740,912,181,2022-03-25,email,open
+1741,577,688,2021-10-15,website,followed up
+1742,818,934,2024-09-03,website,followed up
+1743,899,856,2022-07-15,phone,followed up
+1744,143,396,2022-10-24,email,closed
+1745,556,43,2022-04-27,website,followed up
+1746,736,233,2022-10-23,website,followed up
+1747,565,197,2023-07-30,website,closed
+1748,426,146,2024-06-03,website,followed up
+1749,559,933,2023-12-23,email,closed
+1750,440,106,2021-07-11,walk-in,followed up
+1751,718,262,2022-09-22,phone,closed
+1752,596,780,2024-07-11,referral,closed
+1753,321,239,2022-08-12,website,open
+1754,292,881,2023-07-27,website,closed
+1755,300,327,2022-05-23,website,open
+1756,431,325,2024-04-19,referral,open
+1757,317,404,2021-06-15,website,followed up
+1758,572,174,2021-09-28,website,closed
+1759,706,434,2024-05-25,website,followed up
+1760,142,144,2024-06-08,website,followed up
+1761,805,238,2021-03-08,email,followed up
+1762,957,774,2023-08-05,referral,open
+1763,293,332,2024-02-05,website,open
+1764,994,812,2024-05-13,email,followed up
+1765,712,537,2023-08-05,website,followed up
+1766,976,793,2024-01-27,phone,followed up
+1767,838,666,2021-10-28,website,followed up
+1768,377,487,2023-10-04,website,closed
+1769,958,886,2023-08-26,website,closed
+1770,831,512,2022-05-05,email,closed
+1771,318,466,2021-11-22,walk-in,open
+1772,946,161,2022-07-23,email,closed
+1773,716,893,2023-09-03,email,followed up
+1774,668,329,2021-11-14,referral,followed up
+1775,280,745,2024-10-22,phone,closed
+1776,301,392,2022-03-02,referral,followed up
+1777,845,938,2023-07-28,website,followed up
+1778,440,717,2021-04-22,email,closed
+1779,1000,5,2022-05-16,website,followed up
+1780,400,31,2023-12-29,referral,followed up
+1781,787,472,2021-11-15,website,followed up
+1782,184,378,2022-10-30,website,followed up
+1783,942,390,2023-12-20,referral,open
+1784,741,545,2021-08-08,referral,closed
+1785,462,993,2024-03-31,referral,followed up
+1786,942,696,2022-07-10,website,followed up
+1787,307,811,2024-10-27,phone,closed
+1788,626,746,2022-12-13,website,closed
+1789,358,458,2022-12-24,website,closed
+1790,293,416,2022-08-08,email,followed up
+1791,523,381,2024-07-30,walk-in,followed up
+1792,850,389,2024-06-08,website,closed
+1793,707,37,2021-06-03,walk-in,followed up
+1794,699,638,2021-05-04,referral,open
+1795,655,567,2022-01-23,email,closed
+1796,262,525,2022-12-23,email,closed
+1797,957,844,2022-10-02,email,followed up
+1798,813,997,2022-03-12,website,open
+1799,313,361,2021-08-15,website,open
+1800,739,279,2022-07-22,website,closed
+1801,917,75,2023-08-22,website,open
+1802,747,64,2024-08-02,website,followed up
+1803,448,965,2023-11-09,walk-in,closed
+1804,335,177,2025-02-27,website,open
+1805,498,780,2024-05-29,website,followed up
+1806,830,248,2021-09-07,website,closed
+1807,482,756,2023-04-22,walk-in,followed up
+1808,912,873,2022-08-01,email,closed
+1809,398,279,2022-12-06,phone,closed
+1810,565,392,2022-02-22,walk-in,closed
+1811,76,494,2021-04-26,website,followed up
+1812,324,855,2021-08-13,email,open
+1813,351,542,2021-04-22,website,closed
+1814,13,326,2022-05-17,phone,closed
+1815,900,48,2023-05-23,website,followed up
+1816,681,230,2021-03-01,website,closed
+1817,165,827,2021-12-16,referral,closed
+1818,146,340,2021-09-15,website,followed up
+1819,680,832,2021-12-20,email,followed up
+1820,90,375,2022-11-25,phone,followed up
+1821,326,890,2023-07-02,website,closed
+1822,44,439,2023-04-12,email,closed
+1823,133,908,2023-12-11,website,open
+1824,797,477,2023-10-24,website,closed
+1825,581,945,2022-09-27,website,followed up
+1826,531,193,2024-11-11,referral,closed
+1827,760,478,2023-09-04,website,closed
+1828,613,697,2022-08-02,website,closed
+1829,798,975,2022-11-18,phone,followed up
+1830,369,295,2023-08-16,phone,followed up
+1831,256,300,2023-01-01,website,followed up
+1832,684,199,2024-07-11,phone,closed
+1833,482,609,2022-06-14,website,followed up
+1834,296,836,2023-03-31,phone,closed
+1835,861,438,2024-11-30,email,open
+1836,268,653,2022-04-16,walk-in,closed
+1837,576,997,2022-04-25,website,followed up
+1838,54,449,2023-09-18,phone,open
+1839,694,858,2021-08-03,referral,followed up
+1840,806,278,2022-08-11,website,closed
+1841,416,310,2023-08-29,referral,closed
+1842,330,644,2022-01-27,phone,open
+1843,929,932,2023-09-08,email,closed
+1844,238,537,2023-08-02,email,open
+1845,750,631,2024-08-27,email,closed
+1846,247,771,2021-06-07,website,closed
+1847,134,995,2022-07-04,website,closed
+1848,12,287,2023-05-04,email,followed up
+1849,191,967,2022-08-28,website,followed up
+1850,707,426,2021-11-28,website,closed
+1851,874,133,2022-09-24,email,closed
+1852,517,806,2025-01-31,walk-in,followed up
+1853,360,323,2021-10-05,phone,open
+1854,560,945,2022-09-12,website,closed
+1855,657,85,2022-02-27,walk-in,open
+1856,959,39,2022-03-11,email,followed up
+1857,90,714,2024-04-24,phone,open
+1858,429,932,2023-03-17,phone,closed
+1859,627,501,2023-09-19,phone,followed up
+1860,220,202,2022-04-09,phone,followed up
+1861,987,389,2024-05-09,email,closed
+1862,662,47,2021-11-29,website,followed up
+1863,275,98,2024-08-17,website,open
+1864,408,996,2022-05-23,email,open
+1865,154,22,2023-03-07,email,followed up
+1866,875,789,2024-04-21,referral,followed up
+1867,114,188,2022-12-01,email,closed
+1868,30,581,2024-09-29,email,followed up
+1869,330,380,2022-04-04,email,closed
+1870,220,627,2024-04-27,email,open
+1871,330,213,2021-06-28,phone,open
+1872,766,634,2022-06-10,website,closed
+1873,379,810,2023-06-26,phone,open
+1874,577,646,2022-06-22,referral,closed
+1875,885,37,2021-06-15,website,followed up
+1876,465,197,2023-05-26,walk-in,closed
+1877,711,258,2022-10-05,website,followed up
+1878,698,909,2023-07-18,phone,closed
+1879,274,414,2024-05-16,email,followed up
+1880,231,339,2021-06-21,email,followed up
+1881,72,292,2022-01-26,website,followed up
+1882,611,413,2022-03-10,email,closed
+1883,531,37,2021-06-05,website,open
+1884,128,502,2023-11-28,website,closed
+1885,227,242,2021-12-07,phone,closed
+1886,105,911,2024-07-03,referral,closed
+1887,591,907,2023-08-21,website,open
+1888,490,7,2021-06-21,email,closed
+1889,141,188,2022-11-27,email,closed
+1890,332,928,2022-08-16,email,closed
+1891,111,344,2022-09-30,website,followed up
+1892,490,382,2021-08-08,website,closed
+1893,491,752,2021-09-14,email,followed up
+1894,560,522,2022-03-30,website,open
+1895,953,562,2021-12-18,website,open
+1896,303,755,2022-10-24,website,closed
+1897,751,515,2023-01-01,referral,open
+1898,687,584,2024-08-16,website,closed
+1899,990,359,2024-04-23,website,closed
+1900,181,373,2023-08-21,website,followed up
+1901,296,654,2022-08-20,website,followed up
+1902,106,58,2023-04-15,phone,closed
+1903,984,411,2024-04-27,website,open
+1904,626,203,2023-04-19,website,followed up
+1905,253,528,2021-06-18,referral,open
+1906,710,600,2021-05-18,phone,followed up
+1907,280,875,2021-03-13,website,open
+1908,439,671,2024-03-24,website,open
+1909,679,251,2023-08-01,website,closed
+1910,439,174,2021-10-20,website,followed up
+1911,826,458,2022-12-10,referral,open
+1912,769,950,2023-01-17,phone,closed
+1913,900,428,2024-01-20,phone,closed
+1914,974,897,2024-03-07,website,open
+1915,307,496,2021-10-04,referral,followed up
+1916,420,651,2023-11-26,email,closed
+1917,278,564,2022-03-18,website,closed
+1918,212,612,2022-05-06,email,followed up
+1919,959,669,2022-01-20,website,followed up
+1920,749,715,2023-04-21,phone,closed
+1921,498,268,2024-03-22,phone,followed up
+1922,919,597,2023-11-04,website,closed
+1923,57,807,2023-09-01,website,followed up
+1924,946,660,2024-03-09,email,closed
+1925,707,682,2024-04-14,website,followed up
+1926,947,255,2023-02-12,website,closed
+1927,548,94,2023-01-25,referral,closed
+1928,326,859,2023-03-19,referral,followed up
+1929,778,849,2023-04-10,website,open
+1930,555,787,2022-07-04,website,closed
+1931,286,674,2023-08-14,email,followed up
+1932,523,673,2022-02-08,website,closed
+1933,819,171,2023-04-30,email,followed up
+1934,12,70,2021-10-15,phone,open
+1935,798,729,2024-07-17,website,followed up
+1936,708,568,2023-03-13,website,followed up
+1937,143,818,2024-01-24,website,open
+1938,988,326,2022-05-28,website,followed up
+1939,278,370,2022-07-02,email,open
+1940,519,429,2024-12-13,website,closed
+1941,634,966,2021-11-24,phone,closed
+1942,703,300,2022-12-05,website,open
+1943,123,394,2024-07-04,website,open
+1944,643,430,2022-10-08,website,open
+1945,572,294,2021-10-13,referral,followed up
+1946,677,714,2024-10-31,phone,followed up
+1947,193,239,2022-12-21,website,followed up
+1948,621,350,2022-11-27,website,open
+1949,983,881,2023-08-07,phone,closed
+1950,901,490,2021-08-07,walk-in,followed up
+1951,629,481,2023-12-11,referral,closed
+1952,939,113,2023-05-28,website,closed
+1953,114,838,2023-06-20,phone,followed up
+1954,301,631,2024-05-31,website,closed
+1955,872,110,2024-06-27,referral,closed
+1956,875,630,2023-01-11,website,open
+1957,120,407,2024-10-23,email,closed
+1958,644,382,2021-10-31,phone,closed
+1959,736,28,2022-10-14,phone,closed
+1960,393,546,2023-12-11,email,followed up
+1961,861,992,2024-07-31,website,followed up
+1962,755,93,2022-05-13,website,followed up
+1963,315,157,2022-04-07,referral,closed
+1964,318,334,2021-05-07,email,followed up
+1965,33,818,2024-08-07,email,open
+1966,438,764,2021-11-21,email,followed up
+1967,368,904,2022-08-28,referral,followed up
+1968,832,608,2022-06-12,referral,followed up
+1969,968,323,2021-10-19,website,closed
+1970,694,745,2024-04-08,website,closed
+1971,345,731,2021-12-12,walk-in,open
+1972,649,505,2021-11-05,email,followed up
+1973,952,665,2024-08-02,walk-in,followed up
+1974,916,851,2023-04-19,website,followed up
+1975,181,45,2024-01-11,website,followed up
+1976,610,807,2023-08-21,email,followed up
+1977,936,651,2023-09-02,website,open
+1978,628,625,2021-07-01,email,closed
+1979,939,401,2023-06-24,email,closed
+1980,805,964,2023-08-13,website,followed up
+1981,687,602,2021-05-10,referral,open
+1982,482,522,2022-07-24,website,followed up
+1983,320,232,2022-01-10,website,followed up
+1984,978,334,2021-05-15,website,followed up
+1985,412,51,2022-08-19,referral,followed up
+1986,398,817,2023-09-09,website,closed
+1987,397,483,2023-04-06,phone,followed up
+1988,904,733,2024-02-12,phone,followed up
+1989,596,147,2021-11-05,phone,followed up
+1990,819,97,2023-05-11,website,followed up
+1991,840,829,2022-11-30,website,followed up
+1992,1000,825,2022-08-21,email,followed up
+1993,575,848,2024-04-14,phone,followed up
+1994,676,976,2021-08-03,referral,followed up
+1995,417,143,2023-06-30,website,open
+1996,235,22,2023-06-15,website,closed
+1997,694,873,2022-06-12,phone,followed up
+1998,595,6,2023-01-03,website,open
+1999,606,754,2024-01-30,website,closed
+2000,268,642,2023-12-31,website,open
+2001,819,626,2024-08-12,referral,closed
+2002,382,347,2021-10-28,phone,followed up
+2003,80,999,2022-09-17,email,closed
+2004,974,421,2022-02-08,phone,followed up
+2005,309,31,2023-12-03,website,closed
+2006,637,625,2021-03-06,website,closed
+2007,596,268,2024-05-14,website,followed up
+2008,256,578,2021-03-31,phone,followed up
+2009,375,717,2021-06-08,website,closed
+2010,111,176,2022-01-07,email,closed
+2011,338,682,2023-12-04,phone,closed
+2012,508,81,2022-12-03,walk-in,open
+2013,388,150,2024-06-10,phone,closed
+2014,875,77,2024-10-30,referral,closed
+2015,838,606,2024-09-12,phone,closed
+2016,67,326,2022-04-06,phone,closed
+2017,699,955,2021-08-13,referral,followed up
+2018,335,233,2022-08-07,website,followed up
+2019,854,312,2023-02-06,website,closed
+2020,928,763,2021-08-12,email,closed
+2021,975,33,2024-06-26,website,closed
+2022,486,533,2022-10-11,phone,open
+2023,324,255,2023-02-25,email,closed
+2024,440,918,2022-10-12,phone,followed up
+2025,789,834,2022-01-02,phone,followed up
+2026,177,906,2022-05-03,email,closed
+2027,945,219,2022-02-13,phone,closed
+2028,465,112,2021-12-16,email,open
+2029,460,810,2023-05-27,phone,open
+2030,214,473,2024-04-19,email,closed
+2031,814,426,2021-10-13,referral,followed up
+2032,628,506,2024-07-11,website,closed
+2033,327,178,2022-03-01,phone,closed
+2034,346,216,2023-10-24,phone,followed up
+2035,861,760,2022-05-03,phone,closed
+2036,622,895,2022-11-21,email,closed
+2037,284,549,2021-11-10,website,closed
+2038,183,909,2023-10-05,website,followed up
+2039,653,387,2023-07-31,website,open
+2040,672,499,2025-01-08,phone,followed up
+2041,606,361,2021-10-29,phone,closed
+2042,226,955,2021-10-08,phone,open
+2043,525,969,2024-03-13,email,followed up
+2044,712,149,2023-03-02,website,open
+2045,761,47,2021-10-27,referral,followed up
+2046,305,700,2024-12-30,walk-in,closed
+2047,361,884,2023-03-06,referral,followed up
+2048,927,950,2023-04-23,email,open
+2049,851,681,2021-10-20,email,closed
+2050,180,370,2022-07-13,phone,open
+2051,873,329,2021-06-28,website,followed up
+2052,882,819,2021-04-27,website,followed up
+2053,576,205,2024-06-09,website,followed up
+2054,54,80,2023-01-11,phone,open
+2055,797,108,2023-06-27,phone,followed up
+2056,388,31,2023-12-24,phone,closed
+2057,772,722,2021-11-01,website,followed up
+2058,48,671,2024-05-02,website,closed
+2059,966,907,2023-09-03,walk-in,closed
+2060,874,745,2024-08-27,email,closed
+2061,483,808,2022-03-18,email,followed up
+2062,417,374,2021-08-10,referral,open
+2063,382,699,2024-02-20,referral,closed
+2064,697,994,2025-01-12,email,open
+2065,188,829,2023-06-26,website,followed up
+2066,811,310,2023-12-18,website,followed up
+2067,622,377,2023-07-24,email,closed
+2068,225,295,2023-08-06,website,closed
+2069,876,669,2022-03-03,referral,open
+2070,324,855,2021-06-19,phone,closed
+2071,275,93,2022-05-08,website,followed up
+2072,693,254,2021-09-11,phone,closed
+2073,301,744,2021-08-28,phone,followed up
+2074,54,426,2021-09-20,referral,followed up
+2075,736,254,2021-06-08,website,closed
+2076,556,522,2022-02-16,website,closed
+2077,196,704,2022-06-06,email,open
+2078,538,360,2021-03-30,referral,closed
+2079,124,283,2024-02-19,website,followed up
+2080,629,354,2024-08-25,email,closed
+2081,212,361,2021-08-22,website,closed
+2082,315,39,2022-04-06,referral,closed
+2083,673,942,2024-01-18,website,open
+2084,629,488,2021-08-21,phone,followed up
+2085,927,957,2022-11-22,walk-in,closed
+2086,149,164,2023-11-15,email,closed
+2087,778,423,2022-07-14,referral,open
+2088,495,266,2023-09-04,website,closed
+2089,24,621,2022-12-13,website,open
+2090,420,42,2024-08-10,website,followed up
+2091,102,247,2022-06-18,website,closed
+2092,398,515,2023-01-28,email,open
+2093,141,363,2022-12-29,phone,open
+2094,646,122,2021-03-01,walk-in,closed
+2095,700,80,2022-12-29,website,closed
+2096,851,84,2021-05-20,email,closed
+2097,146,978,2025-02-18,phone,open
+2098,622,203,2023-01-19,referral,closed
+2099,119,608,2022-06-04,email,closed
+2100,920,661,2024-03-24,walk-in,closed
+2101,492,533,2022-10-25,website,closed
+2102,208,473,2024-02-03,website,closed
+2103,872,696,2022-06-07,referral,open
+2104,761,648,2024-02-02,website,closed
+2105,570,101,2023-10-18,email,closed
+2106,271,354,2025-03-01,referral,closed
+2107,328,293,2022-05-21,website,followed up
+2108,625,279,2022-08-17,referral,closed
+2109,109,72,2023-09-25,phone,followed up
+2110,945,94,2022-12-31,website,followed up
+2111,877,536,2023-04-19,email,closed
+2112,739,139,2023-01-07,walk-in,closed
+2113,783,890,2023-06-25,phone,closed
+2114,445,868,2021-09-23,website,followed up
+2115,303,933,2023-12-27,email,closed
+2116,769,798,2023-12-25,phone,open
+2117,476,290,2023-10-16,referral,followed up
+2118,462,94,2023-02-09,email,closed
+2119,749,283,2024-02-16,website,followed up
+2120,1000,23,2022-03-16,email,followed up
+2121,886,856,2022-07-07,walk-in,closed
+2122,731,323,2021-10-21,phone,followed up
+2123,504,338,2023-12-16,walk-in,followed up
+2124,990,834,2021-12-15,website,open
+2125,487,977,2024-05-07,phone,followed up
+2126,121,522,2022-06-25,website,closed
+2127,748,86,2023-07-16,phone,followed up
+2128,544,915,2023-01-24,phone,open
+2129,222,573,2022-01-23,website,open
+2130,968,33,2024-03-24,phone,open
+2131,71,468,2024-01-08,referral,closed
+2132,184,78,2022-12-14,website,closed
+2133,659,896,2023-03-03,website,closed
+2134,528,562,2021-12-09,phone,closed
+2135,266,748,2022-08-06,walk-in,followed up
+2136,909,554,2025-03-07,phone,followed up
+2137,114,570,2021-10-28,website,open
+2138,560,372,2021-06-16,email,closed
+2139,231,457,2022-11-02,email,open
+2140,429,906,2022-04-30,phone,closed
+2141,919,795,2021-12-21,website,followed up
+2142,885,960,2022-04-02,website,closed
+2143,751,963,2023-04-26,website,closed
+2144,621,934,2024-08-28,email,followed up
+2145,331,332,2024-03-13,website,closed
+2146,154,852,2022-07-02,email,followed up
+2147,322,78,2022-12-11,email,closed
+2148,981,913,2021-08-04,email,closed
+2149,676,746,2022-09-07,email,followed up
+2150,388,903,2022-03-09,email,followed up
+2151,922,85,2022-02-22,website,followed up
+2152,268,274,2024-01-12,website,followed up
+2153,984,171,2023-05-19,walk-in,followed up
+2154,680,574,2021-04-28,website,followed up
+2155,1000,408,2022-05-30,walk-in,closed
+2156,805,223,2021-06-28,phone,followed up
+2157,681,988,2023-10-30,referral,followed up
+2158,15,699,2024-01-06,walk-in,closed
+2159,504,700,2024-11-14,referral,followed up
+2160,335,635,2021-05-07,walk-in,closed
+2161,509,733,2024-01-28,website,followed up
+2162,111,149,2023-06-01,phone,followed up
+2163,449,997,2022-03-31,phone,closed
+2164,861,332,2023-12-30,walk-in,closed
+2165,240,696,2022-04-25,website,followed up
+2166,901,633,2022-08-14,phone,closed
+2167,187,899,2024-08-21,referral,closed
+2168,757,971,2023-10-16,walk-in,followed up
+2169,933,426,2021-09-09,website,open
+2170,707,189,2021-10-08,website,closed
+2171,165,424,2022-07-21,website,closed
+2172,764,834,2021-11-15,referral,closed
+2173,160,460,2024-05-10,website,followed up
+2174,307,214,2024-11-06,website,closed
+2175,462,1,2021-10-25,website,open
+2176,255,717,2021-05-18,website,followed up
+2177,703,150,2024-06-21,website,open
+2178,574,532,2022-05-12,website,closed
+2179,50,566,2024-12-28,email,followed up
+2180,330,380,2022-03-29,website,followed up
+2181,705,514,2021-11-11,phone,closed
+2182,216,834,2022-03-09,email,open
+2183,265,621,2023-01-25,website,closed
+2184,340,381,2024-08-16,website,closed
+2185,671,614,2022-09-11,website,open
+2186,511,537,2023-06-26,referral,followed up
+2187,915,971,2023-12-11,website,followed up
+2188,760,800,2023-10-31,phone,open
+2189,900,583,2024-06-28,phone,closed
+2190,530,762,2022-05-25,email,closed
+2191,874,217,2021-10-15,website,closed
+2192,604,953,2022-11-21,website,followed up
+2193,192,311,2022-09-12,website,followed up
+2194,948,607,2024-08-09,website,closed
+2195,699,822,2024-10-10,referral,open
+2196,506,595,2024-10-16,website,followed up
+2197,774,565,2021-12-23,email,open
+2198,311,969,2024-03-05,walk-in,closed
+2199,535,761,2022-01-23,website,closed
+2200,614,386,2024-04-23,referral,open
+2201,277,291,2023-09-24,phone,followed up
+2202,196,422,2024-11-19,phone,closed
+2203,653,522,2022-01-13,website,followed up
+2204,183,407,2024-10-10,phone,closed
+2205,817,123,2023-10-22,website,followed up
+2206,222,359,2024-06-28,website,closed
+2207,814,322,2022-03-15,phone,closed
+2208,394,232,2021-12-28,email,followed up
+2209,16,446,2024-11-05,walk-in,followed up
+2210,336,885,2022-10-04,phone,closed
+2211,286,877,2022-06-18,walk-in,closed
+2212,676,753,2024-01-06,website,followed up
+2213,760,63,2021-09-05,website,closed
+2214,968,61,2021-08-23,website,closed
+2215,259,2,2024-05-05,website,followed up
+2216,635,596,2021-12-15,email,followed up
+2217,491,509,2023-10-21,email,followed up
+2218,900,609,2022-06-03,referral,followed up
+2219,181,384,2021-12-19,website,closed
+2220,304,31,2023-10-07,phone,closed
+2221,712,550,2024-01-16,website,closed
+2222,218,268,2024-03-23,email,closed
+2223,357,172,2023-02-28,referral,open
+2224,811,989,2024-05-21,website,followed up
+2225,397,201,2022-05-14,website,closed
+2226,758,693,2023-08-01,email,followed up
+2227,612,442,2023-09-12,email,followed up
+2228,609,697,2022-09-26,email,open
+2229,739,783,2022-01-05,email,closed
+2230,644,157,2022-05-05,website,followed up
+2231,977,278,2022-07-18,website,closed
+2232,303,637,2024-04-29,phone,followed up
+2233,358,919,2023-09-13,website,closed
+2234,50,967,2022-07-15,email,closed
+2235,520,650,2022-09-05,website,open
+2236,535,323,2021-11-01,website,closed
+2237,196,267,2021-04-23,walk-in,followed up
+2238,796,479,2023-05-02,referral,followed up
+2239,845,721,2021-02-24,email,followed up
+2240,17,501,2023-09-07,website,closed
+2241,803,621,2022-08-21,phone,closed
+2242,841,236,2023-06-16,email,closed
+2243,335,880,2024-03-02,email,followed up
+2244,606,981,2023-03-14,website,closed
+2245,877,163,2022-11-11,referral,closed
+2246,723,753,2023-09-15,website,closed
+2247,718,776,2023-06-19,email,followed up
+2248,191,489,2023-06-15,website,followed up
+2249,867,244,2024-07-29,website,open
+2250,256,230,2021-02-11,website,closed
+2251,151,529,2022-06-13,website,followed up
+2252,42,627,2024-05-20,referral,open
+2253,699,293,2022-07-10,referral,followed up
+2254,205,24,2023-10-04,website,open
+2255,954,990,2024-12-03,website,closed
+2256,477,996,2022-07-04,phone,open
+2257,984,83,2021-11-14,phone,followed up
+2258,91,607,2024-05-23,website,closed
+2259,255,534,2023-03-25,email,closed
+2260,67,148,2024-08-14,website,open
+2261,36,142,2024-05-31,phone,followed up
+2262,868,421,2022-01-28,referral,open
+2263,966,540,2022-12-05,website,followed up
+2264,959,527,2021-08-08,referral,followed up
+2265,766,66,2021-04-07,website,open
+2266,846,230,2021-03-16,phone,open
+2267,804,463,2022-10-22,phone,followed up
+2268,721,20,2023-07-05,referral,followed up
+2269,392,780,2024-08-12,website,followed up
+2270,736,387,2023-10-23,website,open
+2271,622,358,2023-04-21,referral,closed
+2272,498,147,2021-12-08,phone,closed
+2273,723,700,2024-10-14,website,closed
+2274,96,299,2021-08-12,phone,followed up
+2275,82,852,2022-06-26,referral,closed
+2276,26,9,2022-12-11,referral,open
+2277,445,265,2021-09-20,phone,followed up
+2278,705,605,2023-11-26,phone,closed
+2279,139,241,2023-10-02,website,closed
+2280,635,78,2023-01-17,phone,closed
+2281,511,506,2024-01-09,email,open
+2282,755,855,2021-06-21,website,followed up
+2283,693,76,2023-02-27,phone,closed
+2284,240,942,2024-01-10,email,followed up
+2285,61,933,2023-12-29,phone,followed up
+2286,944,596,2021-10-19,website,closed
+2287,294,186,2021-01-25,phone,closed
+2288,965,905,2021-06-26,referral,followed up
+2289,58,642,2023-11-03,website,followed up
+2290,482,907,2023-08-15,referral,closed
+2291,772,141,2024-08-07,walk-in,closed
+2292,629,359,2024-10-15,phone,closed
+2293,925,562,2022-01-09,referral,followed up
+2294,50,714,2024-08-09,email,followed up
+2295,460,859,2023-07-14,phone,followed up
+2296,10,109,2023-05-07,website,closed
+2297,583,921,2023-05-30,website,followed up
+2298,170,155,2022-04-13,email,closed
+2299,835,639,2023-06-05,phone,followed up
+2300,896,90,2023-09-15,email,closed
+2301,238,661,2024-04-11,referral,closed
+2302,710,783,2022-01-03,referral,closed
+2303,950,582,2024-04-21,website,followed up
+2304,274,790,2021-04-18,website,open
+2305,210,69,2021-09-06,email,followed up
+2306,268,366,2023-02-02,website,closed
+2307,878,319,2024-05-27,website,closed
+2308,608,558,2023-07-19,website,closed
+2309,253,270,2023-11-11,email,followed up
+2310,150,161,2022-07-09,email,closed
+2311,906,184,2022-01-05,website,closed
+2312,758,778,2024-07-18,website,closed
+2313,187,126,2021-08-08,phone,open
+2314,591,390,2023-11-09,website,followed up
+2315,227,419,2023-07-18,phone,open
+2316,335,360,2021-02-05,email,followed up
+2317,192,715,2023-07-06,website,followed up
+2318,91,564,2022-03-01,referral,open
+2319,255,34,2024-01-30,phone,closed
+2320,512,989,2024-07-02,phone,followed up
+2321,795,643,2024-07-20,phone,closed
+2322,230,876,2022-05-14,email,followed up
+2323,806,460,2024-07-07,email,followed up
+2324,709,457,2022-12-25,website,open
+2325,65,488,2021-07-29,walk-in,followed up
+2326,769,522,2022-01-18,website,open
+2327,554,958,2024-02-09,walk-in,open
+2328,611,719,2022-01-30,website,closed
+2329,573,300,2022-11-25,website,followed up
+2330,884,837,2022-05-24,website,closed
+2331,589,63,2021-10-31,referral,open
+2332,461,915,2023-04-30,phone,followed up
+2333,594,973,2023-10-21,referral,closed
+2334,262,129,2022-04-27,phone,followed up
+2335,458,514,2021-08-16,phone,open
+2336,151,711,2022-11-09,email,open
+2337,375,570,2021-08-11,phone,closed
+2338,782,87,2022-10-06,email,followed up
+2339,716,507,2021-09-12,email,closed
+2340,841,120,2021-08-30,phone,closed
+2341,481,158,2023-05-08,walk-in,closed
+2342,13,776,2023-05-06,website,followed up
+2343,192,907,2023-08-12,website,open
+2344,682,600,2021-05-30,website,closed
+2345,403,640,2024-04-17,walk-in,closed
+2346,21,113,2023-07-20,website,closed
+2347,286,415,2022-03-21,referral,closed
+2348,487,17,2024-05-17,walk-in,open
+2349,760,143,2023-05-20,email,closed
+2350,146,536,2023-07-29,website,followed up
+2351,983,342,2023-01-31,website,followed up
+2352,861,609,2022-08-31,referral,followed up
+2353,335,187,2022-11-20,walk-in,closed
+2354,286,931,2022-09-06,website,open
+2355,836,541,2021-05-20,phone,followed up
+2356,31,599,2023-03-31,website,followed up
+2357,150,657,2024-10-19,website,closed
+2358,989,450,2022-12-12,website,followed up
+2359,105,409,2023-06-05,website,closed
+2360,317,848,2024-02-20,website,open
+2361,536,987,2023-01-31,website,open
+2362,679,367,2023-12-27,email,followed up
+2363,931,575,2023-05-17,website,open
+2364,412,328,2023-08-06,email,closed
+2365,150,121,2021-01-21,website,closed
+2366,804,816,2021-08-31,website,followed up
+2367,572,172,2023-02-12,website,open
+2368,227,770,2024-09-24,website,closed
+2369,349,709,2024-02-17,walk-in,followed up
+2370,72,186,2021-01-14,referral,closed
+2371,275,835,2022-02-23,website,followed up
+2372,722,743,2022-01-23,website,followed up
+2373,889,427,2021-08-08,website,followed up
+2374,663,283,2024-03-01,website,closed
+2375,373,242,2021-10-01,website,closed
+2376,253,466,2021-12-27,website,closed
+2377,163,910,2021-07-20,website,followed up
+2378,181,611,2021-10-05,website,closed
+2379,591,971,2024-02-08,referral,followed up
+2380,19,227,2022-12-31,referral,followed up
+2381,484,209,2022-07-18,email,followed up
+2382,214,266,2023-10-05,walk-in,open
+2383,873,66,2021-04-24,website,closed
+2384,195,125,2023-04-18,phone,closed
+2385,511,851,2023-06-08,website,closed
+2386,278,235,2021-08-12,email,followed up
+2387,275,116,2021-06-06,email,open
+2388,40,178,2021-09-24,website,closed
+2389,109,235,2021-09-11,website,open
+2390,44,470,2023-01-23,website,followed up
+2391,633,55,2022-11-07,website,closed
+2392,736,715,2023-06-20,walk-in,open
+2393,958,966,2022-01-03,website,closed
+2394,525,253,2023-08-25,phone,followed up
+2395,796,354,2025-02-18,walk-in,closed
+2396,633,992,2024-07-31,phone,followed up
+2397,82,91,2023-09-09,referral,followed up
+2398,615,700,2024-12-04,website,followed up
+2399,886,943,2021-06-21,website,followed up
+2400,576,154,2021-11-21,email,open

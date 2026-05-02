@@ -1,0 +1,25 @@
+neighborhood_id,neighborhood_name,borough_or_city,state
+1,Upper East Side,Manhattan,NY
+2,Upper West Side,Manhattan,NY
+3,Chelsea,Manhattan,NY
+4,Greenwich Village,Manhattan,NY
+5,Tribeca,Manhattan,NY
+6,SoHo,Manhattan,NY
+7,Financial District,Manhattan,NY
+8,Williamsburg,Brooklyn,NY
+9,Park Slope,Brooklyn,NY
+10,DUMBO,Brooklyn,NY
+11,Astoria,Queens,NY
+12,Long Island City,Queens,NY
+13,Flushing,Queens,NY
+14,Forest Hills,Queens,NY
+15,Riverdale,Bronx,NY
+16,St. George,Staten Island,NY
+17,Downtown Jersey City,Jersey City,NJ
+18,Jersey City Waterfront,Jersey City,NJ
+19,Hoboken Waterfront,Hoboken,NJ
+20,Montclair Center,Montclair,NJ
+21,Downtown Stamford,Stamford,CT
+22,Greenwich Downtown,Greenwich,CT
+23,Downtown Bridgeport,Bridgeport,CT
+24,West Hartford Center,West Hartford,CT
