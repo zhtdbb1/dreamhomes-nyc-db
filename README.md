@@ -131,7 +131,7 @@ The queries make extensive use of CTEs, window functions (`RANK`, `ROW_NUMBER`, 
 
 A four-dashboard reporting layer was built in **Metabase**, connected directly to the PostgreSQL database:
 
-1. [**Executive Revenue Overview**](Metabase%20Dashborad/Executive%20Overview.pdf) — KPIs (active listings, closed transactions, total commission), revenue trends, sale vs. rental split. Aimed at the CEO and CFO.
+1. [**Executive Revenue Overview**](Metabase%20Dashborad/Exectutive%20Overview.pdf) — KPIs (active listings, closed transactions, total commission), revenue trends, sale vs. rental split. Aimed at the CEO and CFO.
 
 2. [**Agent & Office Performance**](Metabase%20Dashborad/Agent%20&%20Office%20Performance.pdf) — Top agents by commission and deal count, office-level rankings, agent conversion rates. Aimed at sales managers and regional directors.
 
