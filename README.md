@@ -46,7 +46,7 @@ The schema satisfies Third Normal Form. Each table represents one entity type, n
 
 ### ER Diagram
 
-![ER Diagram](Group_project_ER_diagram.png)
+![ER Diagram](ER_diagram.png)
 
 An interactive version is also available on [Lucidchart](https://lucid.app/lucidchart/a24bd5b7-3b4f-4cac-801a-9d881439bb8e/edit).
 
@@ -147,13 +147,4 @@ A four-dashboard reporting layer was built in **Metabase**, connected directly t
 - **Diagramming:** Lucidchart
 - **Version control:** Git / GitHub
 
----
 
-## Contributors
-
-| Contributor | Role |
-| --- | --- |
-| Yuyang Dai | Project Coordination & Documentation |
-| Chengwei Zhang | Database, ETL & Schema |
-| Haotian Zhu | Analytics & SQL Development |
-| Liuyang Li | Dashboards & Presentation |
